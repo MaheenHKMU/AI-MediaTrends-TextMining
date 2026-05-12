@@ -1,0 +1,477 @@
+Machine Learning: A
+Revolution of News Writing
+and Digital Era
+
+Abstract: Aim of this study is systematic analysis of machine learning (ML) on the journalism and news writing.
+In today's digital era a full understanding of the effects of ML integration in many dimensions of the media
+landscape is provided through many literatures that highlights key themes and ideas. This study examines
+dynamics, content generation and curation and use of nature language processing (NLP) in news writing. The
+theoretical foundations is ML in media sector, and ethical concerns. The will study explains how ML can change
+the media industry by making automated data analysis possible through (NLP), enhancing content creation and
+curation, personalising user experiences via ML. This study will also examine efficiency, customisation, and
+creativity are advantages of ML, privacy issues, biases displacement, and news bias all require careful study. The
+results highlight the need for moral guidelines, skill-updating techniques, and ethical ML practises. The study
+shall contribute to the corpus of existing knowledge and shapes the course of AI and ML which will take in the
+media industry by flagging research gaps.
+Keywords: Artificial intelligence (AI), machine learning (ML), impact, news, writing
+
+I INTRODUCTION:
+The digital revolution that began in the late 20th century transformed journalism fundamentally. The rise of the
+internet enabled instantaneous access to information and the emergence of online news platforms. Traditional
+media faced challenges in adapting to this new landscape, where audiences expected immediate updates and
+diverse sources of information. The development of news websites, blogs, and social media platforms
+democratized news creation, empowering everyday citizens to share and report news. Digital journalism employs
+various media forms-text, audio, video, infographics-to create richer storytelling experiences. This multimedia
+approach enhances audience engagement and provides more context. Digital platforms allow for breaking news
+to be reported instantly, leading to a shift in expectations for news consumption. Audiences demand timely updates
+and frequent reporting. The shiftto digital requires new ethical frameworks to address challenges like data privacy,
+transparency, and responsible reporting. Journalists must adapt their roles to navigate these complexities
+effectively. As technology continues to evolve, the future of journalism will likely feature further integration of
+artificial intelligence, virtual reality, and interactive storytelling techniques. These advancements promise to
+create even more dynamic and engaging forms of reporting. Journalists will need to embrace these changes while
+holding steadfast to their commitment to truth and credibility in an ever-changing landscape.
+
+
+Machine learning (ML) has become a transformative force in journalism, leveraging its ability to analyze vast
+datasets, identify patterns, and automate various processes within the media industry. Machine learning (ML) is
+transforming the traditional methods of news writing and editing, enabling media organizations to generate
+content faster, reduce operational costs, and maintain higher accuracy. News writing and editing involve not just
+crafting a compelling narrative but also ensuring factual accuracy, adherence to stylistic guidelines, and relevance
+to the target audience-all areas where ML is proving invaluable.
+ML refers to a subset of artificial intelligence (AI) where systems learn from data, adapt, and improve their
+performance without explicit programming. In journalism, ML has introduced tools and techniques that allow
+media organizations to produce, curate, and disseminate content more efficiently and effectively, adapting to the
+evolving demands of the digital era.
+One of the most notable applications of ML in journalism is natural language processing (NLP), which powers
+tools like automated content generation and sentiment analysis. NLP algorithms enable machines to understand,
+
+
+interpret, and generate human language, revolutionizing how news is written and tailored for audiences. For
+instance, The Associated Press (AP) uses ML-powered tools to automate the generation of financial and sports
+reports. By doing so, the AP has drastically increased its output, publishing thousands of earnings reports each
+quarter while allowing journalists to focus on more in-depth investigative stories.
+Another significant application is real-time data analysis, which enables journalists to derive insights from vast
+amounts of structured and unstructured data. Tools like Google's Pinpoint help investigative journalists analyze
+thousands of documents, transcripts, and emails to uncover stories more quickly. For example, during the Panama
+Papers investigation, ML algorithms were instrumental in sifting through 11.5 million leaked documents,
+identifying connections between entities and helping journalists piece together one of the largest exposés in
+modern history.
+ML thrives on data, and journalism is increasingly data-driven. Tools like Tableau and Datawrapper, which
+integrate ML algorithms, help journalists visualize complex datasets, turning raw numbers into compelling,
+interactive narratives. Media organizations must strive for transparency regarding how AI is used in news
+production. Disclosing algorithmic processes and decision-making criteria not only builds trust with audiences
+but also allows for accountability.
+To combat bias, it is essential to utilize diverse and comprehensive datasets for training journalistic algorithms.
+Ensuring that data represents various demographics and viewpoints can help create fairer AI systems.
+
+II THEORETICAL FRAMEWORK:
+This study is grounded in theories of media evolution and technology adoption, particularly focusing on the role
+of machine learning as a transformative force in journalism.
+Drawing from McLuhan's theory of media as an extension of human cognition, ML in journalism can be seen as
+a tool that extends the capabilities of journalists by automating repetitive tasks, analyzing vast datasets, and
+generating insights in real-time. ML exemplifies the "medium as the message," as its integration changes not only
+how
+Challenges: Ethical concerns around algorithmic bias, displacement of human jobs, and privacy issues.
+
+Era Key Features Characteristics Challenges
+Origins of - Oral storytelling Primarily word-ofmouth
+Traditional
+Journalism - Written documentation in
+ancient civilizations
+- Lack of mass
+communication methods
+- Limited access to news
+Growth of Print
+Media
+- Rise of newspapers in the
+18th century
+- Detailed reporting
+Increased literacy and
+affordable print media
+Investigative
+journalism
+Limited immediacy and
+geographic reach
+- Introduction of radio and
+television
+Sensationalized
+reporting
+Broadcasting Era
+Digital Technology
+- Real-time news coverage
+- Emergence of the internet
+Online news platforms and
+social media
+- Focus on audio and
+visual engagement
+Immediacy and realtime reporting
+- Multimedia integration
+- Competition for audience
+attention
+Misinformation and
+credibility issues
+
+Digital Journalism
+Tailored content
+interaction with audiences
+and
+- Interactivity Economic strain on
+traditional revenue models
+- Community engagement - Personalization
+- Further integration of AI,
+Future of VR. and interactive
+Journalism storytelling
+Emphasis on
+innovation and
+adaptation
+Navigating ethical
+standards and privacy
+issues
+
+
+III METHODOLOGY:
+NLP forms the backbone of many ML applications in journalism. This study is written descriptive research
+methodology type to systematically analyse the integration of machine learning (ML) in journalism and news
+writing. By focusing on existing literature, theoretical frameworks, and case studies, the study aims to identify
+key patterns and implications for contemporary changes and future of journalism. This paper is primarily relies
+on secondary data collected from credible sources such as peer-reviewed journals, industry reports, white papers,
+books, and case studies. A qualitative content analysis approach is adopted to extract relevant insights and trends
+from the literature. Themes such as automated content generation, Natural Language Processing (NLP),
+personalization, and ethical concerns are analysed in-depth.
+Case Studies:
+In order to illustrate the usefulness and limitations of machine learning in newsrooms, real-world instances of its
+integration in journalism are investigated, including the employment of Heliograf at The Washington Post and
+ClaimBuster's fact-checking features.
+Exploratory Phase:
+A review ofliterature to identify the key dimensions of ML in journalism, such as dynamics of content generation,
+curation, and ethical challenges. Detailed analysis of the identified dimensions, focusing on how ML is enhancing
+efficiency, customization, and creativity in news writing while addressing ethical concerns like bias and privacy.
+
+IV FINDING & DISCUSSION:
+Several major news organizations have successfully integrated ML into their workflows, yielding tangible results.
+For instance, Reuters has developed an AI-powered tool called Lynx Insight, which assists journalists by
+suggesting story ideas based on data patterns. Instead of replacing journalists, Lynx Insight complements their
+expertise, enabling data-driven storytelling. Similarly, The Washington Post's proprietary ML-powered tool,
+Heliograf, automates the generation of hyperlocal news and sports stories.
+During the 2016 U.S. elections, Heliograf generated over 500 stories, proving its ability to scale content
+production without compromising accuracy. In broadcasting, real-time transcription and translation have seen
+significant improvements with ML. Media outlets like BBC and Al Jazeera use ML-driven tools to provide
+subtitles and translations for live broadcasts, ensuring accessibility for diverse audiences. Furthermore, MLpowered social media analytics tools help journalists monitor breaking news trends and public sentiment, often
+uncovering stories before they become mainstream.
+The evolution from traditional journalism to digital reporting reflects significant technological advancements and
+shifts in societal needs over centuries. Traditional journalism began with oral storytelling in ancient cultures,
+where information was transmitted through word of mouth. With the advent of written communication, scribes
+documented events and disseminated news in ancient civilizations, such as Mesopotamia and Egypt. The invention
+of the printing press by Johannes Gutenberg in the mid-15th century marked a crucial turning point, allowing for
+the mass production of written materials and facilitating broader access to news. This development led to the rise
+of newspapers in the 18th century, which became primary sources for public information.
+
+The Growth of Print Media
+The 19th century saw significant expansion in print journalism, driven by technological advancements and
+increased literacy rates. Newspapers became more affordable and widely circulated, emerging as central players
+in shaping public opinion. Innovations such as high-speed printing presses and the telegraph facilitated faster news
+delivery and enabled reporting on distant events in real time. Investigative journalism also began to take root
+34
+J. Electrical Systems 21-1s (2025): 32-40
+during this period, as reporters sought to uncover truths about corruption, social injustices, and political
+malfeasance.
+
+
+The Broadcasting Era
+The early 20th century introduced radio and later television, further revolutionizing the delivery of news. These
+media allowed for real-time broadcasting, bringing news coverage directly into homes. Journalists could now
+capture events as they happened, enhancing the immediacy and emotional impact of news reporting. As a result,
+news began to cater more to the visual and auditory senses, creating a more engaging experience for audiences.
+This period marked a shift from print's detailed reporting to the more sensationalized, rapid delivery of news
+typical of radio and television journalism.
+As the industry continues to adapt, it must navigate the challenges of misinformation, economic sustainability,
+and ethical considerations. Embracing the potential of digital platforms while adhering to the principles of
+responsible journalism will be key to meeting the needs of the modern audience. The journey from traditional
+journalism to digital reporting showcases the profound impact of technological advancements on the news
+landscape.
+Machine learning also facilitates real-time fact-checking, a crucial component of modern journalism. Factchecking tools use algorithms to cross-reference claims made in news articles with verified databases. Tools like
+ClaimBuster and Google Fact Check Explorer assist journalists in identifying misinformation during the writing
+and editing process.
+Challenges: Bias in algorithms and maintaining credibility onjournalism because of AI and ML
+The integration of artificial intelligence (AI) and machine learning (ML) into journalism presents significant
+challenges, particularly concerning bias in algorithms and maintaining credibility. These challenges are crucial to
+understand as they directly influence public trust and the reliability of news content.
+Algorithmic bias refers to systematic and unfair discrimination produced by algorithms when making decisions
+or predictions. In journalism, biased algorithms can arise from several factors:
+Biased Training Data: If the data used to train AI models reflects existing societal biases, the algorithm is likely
+to produce biased outputs. For instance, if an algorithm is trained on a dataset that predominantly features
+information from certain demographics, it may fail to accurately represent marginalized groups.
+Design of Algorithms: Algorithms themselves may prioritize specific features over others due to human design
+choices. This can inadvertently favor certain perspectives while marginalizing others, leading to an unbalanced
+representation in news content.
+Lack of Transparency: Many algorithms operate as "black boxes," where the decision-making processes are
+opaque. This lack of transparency can make it challenging for journalists and audiences to identify biases or hold
+producers accountable for inaccuracies.
+Impacts of Bias on Journalism
+The presence of bias in algorithms can have profound implications for journalism:
+Reinforcement of Stereotypes: Biased algorithms can perpetuate harmful stereotypes by selectively promoting
+content that aligns with preconceived notions. This can lead to a homogenous media narrative that fails to
+represent diverse viewpoints.
+Misinformation and Misrepresentation: Algorithmic bias can contribute to the spread of misinformation by
+amplifying misleading content or failing to provide a balanced view of issues. This is particularly problematic in
+politically charged contexts where news content can significantly influence public opinion.
+Erosion of Public Trust: As audiences become aware of algorithmic bias and the potential for skewed reporting.
+their trust in news organizations may diminish. Public confidence is further eroded when biased algorithms lead
+to inaccuracies or perceived unfairness in news coverage.
+To address these challenges and maintain credibility, news organizations need to adopt various strategies:
+Human Oversight: Incorporating human judgment in the editorial process is vital to counter algorithmic bias.
+Journalists should critically evaluate Al-generated content and ensure diverse perspectives are represented before
+publication.
+Transparent Practices: Training and Education: Journalists should receive training on how to recognize and
+mitigate algorithmic bias. This encompasses understanding the technologies that drive news algorithms and how
+to critically engage with AI-generated content.
+35
+J. Electrical Systems 21-1s (2025): 32-40
+CONCLUSION
+The challenges of bias in algorithms and maintaining credibility in AI-driven journalism require immediate and
+strategic attention. By adopting practices that prioritize accountability, transparency, and critical oversight, news
+organizations can enhance their credibility and foster public trust. As the field continues to evolve with AI and
+ML advancements, ongoing efforts to address these challenges will be essential for the future of journalism.
+Implications for Journalism Education and Training: AI and ML in Maintaining Integrity and Ethical
+Considerations
+The increasing integration of Artificial Intelligence (AI) and Machine Learning (ML) in journalism has profound
+implications for how journalists are trained. While these technologies offer opportunities to enhance the efficiency
+and scope of news reporting, they also raise significant ethical challenges. Journalism educators must adapt their
+curricula to equip future journalists with the skills to use AI and ML responsibly while upholding the core values
+of accuracy, fairness, and integrity. This article explores the critical aspects of integrating AI and ML into
+journalism education, focusing on the need for ethical considerations and ensuring the integrity of the profession.
+The Role of AI and ML in Journalism
+AI and ML are transforming journalism by automating routine tasks, enhancing investigative reporting, and
+personalizing content for audiences. These technologies are used in various areas, including:
+Automated Reporting: Tools like Wordsmith and Heliograf generate news stories from structured data, such as
+sports scores or financial reports.
+Data Analysis: AI systems can sift through vast datasets to identify patterns and trends, assisting journalists in
+uncovering complex stories like the Panama Papers.
+Fact-Checking: ML-powered tools such as ClaimBuster enable real-time verification of claims, improving the
+credibility of news.
+Audience Engagement: AI algorithms personalize news feeds based on user preferences, enhancing reader
+engagement.
+While these applications bring immense benefits, they also pose ethical challenges, such as algorithmic bias,
+transparency issues, and the potential for misuse in spreading misinformation.
+Implications for Journalism Education
+Redesigning Curriculum to Include AI and ML Journalism education must evolve to incorporate AI and ML into
+its curriculum. Students should understand the basics of how these technologies work, their applications, and their
+limitations. Key areas of focus should include:
+Data Literacy: Journalists must be trained to analyze and interpret data responsibly, ensuring they can critically
+assess AI-driven insights.
+Algorithmic Transparency: Understanding how algorithms make decisions is essential to ensure accountability
+and prevent misinformation.
+Hands-On Training: Practical exposure to tools like Grammarly, Quillbot, and data visualization platforms such
+as Tableau will prepare students for real-world scenarios.
+Integrating Ethical Training Journalism education must emphasize ethical considerations when using AI and ML.
+Topics like algorithmic bias, data privacy, and the societal impact of automation should be integral to the
+curriculum. For example:
+Algorithmic Bias: Students must learn how biases in training data can lead to unfair or misleading reporting and
+how to mitigate these biases.
+Transparency and Accountability: Future journalists should advocate for transparent AI systems and ensure
+audiences understand the role of automation in content creation.
+Human Oversight: While AI can aid reporting, human judgment remains essential. Journalists must be trained to
+critically evaluate AI-generated content.
+Promoting Digital and Ethical Literacy Digital literacy is crucial in an era where misinformation spreads rapidly.
+Journalists must be trained to identify deepfakes, bots, and other AI-generated manipulations. Ethical literacy is
+equally important, ensuring journalists uphold principles of accuracy, fairness, and independence in their use of
+technology.
+36
+J. Electrical Systems 21-1s (2025): 32-40
+Challenges in Training Journalists for AI and ML
+Lack of Resources: Many journalism schools, particularly in developing countries, may lack the infrastructure
+and expertise to offer advanced AI and ML training.
+Keeping Pace with Technological Change: The rapid evolution of AI tools means curricula must be continually
+updated, which can be challenging for institutions.
+Balancing Technology and Core Journalism Skills: While technical skills are important, journalism education
+must not lose sight of traditional skills like storytelling, interviewing, and investigative reporting.
+Integrating Real-World Ethics into Training
+Case Studies and Simulations Real-world case studies should be integrated into training programs to illustrate the
+ethical challenges posed by AI and ML. For example:
+Analysing the use of AI in creating deepfakes and its implications for misinformation.
+Studying the role of AI-driven personalization in creating echo chambers and polarizing audiences.
+Collaborations with Industry Journalism schools should collaborate with media organizations and AI developers
+to ensure students are trained on cutting-edge tools and practices. These partnerships can also foster discussions
+about ethical guidelines and best practices.
+Certifications in AI Ethics Offering specialized certifications in AI ethics for journalism can help students
+demonstrate their understanding of these issues to potential employers. Courses like Google's AI for Everyone or
+ethical AI programs from organizations like OpenAI can be incorporated into the curriculum.
+Ensuring Integrity in the Age of Automation
+Human-AI Collaboration While AI and ML can enhance journalism, they cannot replace human judgment,
+creativity, and critical thinking. Educators must emphasize the importance of human oversight in AI-assisted
+reporting.
+Maintaining Editorial Independence Students must be trained to recognize and resist external pressures to use AI
+and ML in ways that compromise journalistic integrity, such as prioritizing clickbait over accuracy.
+Fostering a Culture of Accountability Journalism schools should instill a culture of accountability, ensuring future
+journalists take responsibility for the ethical implications of their work, even when assisted by AI.
+AI & ML Technologies Used in News Writing and Editing
+Tool/Software Purpose Technology
+Used
+Notable Users Usage Statistics
+Natural
+Automated content Language Wordsmith
+generation Generation
+Associated Press,
+Yahoo! Finance
+Generated over 3,000
+financial reports per
+quarter for AP.
+(NLG)
+AI-based
+Bertie Content suggestions audience Forbes
+analytics
+60% of Forbes'
+editorial staff use
+Bertie for idea
+generation.
+Natural Used by
+Grammar and style Language individuals and Over 30 million daily Grammarly refinement Processing
+(NLP)
+organizations
+globally
+active users.
+37
+J. Electrical Systems 21-1s (2025): 32-40
+ClaimBuster
+Real-time factchecking
+ML and NLP University
+Texas projects
+of Analyzed over 1
+million claims in realtime during elections.
+Quillbot
+Paraphrasing and
+editing NLP and ML
+Freelancers,
+journalists
+Processes 20 million
+text inputs monthly.
+Heliograf Automated story
+creation
+NLG and ML
+The Washington
+Post
+Generated 850 stories
+during the 2016 U.S.
+elections.
+Fact-checking and
+Google Fact
+Check Explorer
+misinformation
+detection
+AI and ML
+Ensuring
+credibility in news
+content
+Aggregates verified
+claims from multiple
+databases.
+Automates
+Full Fact AI
+Misinformation
+detection and
+prevention
+ML and NLP
+Practical exercises
+on spotting fake
+news
+misinformation
+detection
+OpenAI
+Modules
+Ethics AI Ethics
+AI ethics education
+Frameworks
+and
+Teaching ethical
+use of AI in
+journalism
+media.
+across
+Provides ethical
+decision-making
+scenarios related to AI
+tools.
+V CONCLUSION
+As AI and ML reshape the journalism landscape, educators have a critical role in preparing future journalists to
+use these tools responsibly. By integrating technical training with ethical considerations, journalism education can
+ensure that the profession upholds its core values of truth, fairness, and accountability in the digital age. The
+challenge lies not only in equipping students with the skills to use AI and ML but also in fostering a commitment
+to ethical journalism that prioritizes integrity over expediency.
+The evolution of artificial intelligence (AI) and machine learning (ML) is significantly impacting the field of
+journalism, prompting educational institutions to adapt their curricula to better prepare students for these changes.
+This report delves into the response of journalism education to these developments, emphasizing the importance
+of a dual focus: technical acumen and ethical responsibility. As AI and ML reshape the journalism landscape,
+educators have a critical role in preparing future journalists to use these tools responsibly.
+By integrating technical training with ethical considerations, journalism education can ensure that the profession
+upholds its core values in the digital age. As the dynamics of journalism continue to evolve with technological
+advancements, educators play a crucial role in shaping the industry's future. They are tasked with not only
+imparting the technical skills needed to use AI and ML tools effectively but also fostering a mindset grounded in
+ethical journalism principles. By integrating these areas, educators can help students navigate the complexities of
+modern reporting, where the line between human and machine-generated content can often be blurred.
+Even as AI and ML transform journalism, the fundamental ideals of truth, justice, and accountability should
+remain its guiding principles. These technologies have the potential to greatly improve the accuracy and efficiency
+of journalism, but there are risks associated with them as well. The difficulty is in applying AI sensibly, making
+sure it encourages the pursuit of truth, reduces prejudices, and is used in an open and moral manner. By following
+these guidelines, journalists may use AI to its full potential while maintaining the integrity of their work,
+guaranteeing that, even in the digital age, journalism will remain an essential component of democracy.
+
+1. Truth: AI as a Tool for Accurate Reporting
+The primary responsibility of journalism is to seek and report the truth. AI tools, with their ability to analyze vast
+amounts of data, identify patterns, and detect inconsistencies, can be a powerful ally in uncovering facts. For
+example:
+Data Analysis: AI enablesjournalists to sift through large datasets to uncover hidden stories, trends, or correlations
+that might otherwise go unnoticed.
+Fact-Checking: Automated fact-checking systems powered by AI can validate claims quickly, reducing the spread
+of misinformation.
+However, the reliance on AI presents challenges. Algorithms often process data based onon pre-set parameters,
+which can lead to oversights or inaccuracies if the input data is flawed. Additionally, AI cannot understand
+context, nuance, or cultural sensitivities, which are essential for accurate reporting. Journalists, therefore, must
+critically evaluate AI-generated insights, corroborating them with traditional journalistic methods to ensure
+accuracy. Truth must remain the guiding principle, with AI serving as a tool, not a replacement, for human
+judgment and investigative rigor.
+
+2. Fairness: Ensuring Bias-Free AI Outputs
+Fairness in journalism entails presenting diverse perspectives and avoiding prejudice or bias. AI and ML systems,
+however, are only as unbiased as the data they are trained on. If the data used to train AI algorithms reflect societal
+biases-such as gender, racial, or cultural stereotypes-these biases can be amplified in the outputs. For example:
+Headline Generation: An AI tool trained on biased data may produce content that unintentionally reinforces
+stereotypes.
+Content Selection: Algorithms used for personalizing news feeds might create echo chambers, limiting exposure
+to diverse viewpoints.
+To uphold fairness, journalists must understand the biases inherent in AI systems and take active steps to mitigate
+them. This includes scrutinizing the datasets used for training algorithms, diversifying data sources, and working
+with developers to design systems that prioritize inclusivity. Ultimately, fairness in AI-powered journalism
+requires human oversight to ensure that the outputs respect diversity and represent different perspectives
+equitably.
+
+3. Accountability: Recognizing the Limits of Technology
+With the integration of AI in journalism comes the need for accountability in its application. Ethical journalism
+demands transparency about how AI tools are used, the data they process, and the limitations they possess.
+Journalists and media organizations must:
+Disclose AI's Role: Inform audiences when Al-generated content is used, whether for news writing, video
+creation, or fact-checking.
+Audit Algorithms: Regularly assess the accuracy, reliability, and fairness of AI systems to ensure they align with
+journalistic standards.
+Human Oversight: Maintain a system where humans are ultimately responsible for the outputs generated by AI,
+especially in cases of errors or harm caused by algorithmic decisions.
+Accountability also extends to addressing ethical dilemmas posed by AI, such as deepfakes or synthetic media.
+Journalists must remain vigilant in identifying and combating AI-driven misinformation while ensuring that their
+own use of AI tools upholds the highest ethical standards. Accepting responsibility for the limitations and
+consequences of these technologies is critical to maintaining public trust in journalism.
+
+
+
+ACKNOWLEDGMENTS
+Our appreciation goes to almighty god, our advisors for their guidance and support throughout the journey. We
+also thank the participants who generously shared their time and insights, making this study possible. Additionally,
+we acknowledge the invaluable assistance from colleagues and institutions that aided in various aspects of this
+study.
+CONFLICT OF INTEREST
+Interpretation and different researchers may interpret the same content differently. Researchers' own biases and
+perspectives can influence the way they categorize and code content, potentially leading to inconsistent or skewed
+results. but, during the time of this study, there has been no conflict of interest found between authors and their
+work.
+
+
+
+

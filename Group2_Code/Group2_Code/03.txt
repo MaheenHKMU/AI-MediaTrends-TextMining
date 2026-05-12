@@ -1,0 +1,2549 @@
+Generative AI and News Report 2025:
+How People Think About AI’s Role in
+Journalism and Society
+
+AI AAIAI AND THE FUTURE OF NEWS
+OCTOBER 2025
+Generative AI and News Report 2025:
+How People Think About AI’s Role in
+Journalism and Society
+Felix Simon, Rasmus Kleis Nielsen,
+and Richard Fletcher
+Contents
+About the Authors 4
+Acknowledgements 4
+Executive Summary and Key Findings 5
+Introduction 10
+Methodology 12
+1. Public Awareness and Use of
+Generative AI 14
+2. AI-Generated Search Answers 30
+3. Public Assessment of Scale and
+Impact of AI Use in Different Sectors 37
+4. Public Opinions on the Use of
+Generative AI in Journalism and News 44
+Conclusion 57
+References 59
+This report is published by the Reuters
+Institute for the Study of Journalism as part
+of our work on AI and the Future of News,
+supported by funding from The National
+Center for AI in Society in Denmark. The
+AI and the Future of News project is made
+possible by core funding from the Thomson
+Reuters Foundation.
+DOI: 10.60625/risj-5bjv-yt69
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+4
+About the Authors
+Dr Felix M. Simon is the Research Fellow in AI and News at the Reuters Institute for the Study
+of Journalism and a research associate at the Oxford Internet Institute at the University of
+Oxford. His research looks at the implications of a changing news and information environment
+for democratic discourse and the functioning of democracy, with a special focus on artificial
+intelligence.
+Professor Rasmus Kleis Nielsen is a professor at the Department of Communication of the
+University of Copenhagen and a senior research associate at the Reuters Institute for the Study
+of Journalism. His research is focused on the changing role of news and media in our societies.
+He has written extensively about journalism, digital media, the business of news, political
+communication, misinformation, and related topics.
+Dr Richard Fletcher is Director of Research at the Reuters Institute for the Study of
+Journalism. He is primarily interested in global trends in digital news consumption, the use of
+social media by journalists and news organisations, and, more broadly, the relationship between
+computer-based technologies and journalism.
+Acknowledgements
+We would like to thank Caryhs Innes, Xhoana Beqiri, and the rest of the team at YouGov for
+their work on fielding the survey. We are grateful to the other members of the research and
+editorial team at RISJ, as well as Michelle Disser, for their input on the questionnaire and
+help with the interpretation of the results. We are also thankful to Masaharu Ban, Gretel
+Kahn, Priscille Biehlmann, Magnus Bredsdorff, and Tania Montalvo for their advice on the
+translations, and to Mitali Mukherjee, Kate Hanneford-Smith, Alex Reid, and Rebecca Edwards
+for helping to move this project forward and keeping us on track.
+4
+5
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+Executive Summary and Key Findings
+Our survey in six countries (Argentina, Denmark, France, Japan, the UK, and the US) explored how
+people use generative AI in their everyday lives, what they think its impact will be on different
+areas of society, and what they think about its use in news and journalism specifically. It is a
+follow-up to the survey that we conducted in the same six countries in 2024 (Fletcher and Nielsen
+2024). Based on the results of this survey, and the previous one, we find the following.
+Findings on the awareness and use of generative AI
+The public’s use of generative AI has increased substantially in the last year. The proportion
+who say they have ever used a standalone generative AI system such as ChatGPT jumped
+from 40% to 61%, and weekly usage nearly doubled from 18% to 34%. ChatGPT is the single
+most popular AI system with 22% weekly usage, though adoption varies significantly by age.
+Information-seeking has become the primary use-case for AI, more than doubling to 24%
+weekly usage and surpassing media creation, while specialised uses like news consumption
+remain limited at 6%. Trust is concentrated among major brands, with ChatGPT leading the
+field again, though most users remain occasional rather than regular adopters.
+In more detail, we find:
+• Awareness has surged year-on-year. The share of people across countries who have heard
+of at least one of 13 AI tools rose from 78% (2024) to 90% (2025); only 10% say they have
+heard of none. ChatGPT remains the most well-known brand, with pronounced country
+variation for others.
+• Use is expanding rapidly – especially weekly use – though not uniformly. Across
+countries, the proportion of people who say they have ever used any AI system rose from
+40% (2024) to 61% (2025); weekly use nearly doubled from 18% to 34%.
+• Again, ChatGPT dominates active use. On average, 22% report using ChatGPT in the last
+week, well ahead of other tools. Since May 2024, the core user base for every major system
+has roughly doubled. Yet most people are not regular users: for the four most popular
+systems, many use them only monthly or once or twice ever, and large shares have never
+used or not heard of them.
+• Use of generative AI skews younger. In the 18–24 category, 59% used any generative AI in
+the last week, as opposed to 20% among those aged 55 and over, although this age gap is
+driven mainly by ChatGPT. Age differences are smaller for Google’s Gemini, and minimal
+for Copilot, Meta AI, and Grok – likely because they’re embedded in widely used products.
+• Information-seeking is now the lead use-case across countries. Weekly use of AI for
+getting information more than doubled (from 11% to 24%), overtaking creating media (up
+7 percentage points to 21%). Social interaction is nascent but notable (7% overall; 13% of
+18–24s versus 4% of 55+).
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+6
+• While specific information-retrieval tasks are broadening, with answering factual
+questions rising from 6% to 11%, media creation remains niche except for images. Image
+generation rose from 5% to 9% weekly; video (3%) and audio (2%) were basically flat;
+coding use was also flat, suggesting early adopters were already on board in 2024.
+• Getting news via a generative AI system has doubled but remains a minority activity.
+Weekly use rose from 3% to 6%, driven mainly by users in Japan and Argentina; it is
+strongest in Argentina and the USA and among 18–24s (8%) compared to 55+ (5%),
+and higher for degree-holders. Among AI-for-news users, ‘latest news’ (54%) and help
+with summarising, evaluating, or rewriting are most common. Younger users lean more
+towards using AI to help them navigate the news: 48% of 18–24s used AI to make a story
+easier to understand compared to 27% of 55+ (a 21 percentage point gap).
+• Trust is concentrated in a few brands. On average, 29% say they trust ChatGPT, ahead of
+Gemini (18%), Copilot (12%), and Meta AI (12%); most other brands are trusted by fewer
+than 10%, mostly due to low awareness. In most countries ChatGPT is more trusted than
+distrusted, with the exception of the UK.
+Findings on public views on AI-generated search answers
+AI-generated search answers have become commonplace in the six countries studied. User
+engagement with these AI answers is mixed, as only one third say they consistently click
+through to source links while 28% rarely or never do so, with younger users more likely to
+engage further. Trust levels are moderate at 50% among those who encounter AI answers, with
+users valuing their speed and information aggregation capabilities – although trust becomes
+conditional in high-stakes areas like health and politics, where many verify answers through
+traditional sources.
+In more detail, we find:
+• People regularly see AI-generated search answers. Across countries, 54% say they saw
+an AI-generated answer to one of their searches in the last week. Reported weekly
+encounters are highest in Argentina (70%), followed by the UK (64%) and the USA (61%),
+and lowest in France (29%), where Google’s AI overview feature had not been rolled out at
+the time of fieldwork.
+• Self-reported click-through behaviour is mixed. Among those who saw AI answers, about
+one third (33%) say they always or often click links in the overview, 37% say they do so
+sometimes, and 28% rarely or never click through. Younger people are more likely to say
+they click through, although it is important to acknowledge that self-reported behaviour
+may differ from actual behaviour for some respondents.
+• Among those who have encountered AI answers, 50% say they trust them, with a
+significant minority remaining neutral. While there is little difference by gender, younger
+adults show slightly more outright trust. Respondents emphasised their speed and
+convenience and the fact that AI aggregates vast amounts of information as reasons to
+trust them.
+7
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+• Trust in AI answers in search is conditional, especially in high-stakes domains. Many
+say they verify answers, especially for health or politics, treating AI as a first pass before
+checking non-AI sources.
+Findings on public opinion about the use of generative AI
+in different sectors
+The public widely perceives generative AI as already prevalent across sectors, with 41%
+believing it’s used ‘always or often’ on average, rising to 67% for search engines, and 51% for
+news media. Public sentiment toward AI’s impact is mixed but slightly optimistic regarding
+how AI will improve their interactions with various sectors, though this varies significantly by
+domain. While optimists outnumber pessimists for sectors like healthcare, science, and search
+engines, the reverse is true for news media, government, and especially politicians and political
+parties. Personal versus societal expectations diverge, with optimists outnumbering pessimists
+regarding individual benefits in four of six countries, but pessimists dominate when considering
+societal impact in three countries, including the United States, with women consistently
+showing lower expectations for both personal and societal benefits from AI.
+In more detail, we find:
+• There is a widespread public perception that generative AI is already everywhere, at least
+to some extent – the number of respondents who believe generative AI is used always or
+often in different sectors is 41% on average across countries and sectors, far exceeding
+those who say it is used rarely or never (15%). The figure is much higher for news media
+(51%) and, especially, social media companies (68%) and search engine companies (67%).
+• Asked how much better or worse they think different actors’ use of generative AI will
+make people’s experience of interacting with them, a majority of the public express
+a judgement, even as many answer ‘neither better nor worse’ or simply that they
+don’t know. On average across all countries and sectors, 29% are optimistic and 22%
+pessimistic.
+• Generally, there are more optimists than pessimists – especially for sectors like
+healthcare, science, and search engines. Only three sectors see the pessimists outnumber
+the optimists – news media, government, and, especially, politicians and political parties.
+• Compared to the average share of respondents who say they believe generative AI is
+used always or often in a given sector and the average share of respondents who say
+they believe the use of generative AI will make their experience of interacting with a
+given sector better, we can identify sectors that stand out – sectors where people think
+generative AI is particularly widely used and where many expect this will improve their
+experience include search and social media. Sectors where expectations are particularly
+low include government use and use by politicians and political parties.
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+8
+• Asked if they think that generative AI will make their life better or worse, and whether it
+will make society better or worse, the optimists outnumber the pessimists in four of the
+six countries covered in terms of people’s own lives, but when it comes to society there
+are significantly more pessimists than optimists in three of the six countries, including
+the US.
+• Expectations around AI also differ along socio-economic variables. Female respondents
+are significantly less likely to expect that generative AI will make their lives better. They
+are also significantly less likely to say they expect it to make society better, and more
+likely to expect it will make it worse.
+Findings on public opinion about the use of generative AI in journalism
+and news
+A significant ‘comfort gap’ exists between AI- and human-led news production, with only 12%
+of respondents comfortable with fully AI-generated news compared to 62% for entirely humanmade content, although acceptance increases with human oversight and when humans lead
+with AI assistance. Public comfort aligns with perceived usage patterns, as people are most
+accepting of back-end applications like grammar editing and translation, while showing more
+resistance to front-facing uses like artificial presenters. Expectations about AI’s impact on news
+remain mixed, with people anticipating benefits like cheaper production and faster updates
+while also having concerns about reduced transparency and trustworthiness, whereas only 33%
+believe journalists routinely check AI outputs before publication. Despite a growing awareness
+of AI use in news, most people (60%) don’t yet regularly encounter audience-facing AI features,
+and only 19% see AI labelling daily, despite 77% consuming news daily, suggesting a disconnect
+between AI implementation and public visibility.
+In more detail, we find:
+• There is a clear ‘comfort gap’ between AI- and human-led news. On average, only 12% are
+comfortable with news made entirely by AI; this rises to 21% with a ‘human in the loop’,
+43% when a human leads with some AI help, and 62% for entirely human-made news (an
+increase of 4 percentage points since 2024). This gap can be found across demographics
+and countries.
+• People continue to be most comfortable with back-end uses of AI in news. Comfort
+is higher for editing spelling and grammar (55%) or translation (53%), and lower for
+rewriting content for different audiences (30%), creating a realistic image when no photo
+exists (26%), and artificial presenter/authors (19%).
+• More people think newsrooms use AI. The proportion of people saying journalists ‘always’
+or ‘often’ use generative AI are up by at least 3 percentage points across tasks.
+9
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+• People’s perceptions of where AI is used broadly align with their own preferences for
+where it should be used. People believe journalists most often use AI for tasks they’re
+most comfortable with (e.g. grammar editing: 55% are comfortable and 51% think it’s
+used regularly) and rarely for tasks they’re least comfortable with (artificial presenters:
+19% are comfortable and 20% think it’s used regularly).
+• People continue to have mixed expectations about what AI will do to news. As with
+last year, many assume AI will make news cheaper to produce (+39 percentage point
+difference between those that said more and those that said less) and more up to date
+(+22), but less transparent (−8) and less trustworthy (−19); views have hardened since
+2024 (no decreases). People in Japan and Argentina are generally more positive about AI’s
+impact on news qualities, while people in the UK are more negative.
+• People have limited confidence in routine human oversight of AI in news. Only 33% think
+journalists ‘always’ or ‘often’ check AI outputs before publishing – this is higher in Japan
+(42%) and Argentina (44%), and lower in the UK (25%) – with small shifts since 2024.
+Trust in news strongly correlates with this: 57% of those who ‘strongly trust’ news think
+such checks happen, as opposed to just 19% among strong distrusters.
+• The public across countries expects responsible use to vary by outlet. Forty-three per cent
+foresee large differences in how responsible different news outlets will be in their use of
+AI, compared to 28% who expect small differences.
+• Most people don’t yet recall seeing audience-facing AI features offered by news outlets.
+Sixty per cent say they do not regularly see AI features on news sites or apps. Most
+common are AI summaries (19%) and AI chatbots (16%).
+• Seeing AI labelling on news is infrequent relative to daily news use. Only 19% see AI
+labels daily and 28% weekly – a low number considering that 77% say they use news daily.
+• Only a minority assumes that AI is used in news without labelling. About 15% say
+they often or always suspect AI was used without labelling (Argentina 30%; US 17%;
+approximately 10% in Japan and Europe). Clear communication of AI policies remains
+important.
+We also note that across most of our attitudinal measures, both concerning AI in news and AI in
+general, respondents in Japan and Argentina tend to be more positive and optimistic about the
+potential impact of generative AI than respondents in Denmark, France, the UK, and the USA.
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+10
+Introduction
+The last year has seen a rapid growth in the public use of generative AI tools and systems and
+continued development of the features and performance on offer. Many businesses say they
+have not yet seen any clear benefits from their attempts to use the technology, while examples
+of problematic performance continue to surface, and some worry about the scale of investment
+potentially creating a new dot.com-type bubble, the risk of further entrenching dominant
+technology companies, and the environmental impact of energy-hungry new technologies.
+In this report, we use survey data to document and analyse the public use of, perceptions of,
+and expectations around generative AI when it comes to news specifically, and society more
+broadly. Building on a similar report covering the same six countries that we published last year
+(Fletcher and Nielsen 2024), we look at developments in Argentina, Denmark, France, Japan,
+the UK, and the US, which together represent a range of different media systems and high/
+upper middle-income contexts across four continents.
+While many developments in and around generative AI concern specific organisational
+adaptations, a central driver continues to be public uptake, and a central issue continues to be
+how the public makes sense of these technologies. We focus on these issues here, and examine
+the public’s use, perceptions, and expectations of generative AI.
+Overall, our analysis documents a complicated situation where people increasingly see AI as
+being used everywhere, while having very nuanced expectations around what the impact is
+across different sectors, for society as a whole, and for them personally. There are plenty of
+misgivings and reservations about some aspects of generative AI and its effects. At the same
+time public use continues to grow rapidly and, overall, the percentage of respondents across
+these six countries who say they have used at least one generative AI system in the last week
+has nearly doubled, from 18% to 34% in just one year. To put that into perspective, it took about
+three years for internet use to grow in a similar fashion in these countries in the late 1990s and
+early 2000s.1
+ There is plenty of unsubstantiated hype around AI performance and adoption,
+and many concerns about the implications of it all, but our data clearly documents rapid public
+uptake across all countries covered – generative AI use seems to be growing roughly three
+times as fast as the initial spread of internet use.
+In this report, after explaining the online survey methodology we rely on, we first examine
+public awareness and use of generative AI. Next, we look specifically at AI-generated search
+engine answers before turning our attention to public assessment of the use and impact of
+generative AI across different sectors of society. We then look at public opinion on the use of
+generative AI in journalism and news specifically. Finally, we end the report with a concluding
+discussion.
+1 https://ourworldindata.org/grapher/share-of-individuals-using-the-internet?tab=line&country=DNK~ARG~JPN~USA~FRA~GBR
+&mapSelect=DNK~ARG~JPN~USA~FRA~GBR
+11
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+It is important to stress that, as with all survey-based work, we are reliant on people’s own
+understanding and recall. This is particularly important to keep in mind with a new and
+sometimes nebulous phenomenon like generative AI, and when considering what people think
+others (whether individuals or organisations) do with these technologies. But even in cases
+where this data is at odds with behavioural and passive tracking data from other sources, it is
+still an important source of information about population-level practices, and public opinion
+overall.
+We hope the data and analysis we publish here will be useful for media professionals, scholars,
+and others interested in generative AI and its societal impact.
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+12
+Methodology
+The report is based on a survey conducted by YouGov on behalf of the Reuters Institute for the
+Study of Journalism (RISJ) at the University of Oxford and the Department of Communication
+at the University of Copenhagen. The main purpose is to understand if and how people use
+generative AI, and what they think about its application in journalism and other areas of work
+and life.
+The survey and this report are follow-ups to a survey carried out in 2024 using the same
+methodology (Fletcher and Nielsen 2024). They are both part of the AI and the Future of News
+project at RISJ.
+The 2025 data were collected by YouGov using an online questionnaire fielded between 5 June
+and 15 July 2025 in six countries: Argentina, Denmark, France, Japan, the UK, and the US.
+YouGov was responsible for the fieldwork and provision of weighted data and tables only, and
+RISJ was responsible for the design of the questionnaire and the reporting and interpretation of
+the results.
+Samples in each country were assembled using nationally representative quotas for age group,
+gender, region, and political leaning. The data were weighted to targets based on census or
+industry-accepted data for the same variables.
+Sample sizes are approximately 2,000 in each country. The use of a non-probability sampling
+approach means that it is not possible to compute a conventional margin of error for individual
+data points. However, differences of +/- 2 percentage points or less are very unlikely to be
+statistically significant and should be interpreted with a very high degree of caution. We
+typically do not regard differences of +/- 2 percentage points as meaningful, and as a general
+rule we do not refer to them in the text.
+13
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+Nationally representative sample sizes
+It is important to note that online samples tend to under-represent the opinions and
+behaviours of people who are not online (typically those who are older, less affluent, and have
+limited formal education). Moreover, because people usually opt in to online survey panels,
+they tend to over-represent people who are well-educated and socially and politically active.
+Some parts of the survey require respondents to recall their past behaviour, which can be
+flawed or influenced by various biases. Additionally, respondents’ beliefs and attitudes related
+to generative AI may be influenced by social desirability bias, and when asked about complex
+socio-technical issues, people will not always be familiar with the terminology experts rely on,
+or understand the terms the same way. We have taken steps to mitigate these potential biases
+and sources of error by implementing careful questionnaire design and testing.
+Some figures in this report do not display all of the percentages. All percentages can be viewed
+in the interactive figures at: https://reutersinstitute.politics.ox.ac.uk/generative-ai-and-newsreport-2025-how-people-think-about-ais-role-journalism-and-society
+2024 2025
+Country
+Sample
+Size
+Fieldwork
+Dates
+Sample
+Size
+Fieldwork
+Dates
+Argentina 2,018 9-23 April 2024 2,010 6 June - 4 July 2025
+Denmark 2,011 9-22 April 2024 2,004 6 June - 11 July 2025
+France 2,056 9-22 April 2024 2,132 6 June - 15 July 2025
+Japan 2,007 16-30 April 2024 2,288 9 June - 14 July 2025
+UK 2,113 28 March - 5 April 2024 2,041 5-23 June 2025
+USA 2,012 28 March-5 April 2024 2,090 6-19 June 2025
+Size
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+14
+1. Public Awareness and Use of Generative AI
+Awareness of generative AI systems
+In comparison to last year, awareness of AI tools and systems has grown significantly. The share
+of respondents who say they have not heard of any of the 13 tools or systems we asked about
+shrunk to just 10%, meaning that 90% have heard of at least one of the most widely used AI
+tools. In 2024 the figure was 78%.
+Although it is still not universally recognised, Figure 1 reveals that OpenAI’s ChatGPT is still by
+far the most widely recognised generative AI system. No other brand comes close to ChatGPT’s
+recognition, but generative AI products tied to incumbent technology companies have grown
+even more in recognition in comparison to last year’s data (see Figure 1), closing the gap
+between ChatGPT and the rest of the pack.
+Figure 1. Proportion who say they have heard of each AI system
+On average across six countries, awareness of AI tools and systems has grown significantly, with ChatGPT the most
+widely recognised system.
+AI_brandheard. Have you heard of any of the following generative AI chatbots or tools? Base: Total sample across Argentina,
+Denmark, France, Japan, the UK, the USA in each year ≈ 12,000.
+ChatGPT is the most widely recognised AI tool in each of the six countries, ranging from
+79% awareness in Denmark to 68% in Argentina. Beyond ChatGPT, awareness shows strong
+regional differentiation (Figure 2, see next page). Google’s suite of Gemini models enjoys high
+familiarity in the USA (59%) but drops sharply in Denmark (36%). Microsoft’s AI-assistant
+Copilot likewise registers with around 45% of people in the UK and the US, but falls below
+Any of these
+2024
+|
+2025
+|
+ChatGPT
+Google Gemini
+Meta AI
+Microsoft Copilot
+DeepSeek
+Snapchat My AI
+Grok
+Claude
+Midjourney
+Perplexity.ai
+Mistral
+You.com
+Manus AI
+0% 20% 40% 60% 80%
+78% 90%
+0% 20% 40% 60% 80%
+54% 73%
+17% 50%
+14% 46%
+15% 32%
+20%
+16% 17%
+3% 15%
+3% 7%
+6% 7%
+2% 6%
+2% 4%
+3%
+2%
+15
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+30% in France, Japan, and Argentina, possibly owing to the fact that Microsoft’s search engine
+integration has more traction in Anglo-American markets. Snapchat’s My AI is relatively
+prominent in Denmark (28%) and Argentina (20%) but almost invisible in Japan (6%), while
+Meta AI (i.e. AI features within WhatsApp or Instagram) is exceptionally high in Argentina
+(63%),2
+ yet only a quarter to a half of respondents in Europe report having heard of it.
+Figure 2. Proportion who say they have heard of each generative AI system
+OpenAI’s ChatGPT is by far the most widely recognised generative AI in every country, followed by AI systems from
+other large technology companies.
+AI_brandheard. Have you heard of any of the following generative AI chatbots or tools? Base: Total sample in each country ≈ 2000.
+2 It should be noted that WhatsApp use is very high in Argentina, with 75% saying they use it for any purpose according to data
+from the 2025 edition of the Digital News Report (Newman et al. 2025).
+ChatGPT 73% 73% 77% 79% 70% 68%
+Google Gemini 53% 59% 49% 36% 46% 54%
+Meta AI (incl. in
+WhatsApp,
+Instagram, etc.)
+56% 59% 42% 37% 22% 63%
+Microsoft Copilot 45% 44% 24% 30% 29% 21%
+DeepSeek 23% 27% 12% 24% 21% 11%
+Snapchat My AI 16% 21% 14% 28% 6% 20%
+Grok 21% 26% 10% 10% 14% 11%
+Midjourney 9% 9% 9% 7% 4% 4%
+Claude 8% 13% 6% 6% 6% 6%
+Perplexity.ai 6% 9% 6% 5% 5% 3%
+Mistral 3% 3% 10% 4% 3% 1%
+You.com 1% 4% 2% 1% 3% 7%
+Manus AI 1% 2% 1% 1% 3% 2%
+None of these 10% 9% 10% 11% 13% 4%
+Don't know 2% 3% 5% 4% 9% 7%
+AI System UK US FR DK JP AG
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+16
+An interesting fact is that AI systems from two early and still very prominent AI firms –
+Perplexity and Anthropic (who make Claude) – barely seem to register with large parts of the
+public in all these countries. Meanwhile, China-based DeepSeek has reached 20% recognition
+across markets, possibly owing to the broad media coverage following the January 2025 release
+of DeepSeek’s R1 model, seen as potentially disruptive to the US’s dominance in AI, in what
+some have termed a ‘Sputnik moment’ (Metz 2025). Even X’s Grok – which frequently made
+headlines over the last year, including for praising Adolf Hitler and producing antisemitic
+tropes (Murphy et al. 2025) – does not reach similar levels of awareness outside of the US.
+Use of generative AI
+The pattern we see for awareness extends to use. In 2024, 40% on average across the six
+countries said that they had ever used generative AI. In 2025 this rose to 61%. Regular use has
+also grown, nearly doubling from 18% who used generative AI weekly in 2024, to 34% in 2025
+(Figure 3).
+Figure 3. Proportion who have used generative AI
+On average across six countries, the proportion who have ever used generative AI has grown, and weekly AI use has
+almost doubled.
+AI_branduse. How often, if at all, do you typically use each of the following generative AI chatbots or tools for any purpose?
+Base: Total sample across Argentina, Denmark, France, Japan, the UK, the USA ≈ 12,000. Note: We asked about the use of 14 AI
+tools in 2024 and 13 in 2025.
+20
+40
+60%
+40% 40%
+61% 61%
+18% 18%
+34% 34%
+Has ever used generative AI Uses generative AI weekly
+2024 2025
+17
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+The same is also true at the country level, with AI use roughly doubling in most countries
+(Figure 4). The exception to this is the US, where the proportion who used generative AI in the
+last week grew just 5 percentage points, from 31% to 36%. However, generative AI use in the
+USA remains comparatively high, second only to Argentina in our 2025 survey.
+Figure 4. Proportion who use generative AI weekly
+The proportion who use generative AI on a weekly basis has roughly doubled in most countries, but growth in the
+USA was smaller.
+AI_branduse. How often, if at all, do you typically use each of the following generative AI chatbots or tools for any purpose?
+Base: Total sample in each country-year ≈ 2000. Note: We asked about the use of 14 AI tools in 2024 and 13 in 2025.
+ChatGPT is by far the most widely used generative AI system in the six countries surveyed, with
+22% on average across six countries saying they used it in the last week. It is followed by the AI
+offerings of other major technology companies (Figure 5, see next page). Since our last survey
+in May 2024, every major system or tool has seen its core user base double (Figure 5, see next
+page). Overall, the percentage of respondents across these six countries who say they have used
+at least one generative AI system in the last week has nearly doubled from 18% to 34% in just
+one year – a very significant growth within the space of a year and about three times faster in
+relative terms than the growth of internet use in these countries in the late 1990s and early
+2000s.3
+ Many others, however, are barely used by the wider public in these countries, even if
+they have seen significant uptake in niche circles and in some cases by specific corporations or
+national governments.
+3 https://ourworldindata.org/grapher/share-of-individuals-using-the-internet?tab=line&country=DNK~ARG~JPN~USA~FRA~GBR
+&mapSelect=DNK~ARG~JPN~USA~FRA~GBR
+UK USA France
+Denmark Japan Argentina
+2024 2025
+0
+20
+40%
+13% 13%
+28% 28%
+2024 2025
+0
+20
+40%
+31% 31%
+36% 36%
+2024 2025
+0
+20
+40%
+16% 16%
+27% 27%
+2024 2025
+0
+20
+40%
+15% 15%
+34% 34%
+2024 2025
+0
+20
+40%
+11% 11%
+26% 26%
+2024 2025
+0
+20
+40%
+21% 21%
+51% 51%
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+18
+Figure 5. Proportion who use each generative AI system weekly
+On average across six countries, ChatGPT is the most widely used generative AI system. The use of many systems
+has doubled since 2024.
+AI_branduse. How often, if at all, do you typically use each of the following generative AI chatbots or tools for any purpose?
+Base: Total sample across Argentina, Denmark, France, Japan, the UK, the USA in each year ≈ 12,000. Note: We did not ask about
+DeepSeek, You.com and Manus AI in 2024.
+2024 2025
+ChatGPT 11% 22%
+Google Gemini 4% 11%
+Meta AI 3% 9%
+Microsoft Copilot 4% 6%
+Grok 0.5% 2%
+Snapchat My AI 2% 2%
+DeepSeek 2%
+Midjourney 1% 1%
+Mistral 1% 1%
+Perplexity.ai 1% 1%
+Claude 1% 1%
+You.com 1%
+Manus AI 1%
+19
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+Breaking the data down by country, we see that ChatGPT is the most widely used system in each
+(see Figure 6). It is typically followed by either Google Gemini, Meta AI, or Microsoft Copilot.
+Figure 6. Proportion who use each generative AI system weekly
+ChatGPT is the most widely used generative AI system in each country, followed by either Google Gemini, Meta AI,
+or Microsoft Copilot.
+AI_branduse. How often, if at all, do you typically use each of the following generative AI chatbots or tools for any purpose?
+Base: Total sample in each country ≈ 2000.
+At the same time, the majority of people in all countries covered are not regular users of any
+AI tool. For the four most popular systems, many say they use it monthly or have only ever
+used it once or twice, and large numbers say they have never used AI tools or have not heard
+of them (Figure 7, see next page). Despite the rapid adoption, which is likely to grow further as
+such systems become more widely integrated across digital media platforms, this should be an
+important reminder that not everyone can or wants to use AI systems directly.
+UK USA France
+Denmark Japan Argentina ChatGPT ChatGPT Google Gemini Google Gemini Meta AI Meta AI Microsoft Copilot Microsoft Copilot Grok Grok DeepSeek DeepSeek Snapchat My AI Snapchat My AI Claude Claude Perplexity.ai Perplexity.ai You.com You.com Midjourney Midjourney Mistral Mistral Manus AI Manus AI
+0
+20%
+ChatGPT ChatGPT
+Google Gemini Google Gemini
+Meta AI Meta AI
+Microsoft Copilot Microsoft Copilot
+Grok Grok
+DeepSeek DeepSeek
+Snapchat My AI Snapchat My AI
+Claude Claude
+Perplexity.ai Perplexity.ai
+You.com You.com
+Midjourney Midjourney
+Mistral Mistral
+Manus AI Manus AI
+ChatGPT ChatGPT
+Google Gemini Google Gemini
+Meta AI Meta AI
+Microsoft Copilot Microsoft Copilot
+Grok Grok
+DeepSeek DeepSeek
+Snapchat My AI Snapchat My AI
+Claude Claude
+Perplexity.ai Perplexity.ai
+You.com You.com
+Midjourney Midjourney
+Mistral Mistral
+Manus AI Manus AI
+ChatGPT ChatGPT
+Google Gemini Google Gemini
+Meta AI Meta AI
+Microsoft Copilot Microsoft Copilot
+Grok Grok
+DeepSeek DeepSeek
+Snapchat My AI Snapchat My AI
+Claude Claude
+Perplexity.ai Perplexity.ai
+You.com You.com
+Midjourney Midjourney
+Mistral Mistral
+Manus AI Manus AI
+0
+20% 20%
+ChatGPT ChatGPT
+Google Gemini Google Gemini
+Meta AI Meta AI
+Microsoft Copilot Microsoft Copilot
+Grok Grok
+DeepSeek DeepSeek
+Snapchat My AI Snapchat My AI
+Claude Claude
+Perplexity.ai Perplexity.ai
+You.com You.com
+Midjourney Midjourney
+Mistral Mistral
+Manus AI Manus AI
+ChatGPT ChatGPT
+Google Gemini Google Gemini
+Meta AI Meta AI
+Microsoft Copilot Microsoft Copilot
+Grok Grok
+DeepSeek DeepSeek
+Snapchat My AI Snapchat My AI
+Claude Claude
+Perplexity.ai Perplexity.ai
+You.com You.com
+Midjourney Midjourney
+Mistral Mistral
+Manus AI Manus AI
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+20
+Figure 7. Proportion who use ChatGPT, Gemini, Copilot, and Meta AI frequently
+Many users of generative AI systems only use them monthly or have only ever used them once or twice.
+AI_branduse. How often, if at all, do you typically use each of the following generative AI chatbots or tools for any purpose?
+Base: Total sample in each country ≈ 2000.
+Daily Weekly Monthly Once or twice Never Don’t know Not heard of
+ChatGPT
+Argentina
+Denmark
+USA
+France
+Japan
+UK
+Google Gemini
+Argentina
+USA
+Japan
+Denmark
+UK
+France
+Microsoft Copilot
+USA
+Argentina
+Denmark
+Japan
+UK
+France
+Meta AI
+Argentina
+US
+UK
+Japan
+Denmark
+France
+0% 20% 40% 60% 80% 100%
+0% 20% 40% 60% 80% 100%
+0% 20% 40% 60% 80% 100%
+0% 20% 40% 60% 80% 100%
+16% 15% 7% 15% 14% 32%
+11% 17% 13% 18% 20% 21%
+10% 12% 8% 15% 27% 27%
+6% 12% 9% 18% 30% 23%
+6% 10% 6% 13% 34% 30%
+12% 7% 19% 29% 27%
+7% 11% 6% 14% 16% 46%
+6% 9% 13% 24% 41%
+9% 8% 21% 53%
+8% 16% 65%
+11% 32% 47%
+6% 10% 27% 50%
+10% 20% 57%
+7% 6% 79%
+8% 11% 70%
+6% 12% 71%
+10% 25% 56%
+6% 11% 75%
+13% 11% 9% 18% 11% 37%
+6% 12% 30% 42%
+9% 35% 44%
+13% 79%
+6% 23% 64%
+8% 27% 58%
+21
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+Just as last year, use of generative AI is slightly more common among those with higher levels
+of formal education, with the biggest differences again by age group. Younger people are much
+more likely to have ever used generative AI, and to say they use it on a weekly basis. Averaging
+across all six countries, and combining the use of all generative AI tools asked about in the
+survey, 59% of those aged 18–24 say they have used generative AI in the last week, compared to
+20% of those 55 and over (see Figure 8).
+Figure 8. Proportion who use each generative AI system weekly
+There are large differences in the use of generative AI by age group, but this is driven by age differences in the use of
+ChatGPT. There are no real age differences in the use of Microsoft Copilot, Meta AI, and Grok.
+AI_branduse. How often, if at all, do you typically use each of the following generative AI chatbots or tools for any purpose?
+Base: Those aged 18–24 = 1214, 25–34 = 1963, 35–44 = 2016, 45–54 = 2010, 55+ = 5362 across Argentina, Denmark, France,
+Japan, the UK, the USA.
+When we break this down by generative AI system, we see that the age gaps are primarily driven
+by large differences in the use of ChatGPT. Nearly half (47%) of those aged 18–24 say they used
+ChatGPT in the last week, but among those aged 55 and over the figure is just one in ten (9%).
+While there are some age differences in the use of Google Gemini, there are no real age gaps
+in the use of Microsoft Copilot and Meta AI. This is likely because these AI tools are embedded
+within existing products and services that are widely used across different age groups.
+Specific uses of AI: Getting information, creating media, getting news
+Apart from making sense of people’s knowledge and use of different AI systems, we were also
+interested in understanding what people are using these systems for (see also Tamkin et al.
+2024). In general, we see a significant change between 2024 and 2025. Averaging across the six
+countries, 24% say they have used generative AI for getting information in the last week, more
+than double the figure from 2024 when 11% said they were using it for this purpose.
+Any generative AI ChatGPT Google Gemini
+Microsoft Copilot Meta AI Grok
+18-24 25-34 35-44 45-54 55+
+0
+20
+40%
+18-24 25-34 35-44 45-54 55+
+0
+20
+40%
+18-24 25-34 35-44 45-54 55+
+0
+20
+40%
+18-24 25-34 35-44 45-54 55+
+0
+20
+40%
+18-24 25-34 35-44 45-54 55+
+0
+20
+40%
+18-24 25-34 35-44 45-54 55+
+0
+20
+40%
+59%
+20%
+47%
+9% 16% 7%
+5%
+1%
+7% 9% 9%
+5%
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+22
+Using generative AI for getting information is now the most widespread use of the technology,
+overtaking using it for creating media such as text, images, video, and code, though the latter
+also increased, up 7 percentage points to 21% in 2025 (see Figure 9). Of course, it should be
+acknowledged that the lines between getting information and media creation are fuzzy, given
+that all generative AI responses require some form of media creation in order for them to be
+communicated to the user.
+We also asked for the first time if people used AI systems for social interaction – for example as
+a friend or adviser – a topic that has received growing attention in recent months due to news
+reports and research that some people are forming closer bonds with systems that are perceived
+to have a personality (Kirk et al. 2025). Across countries, 7% replied that they had done so in the
+last week, especially among younger people (with 13% among the 18- to 24-year-olds saying
+they used AI as a social companion versus just 4% among those 55 and older).
+Figure 9. Proportion who used generative AI for each in the last week
+Using generative AI for getting information has overtaken using it for creating media (text, images, video, etc.).
+AI_outputs. Which, if any, of the following have you tried to use it for in the last week (even if it didn’t work)? Base: Total sample
+across Argentina, Denmark, France, Japan, the UK, the USA in each year ≈ 12,000.
+In terms of concrete information-retrieval tasks, we see the strongest growth around asking
+advice and answering factual questions, both increasing from 6% of people saying they had
+used it for this purpose in the last week in 2024 to 11% in 2025. A new option we provided in
+2025 was ‘Researching a topic’, to which 15% of people responded that they had used AI for this
+purpose (Figure 10, see next page).
+Meanwhile, while growing overall, the use of AI for most individual media creation tasks is
+largely stagnant, with the growth driven by more people (from 5% to 9%) saying they use AI
+for creating an image, potentially reflecting the wider rollout of free access to such features,
+for example in Google’s Gemini. The use for video generation remained similar (3%) as did the
+figure for audio (2%), despite more powerful multimodal AI systems coming on to the market in
+the meantime. Likewise, despite improved coding systems (for example Claude Code or OpenAI
+Codex), the use of AI for programming and coding remained flat (Figure 10, see next page).
+This could be because those that wanted to use generative AI for coding were already doing so
+in 2024.
+2024 2025
+0
+5
+10
+15
+20%
+14% 14%
+11% 11%
+For social
+interaction
+7%
+For
+creating
+media
+21%
+For getting
+information
+24%
+23
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+Figure 10. Proportion who have use generative AI for each task weekly
+On average across six countries, while there has been little growth in the use of generative AI for creating media
+(except for images), the use for most information retrieval tasks has grown since 2024.
+AI_tasks_creating/information. Which, if any, of the following have you tried to use it for in the last week (even if it didn’t work)?
+Base: Total sample across Argentina, Denmark, France, Japan, the UK, the USA in each year ≈ 12,000.
+The percentage who say they have used generative AI to get the latest news has doubled
+over the last year, from 3% in 2024 to 6% this year, although this change is mainly driven by
+changing habits in Japan and Argentina, with the number static in other countries.4
+ The use
+of AI systems for news in our data is strongest in Argentina and the USA and for the youngest
+age group – 8% among the 18–24s, versus 5% for those 55+ (Figure 11, see next page). Using AI
+systems for news is also more pronounced for people with a degree than those without across
+countries. However, it remains one of the least-practised information-retrieval tasks. Just one
+in four of those who say they use generative AI for one or more information-retrieval tasks
+count getting news among them. While these findings in many ways for now document a ‘dog
+that didn’t bark’ situation – an absence of a much bigger change that might have been expected
+– it is a meaningful starting position. Given how rapidly people adopt convenient interfaces
+and technologies, it is possible that this number will grow more strongly in the years to come.
+4 This number also aligns with this year’s edition of the Digital News Report, where across 48 markets, about 7% say they used a
+chatbot for news weekly (Newman et al. 2025).
+For creating media
+Making an image
+Creating summaries
+Writing an email or letter
+Playing around or experimenting
+Writing an essay or report
+Creative writing (stories, poems,
+etc.)
+Programming or coding
+A job application/interview
+Creating test data
+Making a video
+Making audio
+2024
+|
+2025
+|
+For getting information
+Researching a topic
+Asking advice
+Answering factual questions
+Generating ideas
+Recommendations
+Summarising text
+Translations
+Seeking support
+Data analysis
+Getting news
+Playing around or experimenting
+0% 10% 20%
+5% 9%
+7%
+6% 7%
+5% 6%
+5% 6%
+5% 5%
+4% 4%
+3% 4%
+2% 3%
+3% 3%
+2% 3%
+0% 10% 20%
+15%
+6% 11%
+6% 11%
+6% 9%
+4% 8%
+5% 8%
+4% 7%
+4% 7%
+4% 6%
+3% 6%
+5% 6%
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+24
+Figure 11. Proportion who used generative AI for news in the last week
+The use of generative AI for getting news is growing in Japan and Argentina.
+AI_tasks_information. Which, if any, of the following have you tried to use it for in the last week (even if it didn’t work)?
+Base: Total sample in each country-year ≈ 2000.
+Looking at only this sub-group of people who say they have used a chatbot for getting news in
+the last week, we can dig deeper into what they used it for (see Hagar 2024 for the list of news
+uses that helped inform this survey question), with the largest number wanting the latest news
+(54%) or help in dealing with a news story; for example, by having it summarised, evaluated, or
+re-written to make it easier to understand (see Figure 12).
+Figure 12. Proportion of generative AI news users that say they use it for each
+Among the relative small group that use generative AI for news, the most common use is asking for the latest news
+– but people use generative AI for news in a range of different ways.
+AI_newstype. You said you have used a generative AI chatbot (e.g. ChatGPT) or tool for getting news in the last week ... Which,
+if any, of the following did you do? Base: All across Argentina, Denmark, France, Japan, the UK, the USA who used a generative AI
+system to get news in the last week = 731.
+2024 2025
+Average of six countries 3% 6%
+2024 2025
+France 2% 2%
+UK 2% 2%
+Denmark 1% 3%
+Japan 3% 6%
+USA 8% 9%
+Argentina 4% 11%
+I asked it to give me the latest news
+I asked a follow-up question about a news story
+I asked it to summarise a news story
+I asked it to find or evaluate a news source
+I asked it to make a news story easier to understand
+I asked it a question about how the news media works
+I asked it to turn an article from text into audio or video (or vice versa)
+54%
+47%
+40%
+37%
+35%
+19%
+19%
+25
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+However, an interesting picture emerges when we break this down by age. Older people
+tend to use AI chatbots or systems primarily to get the latest news, whereas younger people
+use it more to help them navigate the news. Around half (48%) of the 18- to 24-year-olds
+who used an AI tool for getting news said they had used it specifically to make a news story
+easier to understand, in comparison to just 27% of those 55 and older, a 21 percentage point
+difference (see Figure 13). We should bear in mind that these are small sub-groups of the wider
+population, but they show that the use of such chatbots for news purposes is far from uniform.
+Figure 13. Proportion of generative AI news users that say they use it for each
+Older people are more likely to use generative AI to get the latest news, but younger people are more likely to use it
+help them understand and navigate the news.
+AI_newstype. You said you have used a generative AI chatbot (e.g. ChatGPT) or tool for getting news in the last week ... Which, if
+any, of the following did you do? Base: All across Argentina, Denmark, France, Japan, UK, USA who used a generative AI system to
+get news in the last week aged = 18–24 = 86, 25–34 = 146, 35–44 = 119, 45–55 = 136, 55+ = 244.
+Trust in specific generative AI products
+We also asked about trust in individual generative AI tools and systems. As we saw earlier,
+awareness of individual brands is low in many cases, and many of those who have heard of a
+brand may not have an opinion on it, so we must interpret the data with caution.
+On average across six countries, just under one third (29%) say that they trust ChatGPT, ahead
+of Google Gemini (18%), Microsoft Copilot (12%), and Meta (12%) (Figure 14, see next page).
+Less than one in ten say they trust all of the other generative AI systems we asked about. Again,
+this is primarily because only around 15% or fewer have actually heard of them, meaning that
+the proportion who say they distrust them is often equally small.
+I asked it to give me the latest news I asked a follow-up question about
+a news story
+I asked it to summarise a news
+story
+I asked it to find or evaluate a news
+source
+I asked it to make a news story
+easier to understand
+I asked it a question about how the
+news media works
+18-24 18-24 25-34 25-34 35-44 35-44 45-54 45-54 55+ 55+
+0
+20
+40
+60%
+39%
+50% 53%
+60% 59%
+18-24 18-24 25-34 25-34 35-44 35-44 45-54 45-54 55+ 55+
+39%
+54%
+47% 44%
+49%
+18-24 18-24 25-34 25-34 35-44 35-44 45-54 45-54 55+ 55+
+43% 42% 43% 41%
+35%
+18-24 18-24 25-34 25-34 35-44 35-44 45-54 45-54 55+ 55+
+0
+20
+40
+60%
+46%
+41% 40%
+31% 32%
+18-24 18-24 25-34 25-34 35-44 35-44 45-54 45-54 55+ 55+
+48%
+36% 34% 38%
+27%
+18-24 18-24 25-34 25-34 35-44 35-44 45-54 45-54 55+ 55+
+24%
+33%
+20%
+14% 10%
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+26
+Figure 14. Proportion who trusts each generative AI system
+ChatGPT is the most widely trusted generative AI system, but this is partly because more people have heard of it.
+Other systems have very low trust figures in part because people have not heard of them.
+AI_brandtrust. Generally speaking, how much do you trust or distrust the following generative AI chatbots or tools?
+Base: Total sample across Argentina, Denmark, France, Japan, the UK, the USA = 12,217.
+It is worth noting that public trust in the most widely trusted generative AI system, ChatGPT,
+is lower than public trust in news in every country except Argentina (Figure 15, see next page).
+As such, there is a significant ‘trust gap’ between how many respondents trust news in their
+country versus the much lower number of people, across virtually every demographic, who say
+they trust any of the specific generative AI chatbots or tools we ask about. This is in line with
+our previous research, which has often documented such a gap between news in general and
+news found via various digital platforms (Mont’Alverne et al. 2022).
+ChatGPT 29% 23% 17% 5% 27%
+Google
+Gemini
+18% 17% 11% 4% 50%
+Microsoft
+Copilot
+12% 10% 7% 3% 68%
+Meta AI 12% 15% 15% 3% 54%
+Grok 4% 4% 6% 1% 85%
+DeepSeek 4% 6% 8% 2% 80%
+Snapchat My
+AI
+3% 6% 6% 1% 83%
+Claude 3% 2% 1% 1% 93%
+Perplexity.ai 2% 2% 1% 1% 94%
+Midjourney 2% 2% 2% 1% 93%
+Mistral 2% 1% 1% 1% 96%
+You.com 1% 1% 0% 0% 97%
+Manus AI 1% 0% 0% 0% 98%
+Trusts Neither Distrusts
+Don't
+know
+Not
+heard of
+27
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+Figure 15. Proportion who trusts news and trusts ChatGPT
+In every country except Argentina, there is a trust gap between higher levels of trust in news and lower levels of
+trust in the most widely trusted generative AI system, ChatGPT.
+AI_brandtrust. Generally speaking, how much do you trust or distrust the following generative AI chatbots or tools? News_Trust.
+Generally speaking, how much do you trust or distrust the news in your country? Base: Total sample in each country ≈ 2000.
+An alternative way of interpreting and presenting the trust data is to look at the difference
+between the proportion who say they trust and the proportion who say they distrust, which
+we can think of as the net trust score (Figure 16, see next page). When we do this we see
+that, on average across six countries, more people trust ChatGPT (+12), Google Gemini (+7),
+and Microsoft Copilot (+5) than distrust it. Despite the wide reach via its social apps such as
+Instagram, Facebook, and WhatsApp, the net trust at the population level is negative for Meta
+AI (-4), and the same is true for DeepSeek (-4). For the rest, the gap between trust and distrust
+is likely too small to be meaningful.
+Trust in news Trust in ChatGPT
+Denmark
+Japan
+UK
+USA
+France
+Argentina
+72%
+32%
+60%
+31%
+45%
+20%
+36%
+27%
+36%
+27%
+31%
+37%
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+28
+Figure 16. Net difference between the proportion who trusts each and the proportion who distrusts
+On average across six countries, more people trust ChatGPT, Google Gemini, and Microsoft Copilot than distrust it.
+More people distrust Meta AI and DeepSeek than trust it.
+AI_brandtrust. Generally speaking, how much do you trust or distrust the following generative AI chatbots or tools? Base: Total
+sample across Argentina, Denmark, France, Japan, the UK, the USA = 12,217. Note: Figures are percentage point difference between
+Strongly/somewhat trust and Strongly/somewhat distrust.
+5
+10
+12
+7
+5
+2
+1 1 1 1
+0
+−2
+−3
+−4 −4
+ChatGPT
+Google Gemini
+Microsoft Copilot
+Claude
+Mistral
+Perplexity.ai
+You.com
+Manus AI
+Midjourney
+Grok
+Snapchat My AI
+Meta AI
+DeepSeek
+29
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+There are, however, important differences by country (see Figure 17). In most countries people
+are more likely to trust ChatGPT than distrust it. The exception is the UK, where most systems
+(including ChatGPT) are more distrusted than trusted. Argentina is the opposite, where none
+of the top brands are more distrusted than trusted, including DeepSeek (+3), which is more
+distrusted in most of the other countries studied.
+Figure 17. Net difference between the proportion who trust each and the proportion who distrust
+ChatGPT is trusted more than distrusted in every country apart from the UK. No system has a negative trust score
+in Argentina.
+AI_brandtrust. Generally speaking, how much do you trust or distrust the following generative AI chatbots or tools?
+Base: Total sample in each country ≈ 2000.
+UK USA France
+Denmark Japan Argentina ChatGPT ChatGPT Google Gemini Google Gemini Microsoft Copilot Microsoft Copilot Claude Claude Perplexity.ai Perplexity.ai You.com You.com Mistral Mistral Manus AI Manus AI
+0
+Midjourney Midjourney
+Grok Grok
+Snapchat My AI Snapchat My AI
+Meta AI Meta AI
+DeepSeek DeepSeek
+20
+ChatGPT ChatGPT
+Google Gemini Google Gemini
+Microsoft Copilot Microsoft Copilot
+Claude Claude
+Perplexity.ai Perplexity.ai
+You.com You.com
+Mistral Mistral
+Manus AI Manus AI
+Midjourney Midjourney
+Grok Grok
+Snapchat My AI Snapchat My AI
+Meta AI Meta AI
+DeepSeek DeepSeek
+ChatGPT ChatGPT
+Google Gemini Google Gemini
+Microsoft Copilot Microsoft Copilot
+Claude Claude
+Perplexity.ai Perplexity.ai
+You.com You.com
+Mistral Mistral
+Manus AI Manus AI
+Midjourney Midjourney
+Grok Grok
+Snapchat My AI Snapchat My AI
+Meta AI Meta AI
+DeepSeek DeepSeek
+ChatGPT ChatGPT
+Google Gemini Google Gemini
+Microsoft Copilot Microsoft Copilot
+Claude Claude
+Perplexity.ai Perplexity.ai
+You.com You.com
+Mistral Mistral
+Manus AI Manus AI
+Midjourney Midjourney
+0
+Grok Grok
+Snapchat My AI Snapchat My AI
+Meta AI Meta AI
+DeepSeek DeepSeek
+20
+ChatGPT ChatGPT
+Google Gemini Google Gemini
+Microsoft Copilot Microsoft Copilot
+Claude Claude
+Perplexity.ai Perplexity.ai
+You.com You.com
+Mistral Mistral
+Manus AI Manus AI
+Midjourney Midjourney
+Grok Grok
+Snapchat My AI Snapchat My AI
+Meta AI Meta AI
+DeepSeek DeepSeek
+ChatGPT ChatGPT
+Google Gemini Google Gemini
+Microsoft Copilot Microsoft Copilot
+Claude Claude
+Perplexity.ai Perplexity.ai
+You.com You.com
+Mistral Mistral
+Manus AI Manus AI
+Midjourney Midjourney
+Grok Grok
+Snapchat My AI Snapchat My AI
+Meta AI Meta AI
+DeepSeek DeepSeek
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+30
+2. AI-Generated Search Answers
+Awareness of AI-generated search answers
+This year we also included questions on AI-generated answers in response to online searches.
+These have become more common, especially with the rollout of Google’s ‘AI Overviews’ and ‘AI
+Mode’ in a growing number of countries. The availability of such answers has sparked concern
+because they could contain false or misleading information or so-called hallucinations. News
+publishers and other content creators have also expressed worries about a negative impact
+on the referral traffic they receive from such online searches (The Economist 2025; Brown and
+Jaźwińska 2025), as more people come to rely on such AI-generated answers, instead of seeking
+out any of the provided search results. While it is clear that some individual publishers and
+some genres of content have already been affected, data from Chartbeat suggests the feared
+impact has not yet hit the industry at large.5
+ This may be partly because not all news-related
+queries receive AI-generated responses by default.
+An example of an AI-generated answer in response to an online search on Google. Source: Screenshot.
+5 https://pressgazette.co.uk/media-audience-and-business-data/media_metrics/publisher-traffic-sources-2019-2025/
+31
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+First, we wanted to know how often people encounter such AI-generated search answers in
+their day-to-day lives. Across all six countries, 54% of respondents say they have seen an AIgenerated answer in response to one of their search queries in the last week, although 19%
+said they don’t know (Figure 18), perhaps highlighting that for some people these are hard to
+separate from standard search results. It is also a remarkable illustration of how the integration
+of generative AI in already widely used products can drive exposure; AI-generated summaries
+were only rolled out to most users by Google in the last year or so. There are already more
+people who encounter these on a weekly basis than who actively use the standalone AI tools we
+ask about.
+Figure 18. Proportion who say they have seen an AI-generated answer in response to a search
+query in the last week
+On average across six countries, 54% say they have seen AI-generated answers in response to search queries on
+sites like Google or Bing in the last week, but 19% are unsure.
+AI_search. Thinking about when you have used search engines (e.g. Google) ... Have you seen any AI-generated answers in
+response to your search queries in the last week? Base: Total sample across Argentina, Denmark, France, Japan, the UK, the USA =
+12,217.
+This figure is highest in Argentina (70%), followed by the UK (64%) and the USA (61%), and lowest
+in France, where only 29% said they had encountered such responses (Figure 19, see next page).
+At the time of the survey Google, the most widely used search engine in France, to our knowledge
+had not rolled out the AI overview feature there,6
+ which likely explains the lower numbers for the
+country.7
+6 https://support.google.com/websearch/answer/14901683?sjid=2264176477168948638-EU&hl=en#zippy=%2Cso-k%C3%B6nnensie-ihre-daten-kontrollieren%2Cl%C3%A4nder-und-gebiete%2Chow-to-control-your-data 7 According to Statcounter, Google had a market share of 89% in France in June 2025, followed by Microsoft’s Bing (5%) and Yahoo!
+(2%). https://gs.statcounter.com/search-engine-market-share/all/FRANCE
+20
+40%
+54% 54%
+27% 27%
+19% 19%
+Yes No Don’t know
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+32
+Figure 19. Proportion who say they have seen an AI-generated answer in response to a search
+query in the last week
+Argentina and the UK are the countries with the highest number of people saying they have seen an AI-generated
+answer in response to an online search in the last week. In France the figures are likely lower because Google have
+not rolled out AI-generated responses here.
+AI_search. Thinking about when you have used search engines (e.g. Google) ... Have you seen any AI-generated answers in
+response to your search queries in the last week? Base: Total sample in each country ≈ 2000.
+‘Click-through’ behaviour and trust in AI-generated search answers
+Zooming in on just the people who said they have seen AI-generated answers in the last week,
+we can see how often they say that they also click through to the information these overviews
+sometimes link to (Figure 20, see next page). While we have to be careful about the limits of
+survey data in this context, as what people say they do might not always match what they
+actually do, our data are broadly in line with web-tracking data on the topic, which are better at
+capturing people’s behaviour (see Chapekis and Lieb 2025).
+Figure 20 shows that across all countries about one third (33%) of respondents who say they
+have seen AI-generated search answers report clicking through regularly (always/often), one
+third (37%) do so only sometimes, and approximately 28% seldom or never click (rarely/never).
+UK USA France
+Denmark Japan Argentina
+Yes Yes No No Don’t
+know
+Don’t
+know
+0
+25
+50% 64% 64%
+16% 16% 19% 19%
+Yes Yes No No Don’t
+know
+Don’t
+know
+0
+25
+50% 61% 61%
+21% 21% 18% 18%
+Yes Yes No No Don’t
+know
+Don’t
+know
+0
+25
+50%
+29% 29%
+40% 40%
+31% 31%
+Yes Yes No No Don’t
+know
+Don’t
+know
+0
+25
+50%
+54% 54%
+23% 23% 23% 23%
+Yes Yes No No Don’t
+know
+Don’t
+know
+0
+25
+50%
+46% 46% 44% 44%
+10%
+Yes Yes No No Don’t
+know
+Don’t
+know
+0
+25
+50%
+70% 70%
+16% 16% 14% 14%
+33
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+The youngest group (18–24) say they are more likely to do so, with nearly 40% clicking through
+often, compared with just 28% of those aged 55+ saying the same. Conversely, low engagement
+with these links is highest among the oldest cohort (31%) and lowest among 35- to 44-yearolds (25%). While industry data, for example from Chartbeat, suggest referrals from search have
+not changed as dramatically as some headlines suggest, it remains possible that there will be a
+material impact on search referrals over time.8
+Figure 20. Proportion who see AI-generated search responses that say they click the links to the
+underlying sources
+Around one third say they always or often click the links in AI search responses. Younger people are more likely to
+say they click through.
+AI_search_links. You said you have seen AI-generated answers in response to your search queries in the last week ... How often,
+if at all, do you click through to the source of the information they sometimes link to? Base: All across Argentina, Denmark, France,
+Japan, the UK, the USA who have seen AI-generated answers in response to search queries in the last week aged 18–24 = 890,
+25–34 = 1313, 35–44 = 1233, 45–54 = 1073, 55+ = 2257.
+One advantage of studying this topic through survey research is that we can explore what
+people think about AI-generated search results. Looking at people’s trust in the AI answers
+they get served (Figure 21, see next page), around half of respondents who say they have seen
+AI-generated search answers express trust in them: when ‘strongly’ and ‘somewhat trust’ are
+combined, 50% across counties say they have confidence in these answers (Figure 23), with
+no significant difference between men (50%) and women (49%). Overall, younger adults show
+slightly higher trust than older users. Neutral attitudes (‘neither trust nor distrust’) account for
+about one quarter to one third of respondents. Looking at the results across countries we see
+relatively small differences, although trust is lower in the UK and higher in Japan.
+8 https://pressgazette.co.uk/media-audience-and-business-data/media_metrics/publisher-traffic-sources-2019-2025/
+Always Often Sometimes Rarely Never Don't know
+All ages
+18-24
+25-34
+35-44
+45-54
+55+
+8% 25% 37% 18% 10%
+9% 30% 33% 16% 10%
+10% 27% 35% 17% 9%
+10% 25% 39% 16% 9%
+7% 25% 39% 18% 9%
+7% 21% 38% 21% 10%
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+34
+Figure 21. Proportion who say they trust AI-generated search responses that they have seen
+Across countries, half say they generally trust the AI-generated search answers that they see, compared to 20%
+that distrust. Trust is slightly higher among younger respondents.
+AI_search_trust. You said you have seen AI-generated answers in response to your search queries in the last week ... Generally
+speaking, do you trust or distrust these answers? Base: Total sample across Argentina, Denmark, France, Japan, the UK, the USA
+who have seen AI-generated answers in response to search queries in the last week = 18–24 = 890, 25–34 = 1313, 35–44 = 1233,
+45–54 = 1073, 55+ = 2257.
+Trust Distrust
+All ages
+18-24
+25-34
+35-44
+45-54
+55+
+50%
+20%
+54%
+21%
+52%
+22%
+52%
+19%
+48%
+19%
+46%
+21%
+35
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+Figure 22. Proportion who say they trust AI-generated search responses that they have seen
+Trust in AI-generated answers in response to search queries is highest in Japan and Argentina and lowest in the UK
+– but even here trust is more widespread than distrust.
+AI_search_trust. You said you have seen AI-generated answers in response to your search queries in the last week ... Generally
+speaking, do you trust or distrust these answers? Base: All who have seen AI-generated answers in response to search queries in
+the last week in Argentina = 1283, Denmark = 1069, France = 593, Japan = 1075, the UK = 1283, the USA = 1316.
+Trust in AI-generated responses is also related to how often people click the links through to
+the underlying sources (see Figure 23). Those who trust AI search responses are more likely to
+say that they ‘always’ or ‘often’ click through (46%) than those that distrust (20%). This perhaps
+runs counter to the idea that links are used to validate the AI response, and instead suggests
+that they are used to dig deeper or get more information. However, it is also possible that
+people who are more likely to click through to links end up trusting AI responses more because
+they see that the response matches the underlying content.
+Figure 23. Proportion who see AI-generated search responses who say they always/often click the
+links to the underlying source
+On average across six countries, people are more likely to click through to underlying sources if they trust the AIgenerated search response.
+AI_search_trust. You said you have seen AI-generated answers in response to your search queries in the last week ... Generally
+speaking, do you trust or distrust these answers? AI_search_links. How often, if at all, do you click through to the source of the
+information they sometimes link to? Base: All across Argentina, Denmark, France, Japan, the UK, the USA who have seen AIgenerated answers in response to search queries in the last week that trust = 3356, distrust = 1388.
+UK USA France
+Denmark Japan Argentina
+Trust Trust Distrust Distrust
+0
+20
+40
+60%
+40% 40%
+32% 32%
+Trust Trust Distrust Distrust
+49% 49%
+24% 24%
+Trust Trust Distrust Distrust
+48% 48%
+21% 21%
+Trust Trust Distrust Distrust
+0
+20
+40
+60%
+49% 49%
+26% 26%
+Trust Trust Distrust Distrust
+60% 60%
+12% 12%
+Trust Trust Distrust Distrust
+53% 53%
+8%
+Trust AI search responses
+Distrust AI search responses
+46%
+20%
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+36
+We also asked people to explain why they trust or distrust the answers they receive. Looking at
+the open-ended survey comments in response to this question provides some valuable pointers
+on why about half of respondents say they ‘somewhat’ or ‘strongly’ trust AI-generated answers.
+A dominant theme in the answers we received is the speed and convenience these AI
+summaries offer: as one respondent put it, ‘Because it’s fast and saves me time and it’s usually
+close to what I’m looking for.’ Another noted simply, ‘AI provides quick and accurate responses,
+saving time and effort.’ For many respondents, the mere fact of an almost instantaneous,
+concise summary seems to make AI summaries worthy of at least provisional trust. Many
+also said that they feel AI ‘knows’ more because it aggregates vast amounts of data – from
+textbooks, websites, and scientific literature – and thus generally produces correct answers,
+especially in non-critical contexts. In the words of one user, ‘AI models are trained on vast
+amounts of information … That gives them a general grasp of many topics, which can be
+useful for surface-level understanding or first drafts.’ The use of phrases like ‘close to what I
+am looking for’ and ‘general grasp’ are interesting – they are a reminder that people often, in
+Herbert Simon’s famous term, engage in satisficing, looking for good enough things that get the
+job done, rather than optimising, taking the time to find the optimal answer or solution.
+This, however, does not mean that people trust AI-generated answers blindly, especially for
+high-stakes or nuanced topics, such as health or politics. Many users say that they often treat
+AI as a first pass and then corroborate its output. One respondent explained, ‘After reading the
+AI response, I went back and checked the responses from another source,’ while another said, ‘I
+trust it when it gives factual answers that can be verified by non-AI sources.’ Such statements
+show that trust in such answer is likely conditional, partially relying on users’ ability and
+willingness to follow up AI suggestions with deeper research.
+37
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+3. Public Assessment of Scale and Impact of AI Use in
+Different Sectors
+Individuals are of course not the only users of generative AI. Virtually all institutions in our
+societies – from governments to the banking industry – are at least considering whether
+and how these technologies might be used in their domains, and many actors have already
+incorporated them into their work. In this section, we look at public assessment of the scale
+of generative AI use in different sectors, as well as what people believe the use of these
+technologies will mean for their own experience of the sector in question, for them personally
+and for society.
+Perceptions of use across sectors
+In terms of how frequently, if at all, people think generative AI is being used by different kinds
+of actors today, overall there is a widespread public perception that generative AI is already
+everywhere, at least to some extent – the number of respondents who believe generative AI is
+used ‘always’ or ‘often’ in different sectors is 41% on average across countries, far exceeding
+those who say it is used ‘rarely’ or ‘never’ (15%) (Figure 24, see next page). Younger respondents
+are less likely to say they think various sectors are using generative AI always or often, but
+more likely to say ordinary people are.
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+38
+Figure 24. Proportion who think each are using generative AI today
+On average across six countries, the proportion of respondents who believe generative AI is used always or often in
+different sectors far exceeds those who say it is used rarely or never.
+AI_actorsuse. How frequently, if at all, do you think generative AI is being used by each of the following today? Base: Total sample
+across Argentina, Denmark, France, Japan, the UK, the USA = 12,217.
+That said, these technologies are still primarily associated with media and communication;
+the percentage of people who say they think they are being used ‘always’ or ‘often’ is much
+higher for news media (51%) and, especially, social media companies (68%) and search engine
+companies (67%).
+For most other sectors, public assessment of the frequency of use is basically about the same
+as public assessment of how frequently ordinary people use generative AI, which in turn is
+basically in line with how many in fact say they have used at least one AI tool in the last week.
+Of course, it can be hard to assess whether someone or some institution is using generative AI,
+and for most sectors more than a fifth of our respondents say they don’t know how frequently
+these technologies are being used.
+Overall, our data suggest much of the public believes generative AI is already fairly widely used
+across society and is especially intensely used in the news media and technology industries.
+What do people then make of what such use will mean for them?
+Always Often Sometimes Rarely Never Don't know
+Search engine companies
+Social media companies
+News media
+Scientists
+Politicians and political parties
+The national government
+Military
+Banks and other financial institutions
+Ordinary people
+Law enforcement
+Retailers
+Healthcare professionals
+30% 37% 13% 13%
+29% 39% 12% 13%
+14% 37% 24% 16%
+10% 30% 24% 9% 21%
+30% 24% 8% 22%
+25% 25% 24%
+9% 22% 22% 11% 28%
+26% 26% 24%
+29% 35% 12% 14%
+20% 26% 13% 27%
+24% 31% 12% 23%
+22% 32% 13% 22%
+39
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+Perceived effect of use in different sectors on people’s lives
+To understand this better, we asked respondents how much better or worse they think different
+actors’ use of generative AI will make people’s experience of interacting with them. This is
+necessarily a broadly phrased question, and ‘interacting with’ only captures parts of all the
+ways in which the use of generative AI may shape how different institutions affect us. But the
+data still provide a useful sense of people’s expectations.
+For most sectors, half or more of our respondents express a clear expectation for better or
+worse, even as many answer ‘neither better nor worse’ or simply that they don’t know (Figure
+25). On average, across all countries and all sectors, 29% are optimistic and 22% pessimistic.
+Figure 25. Proportion who think generative AI will make their experience of interacting with
+each better
+On average across all six countries, and averaging across all sectors, 29% are optimistic and 22% pessimistic.
+AI_actorsexperience. How much better or worse do you think their use of generative AI will make your experience of interacting
+with each of the following? Base: Total sample across Argentina, Denmark, France, Japan, the UK, the USA = 12,217.
+Much better Somewhat better Neither better nor worse Don't know Not applicable
+Somewhat worse Much worse
+Search engine companies
+Scientists
+Social media companies
+Healthcare professionals
+Military
+Ordinary people
+News media
+Banks and other financial institutions
+Law enforcement
+Retailers
+The national government
+Politicians and political parties
+16% 27% 21% 17% 9%
+13% 24% 21% 22%
+12% 21% 22% 17% 12% 12%
+11% 26% 21% 20% 9%
+9% 15% 24% 26% 9%
+8% 21% 28% 18% 12% 9%
+8% 18% 23% 18% 15% 15%
+20% 25% 22% 12%
+18% 25% 23% 11% 11%
+23% 28% 22% 9%
+15% 25% 23% 13% 14%
+13% 25% 21% 15% 16%
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+40
+The net balance between how many expect their experience of interacting with a given sector
+or set of actors will get somewhat or much better, and those who expect it will get somewhat
+or much worse provides a sense of different public expectations across sectors. Generally, there
+are more optimists than pessimists – for sectors like healthcare, science, and search engines
+there is a particularly clear preponderance. Only three sectors see the pessimists outnumber
+the optimists: news media, government, and, especially, politicians and political parties
+(Figure 26).
+Figure 26. Net difference between proportion who thinks generative AI will make their experience
+of interacting with each better or worse
+On average across six countries, only three sectors see the pessimists outnumber the optimists – news media,
+government, and, especially, politicians and political parties.
+AI_actorsexperience. How much better or worse do you think their use of generative AI will make your experience of interacting
+with each of the following? Base: Total sample across Argentina, Denmark, France, Japan, the UK, the USA = 12,217.
+Our data on public assessment of the scale of generative AI use across different sectors, and
+their expectations as to whether this use will make their own experience of dealing with the
+actors in question better can be used to map a nuanced overall landscape. Compared to the
+average share of respondents who say they believe generative AI is used ‘always’ or ‘often’
+in a given sector (41%) and the average share of respondents who say they believe the use of
+generative AI will make their experience of interacting with a given sector better (29%), we can
+identify sectors that stand out.
+−10
+−5
+5
+10
+15
+20
+25 2626
+2222
+1818
+1515
+99
+88
+66
+55
+33
+−3−3
+−6−6
+−13 −13
+Search engine companies
+Scientists
+Healthcare professionals
+Retailers
+Social media companies
+Ordinary people
+Banks and other financial
+institutions
+Military
+Law enforcement
+News media
+The national government
+Politicians and political
+parties
+41
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+In a few sectors, people think generative AI is particularly widely used and many expect this
+will improve their experience. This is the case for search and social media. In other sectors,
+people don’t think generative AI use is particularly widespread, but they still expect it will
+benefit them. This is the case for health care and science. Then there are sectors where
+expectations are particularly low – most notably government use, and use by politicians and
+political parties (Figure 27) but also the news media.9
+ As most people’s personal experience of
+using generative AI is limited, and our insight into how different institutions use it (let alone
+our ability to assess what the implications are) even more so, it is important to stress that these
+are aggregate public judgements and will at least in part reflect the cues and heuristics from
+popular culture, news media, and various opinion-makers that people rely on when making
+up their mind – and some of these are more positive around, for example, science than around
+news and politics (Ross Arguedas 2024).
+Figure 27. Proportion who think generative AI will make their experience of interacting with each
+better plotted against proportion who think each is always/often using it now
+On average across six countries, people think that social media and search engines are using generative AI right now
+and expect it to improve their experience, but expectations are low for the news media.
+AI_actorsuse. How frequently, if at all, do you think generative AI is being used by each of the following today? AI_
+actorsexperience. How much better or worse do you think their use of generative AI will make your experience of interacting with
+each of the following? Base: Total sample across Argentina, Denmark, France, Japan, the UK, the USA = 12,217.
+9 It is important to stress here that these figures are not an objective indicator of whether people will in fact benefit – they reflect
+aggregates of people’s subjective experiences, shaped by a mix of preconceptions, personal experiences, and peer input, but in
+many cases also public debate and marketing.
+0
+20
+40
+0 10 20 30 40 50 60 70 80%
+Search
+engine
+companies
+Search
+engine
+companies
+Scientists Scientists
+Healthcare
+professionals
+Healthcare
+professionals
+Social
+media
+companies
+Social
+media
+Law enforcement companies
+News
+media
+News
+media
+Politicians
+and political
+parties
+Always/often
+using now
+Always/often
+using now
+Make experience
+much/somewhat
+better
+Make experience
+much/somewhat
+better
+10
+30
+50%
+Retailers
+Ordinary
+people
+Banks and
+other financial
+Military institutions
+The national government
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+42
+Personal versus societal impact of generative AI
+As we did last year, we have asked respondents if they think that generative AI will make their
+life better or worse, and whether it will make society better or worse. The answers are largely
+similar to last year. About half of our respondents answer ‘neither better nor worse’ or ‘don’t
+know’ when it comes to their own life, and a third when it comes to society – the latter mainly
+because there are more pessimists when it comes to the societal implications of generative
+AI than when it comes to the individual implications (Figure 28). There may be irrational
+exuberance around these technologies in some quarters, but not in the public at large.
+Figure 28. Proportion who think generative AI will make their live and society better
+On average across six countries, female respondents are less likely to expect that generative AI will make their life
+better and society better.
+AI_betterpersonal/bettersociety. Overall, do you think that generative AI will make your life/society better or worse?
+Base: Total sample across Argentina, Denmark, France, Japan, the UK, the USA who are male = 6052, female = 6513.
+When it comes to the impact of generative AI on people’s own lives, the optimists outnumber
+the pessimists in four of the six countries covered, and only in the UK do we see significantly
+more pessimists. This overall cautious optimism is well aligned with the overall sense that
+there are – with some notable exceptions – many important sectors where AI may bring people
+benefits as documented above.
+When it comes to the impact of generative AI on society, there is much more pessimism. In
+three of the six countries there are significantly more pessimists than optimists – including
+the USA, where many of the technologies involved have been developed and many of the
+companies pushing them are based (Figure 29). Compared to last year, there has been a
+significant swing in US public opinion in a more negative direction – the percentage who expect
+generative AI to make society better has declined by 6 percentage points, and the share who
+expects it to make it worse has increased by 7 percentage points.
+This pessimism is no doubt in part about reservations in some quarters over the use of
+generative AI by social media companies, search engine companies, and other technology
+companies – and to some extent news media – but probably also because many are worried that
+the use of generative AI by governments, politicians, and political parties will be for the worse.
+Again, as noted above, elite debate and media discussions around these technologies can come
+across as quite positive for some use-cases, even as it is often more negative for what it might
+mean for public life.
+Much/somewhat better Neither Don't know Much/somewhat worse
+Society
+Male
+Female
+My life
+Male
+Female
+36% 26% 8% 30%
+29% 27% 9% 34%
+36% 37% 8% 19%
+30% 40% 10% 20%
+43
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+Figure 29. Proportion who think generative AI will make their life and society better
+In four out of six countries covered, more people think that generative AI will make their lives better. When it comes
+to the impact of generative AI on society, there is much more pessimism.
+AI_betterpersonal/bettersociety. Overall, do you think that generative AI will make your life/society better or worse?
+Base: Total sample in each country ≈ 2000.
+As we found last year, younger people (respondents under 35), tend to be significantly more
+optimistic when it comes to the impact of generative AI on both their own lives and society
+at large. Expectations around AI also differ along other socio-economic variables. Female
+respondents are significantly less likely to expect that generative AI will make their lives better.
+They are also significantly less likely to say they expect it to make society better, and they
+are more likely to expect it will make it worse (Figure 28). This probably reflects the growing
+number of gendered forms of harm AI has contributed to.
+Much/somewhat better Neither Don't know Much/somewhat worse
+Average of six countries
+My life
+Society
+UK
+My life
+Society
+USA
+My life
+Society
+France
+My life
+Society
+Denmark
+My life
+Society
+Japan
+My life
+Society
+Argentina
+My life
+Society
+33% 39% 9% 19%
+32% 27% 8% 33%
+24% 36% 10% 30%
+20% 20% 10% 49%
+33% 32% 9% 25%
+30% 19% 9% 42%
+24% 42% 9% 25%
+20% 30% 8% 41%
+31% 44% 8% 17%
+36% 31% 8% 25%
+37% 45% 9% 10%
+42% 38% 7% 13%
+49% 32% 9% 11%
+46% 21% 8% 25%
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+44
+4. Public Opinions on the Use of Generative AI in
+Journalism and News
+Overall comfort with AI in news
+This section focuses on what people think of generative AI being used for news and journalism
+specifically. News organisations have been using various forms of AI for some time, and some
+of them have been experimenting with generative AI for several years now (Simon 2024: 46).
+Nonetheless, as we showed last year, the public remain cautious about its use in newsrooms
+(see also Mitova et al. 2025; Mitchell et al. 2025; Lipka 2025; Morosoli et al. 2025). On average
+across six countries, just 12% say they are very or somewhat comfortable with news made
+entirely by AI, rising to 21% if there is some human oversight, sometimes also known as the
+‘human in the loop’ (Figure 30). Comfort with news production that puts humans in the driving
+seat is considerably higher, with 43% saying they are comfortable with news made mostly by a
+human with some help from AI, and 62% saying they are comfortable with news made entirely
+by a human journalist – up 4 percentage points compared to 2024. This change has contributed
+to a slight widening of the ‘comfort gap’ between AI- and human-driven news production in the
+last year.
+Figure 30. Proportion comfortable with news made in each way
+On average across six countries, public comfort levels are lower the more AI is relied upon for news. The ‘comfort
+gap’ between AI- and human-driven news production has grown slightly since 2024.
+AI_news_comfort. In general, how comfortable or uncomfortable are you with using news produced in each of the following
+ways? Base: Total sample across Argentina, Denmark, France, Japan, the UK, the USA in each year ≈ 12,000.
+As we highlighted in our 2024 report (Fletcher and Nielsen 2024), younger people tend to be
+more comfortable with AI-driven news production, but even here – and among most other
+demographic groups – the comfort gap exists. The comfort gap can be seen in all six countries
+studied (Figure 31, see next page), especially Denmark and the UK, but it is smaller in Japan and
+Argentina.
+2024 2025
+20
+40
+60%
+12% 12%
+21% 21%
+43% 43%
+62% 62%
+Entirely by AI
+−2
+Mostly by AI with
+some human
+oversight
+±0
+Mostly by a human
+journalist with some
+help from AI
++2
+Entirely by a human
+journalist
++4
+45
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+Figure 31. The comfort gap between AI- and human-driven news production
+The gap between levels of comfort with news made primarily by AI and primarily by humans is visible in every
+country but is larger in the UK and Denmark and smaller in Japan and Argentina.
+AI_news_comfort. In general, how comfortable or uncomfortable are you with using news produced in each of the following
+ways? Base: Total sample in each country ≈ 2000.
+Acceptance across topics and tasks
+In our 2024 report (Fletcher and Nielsen 2024), we showed how comfort with the use of AI
+in the newsroom varies by news topic, with people generally more comfortable with it being
+used for ‘soft’ news topics, such as arts and lifestyle, and less comfortable with it being
+used for serious topics, such as politics and international affairs. Comfort also varies by the
+journalistic task being performed (Figure 32, see next page). On average across six countries,
+people are more comfortable with AI being used for back-end tasks, such as editing the spelling
+and grammar of an article (55%) or translation into different languages (53+), but much less
+comfortable with rewriting the same article for different people (30%), creating a realistic
+image if a real photograph is not available (26%), and creating an artificial presenter or author
+(19%). These percentages are very similar to those from 2024, but the proportion comfortable
+with AI being used to write a headline increased from 38% to 41%. What this shows is that
+despite people becoming more aware of AI use, both overall and in the news, as well as higher
+personal use of AI, they seem to remain sceptical for now of its use in news contexts, where it is
+directly affects their user experience (see also Mitchell et al. 2025).
+Entirely by AI Mostly by AI with some human oversight
+Mostly by a human journalist with some help from AI Entirely by a human journalist
+UK
+Denmark
+France
+USA
+Japan
+Argentina
+0% 25% 50% 75% 100%
+Smaller comfort gap
+Larger comfort gap
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+46
+Figure 32. Proportion comfortable with generative AI being used for each
+On average across six countries, people are more comfortable with AI being used for back-end tasks like editing
+spelling/grammar and translation, but less comfortable with rewriting articles, creating photos, and creating
+authors/presenters.
+AI_news_tasks. In general, how comfortable or uncomfortable are you with each of the following news tasks being done mostly
+by artificial intelligence with some human oversight? Base: Total sample across Argentina, Denmark, France, Japan, the UK, the
+USA in each year ≈ 12,000. Note: We did not ask about researching a news story in 2024.
+Perceived prevalence of AI in news
+Although public comfort with these uses of AI is stable, people are now more likely to think
+journalists are regularly using AI to carry out these tasks (Figure 33, see next page). In 2025,
+the proportion who said journalists ‘always’ or ‘often’ use generative AI for each has increased
+by at least 3 percentage points compared to 2024. The proportion who think journalists always
+or often use generative AI to edit the spelling and grammar of an article has increased 8
+percentage points, from 43% to 51%.
+2024 2025
+Editing the spelling and grammar of an
+article 53% 55%
+Translation into different languages 51% 53%
+Making charts and infographics 45% 47%
+Data analysis 43% 45%
+Writing a headline 38% 41%
+Turning a written article into audio or
+video (or vice versa) 38% 39%
+Researching a news story 38%
+Creating a generic image/illustration to
+accompany the text of an article 35% 35%
+Writing the text of an article 31% 33%
+Rewriting the same article for different
+people 29% 30%
+Creating a realistic image if a real
+photograph is not available 27% 26%
+Creating an artificial presenter or author 20% 19%
+(+3) (+3)
+Proportion
+uncomfortable
+larger than
+proportion
+comfortable
+Proportion
+uncomfortable
+larger than
+proportion
+comfortable
+47
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+Figure 33. Proportion who think journalists always or often use generative AI for each
+On average across six countries, the proportion who said journalists ‘always’ or ‘often’ use generative AI for each
+has increased by at least 3 percentage points compared to 2024.
+AI_news_prevalence. How often, if at all, do you think the news media do each of the following mostly using artificial intelligence
+with some human oversight? Base: Total sample across Argentina, Denmark, France, Japan, the UK, the USA in each year ≈ 12,000.
+Note: We did not ask about researching a news story in 2024.
+One positive finding is that, at the task level, people’s comfort with journalists using generative
+AI for specific tasks is correlated with how often they think journalists actually use generative
+AI in this way (Figure 34, see next page). In other words, people think that journalists use AI in
+ways that the public are generally comfortable with. For example, comfort with AI being used
+to edit spelling and grammar is relatively high (55%), and this is also the task that people think
+journalists regularly perform with AI most often (51%). Conversely, just 19% are comfortable
+with generative AI being used to create an artificial presenter or author, but only 20% think that
+this is done regularly.
+Editing the spelling and grammar of an
+article
+Translation into different languages
+Data analysis
+Making charts and infographics
+Researching a news story
+Writing a headline
+Creating a generic image/illustration to
+accompany the text of an article
+Turning a written article into audio or
+video (or vice versa)
+Writing the text of an article
+Rewriting the same article for different
+people
+Creating a realistic image if a real
+photograph is not available
+Creating an artificial presenter or
+author
+2024
+|
+2025
+|
+20% 30% 40% 50%
+43% 51%
+43% 49%
+41% 46%
+38% 44%
+38%
+30% 37%
+30% 36%
+30% 35%
+27% 34%
+28% 33%
+28% 32%
+17% 20%
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+48
+Figure 34. Comfort with the use of generative AI plotted against perceived prevalence
+On average across countries, people are more likely to think that journalists use generative AI in ways that they are
+more comfortable with.
+AI_news_tasks. In general, how comfortable or uncomfortable are you with each of the following news tasks being done mostly
+by artificial intelligence with some human oversight? AI_news_prevalence. How often, if at all, do you think the news media
+do each of the following mostly using artificial intelligence with some human oversight? Base: Total sample across Argentina,
+Denmark, France, Japan, the UK, the USA in each year ≈ 12,000.
+There’s some evidence that people’s comfort (or lack thereof) with news being made by AI is
+rooted in views about how they think it will shape different news qualities, such as how easy it
+is to understand. As in last year’s survey, we asked respondents whether news produced mostly
+by artificial intelligence with some human oversight is likely to be more or less trustworthy,
+easier to understand, transparent, etc. compared to news produced entirely by a human
+journalist (Figure 35, see next page). If we look at the net score for each quality – which is
+the proportion who said ‘much less’ or ‘somewhat less’ subtracted from the proportion who
+said ‘much more’ or ‘somewhat more’ – we see clear and pronounced differences. On average
+across six countries, people are more likely to think that generative AI will make news cheaper
+to make (+39) and more up to date (+22), but also less transparent (-8) and, crucially, less
+trustworthy (-19). In other words, to some extent people think that generative AI will primarily
+benefit publishers rather than them as users. What’s more, although this pattern was clearly
+evident in 2024, public opinion seems to have hardened slightly, with some of the net scores
+increasing in 2025 but none of them decreasing.
+0
+10
+20
+30
+40
+50
+60
+70%
+0 10 20 30 40 50 60 70%
+Creating
+an artificial
+presenter
+or author
+Creating
+an artificial
+presenter
+or author
+Editing the
+spelling
+and grammar
+of an
+article
+Editing the
+spelling
+and grammar
+of an
+article
+Researching
+a news
+story
+Researching
+a news
+story
+Proportion
+comfortable with
+generative AI
+being used for this
+Proportion
+comfortable with
+generative AI
+being used for this
+Proportion who
+think journalists
+always/often use
+generative AI for
+this
+Proportion who
+think journalists
+always/often use
+generative AI for
+this
+49
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+Figure 35. Net difference between proportion who think generative AI will make news more or less
+of each
+On average across six countries, compared to 2024 people’s view about the effect of generative AI and news have
+become slightly stronger.
+AI_news_qualities. In general, do you think that news produced mostly by artificial intelligence with some human oversight is
+likely to be more or less of each of the following compared to news produced entirely by a human journalist? Base: Total sample
+across Argentina, Denmark, France, Japan, the UK, the USA = 12,217. Note: Figures are the percentage point difference between
+Much/somewhat more and Much/somewhat less.
+As we have seen in many places throughout this report, people in Japan and Argentina tend to
+be more positive about the impact of generative AI on news (Figure 36, see next page). Here,
+people tend to think that generative AI will make most news qualities better. Elsewhere, we
+see more differentiated views, and in the UK people think that generative AI will make many
+aspects of the news worse. But across countries, the rank order of the effect on each quality
+remains broadly consistent.
+2024 2025
+20
+3939
+2222
+1212
+88 2 1
+−2
+−4
+−5−5
+−8−8
+−19 −19
+Cheaper to make
+Up to date
+Easier to understand
+Informative
+Entertaining
+Unbiased
+Accurate
+Distinctive
+Relevant
+Transparent
+Trustworthy
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+50
+Figure 36. Net difference between proportion who think generative AI will make news more or less
+of each
+In Japan and Argentina, people think that most news qualities will be improved by generative AI but in Europe and
+the USA, people see a mixture of better and worse outcomes.
+AI_news_qualities. In general, do you think that news produced mostly by artificial intelligence with some human oversight is
+likely to be more or less of each of the following compared to news produced entirely by a human journalist? Base: Total sample in
+each country ≈ 2000. Note: Figures are the percentage point difference between Much/somewhat more and Much/somewhat less.
+Perceived prevalence of AI in news
+A key issue around the use of AI in journalism is human oversight. News organisations and
+news scholars regularly stress the importance of ‘having a human in the loop’, particularly
+when it comes to checking generative AI outputs (Porlezza and Schapals 2024). However, when
+asked, just 33% on average across six countries think that journalists ‘always’ or ‘often’ check
+AI outputs to make sure they are correct or of a high standard before publishing them, with
+percentages slightly higher in Japan (42%) and Argentina (44%), but lower in the UK (25%)
+(Figure 37, see next page). The figures are roughly similar to those from 2024, but there was a
+slight decrease in the USA (-3 percentage points) and slight increases in Japan and Argentina
+(both +3 percentage points). There was a larger increase in Denmark (+6 percentage points),
+which may reflect efforts by Danish publishers to promote their responsible use of AI.
+UK France USA
+Denmark Japan Argentina Cheaper to make Cheaper to make Up to date Up to date
+0
+Easier to understand Easier to understand
+Informative Informative
+Entertaining Entertaining
+Unbiased Unbiased
+Accurate Accurate
+Distinctive Distinctive
+Relevant Relevant
+Transparent Transparent
+Trustworthy Trustworthy
+50
+Cheaper to make Cheaper to make
+Up to date Up to date
+Easier to understand Easier to understand
+Informative
+Entertaining Entertaining
+Unbiased Unbiased
+Accurate Accurate
+Distinctive Distinctive
+Relevant Relevant
+Transparent Transparent
+Trustworthy Trustworthy
+Cheaper to make Cheaper to make
+Up to date Up to date
+Easier to understand Easier to understand
+Informative Informative
+Entertaining Entertaining
+Unbiased Unbiased
+Accurate Accurate
+Distinctive Distinctive
+Relevant Relevant
+Transparent Transparent
+Trustworthy Trustworthy
+Cheaper to make Cheaper to make
+Up to date Up to date
+Easier to understand Easier to understand
+Informative Informative
+0
+Entertaining Entertaining
+Unbiased Unbiased
+Accurate Accurate
+Distinctive Distinctive
+Relevant Relevant
+Transparent Transparent
+Trustworthy Trustworthy
+50
+Cheaper to make Cheaper to make
+Up to date Up to date
+Easier to understand Easier to understand
+Informative
+Entertaining Entertaining
+Unbiased Unbiased
+Accurate Accurate
+Distinctive Distinctive
+Relevant Relevant
+Transparent Transparent
+Trustworthy Trustworthy
+Cheaper to make Cheaper to make
+Up to date Up to date
+Easier to understand Easier to understand
+Informative Informative
+Entertaining Entertaining
+Unbiased Unbiased
+Accurate Accurate
+Distinctive Distinctive
+Relevant Relevant
+Transparent Transparent
+Trustworthy Trustworthy
+51
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+Figure 37. Proportion who think human editors check AI outputs before publishing them
+Around one third on average think that journalists always or often check AI outputs. People are less likely to think
+regular checking takes place in the USA compared to 2024, but more likely in Denmark, Japan, and Argentina.
+AI_news_checking. How often, if at all, do you think human editors check AI outputs to make sure they are correct or of a high
+standard before publishing them? Base: Total sample in each country-year ≈ 2000.
+Of course, most people do not have direct experience or knowledge of what goes on in
+newsrooms, so the fact that a relatively low proportion thinks that regular checking takes place
+to some extent reflects cynicism about the news media as an institution. This is borne out when
+we look at the data on checking by different levels of trust in news (Figure 38, see next page).
+Among those that strongly trust the news in their country, 57% say that they think journalists
+always or often check outputs, but this falls to just 19% among those that strongly distrust.
+This is another reminder of the importance of trust in news for journalism’s ability to innovate
+while maintaining the confidence of the public – and perhaps a warning against complacent
+thinking that AI transparency measures implemented by many organisations on their own will
+be enough.
+Always Often Sometimes Rarely Never Don't know
+Average of six countries
+2024
+2025
+UK
+2024
+2025
+USA
+2024
+2025
+France
+2024
+2025
+Denmark
+2024
+2025
+Japan
+2024
+2025
+Argentina
+2024
+2025
+11% 21% 29% 14% 21%
+10% 23% 31% 14% 17%
+7% 18% 30% 16% 25%
+6% 19% 34% 18% 20%
+11% 19% 33% 16% 17%
+7% 20% 35% 17% 16%
+8% 20% 26% 16% 6% 25%
+6% 21% 29% 16% 23%
+7% 21% 31% 15% 24%
+8% 28% 34% 13% 15%
+17% 22% 26% 8% 7% 20%
+16% 26% 28% 7% 7% 17%
+16% 24% 25% 13% 17%
+18% 26% 28% 12% 12%
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+52
+Figure 38. Proportion who think human editors check AI outputs before publishing them
+People who trust the news are considerably more likely to think that AI outputs are regularly checked.
+News_Trust. Generally speaking, how much do you trust or distrust the news in your country? AI_news_checking. How often, if at
+all, do you think human editors check AI outputs to make sure they are correct or of a high standard before publishing them? Base:
+Total sample across Argentina, Denmark, France, Japan, the UK, the USA who Strongly trust the news = 1020, Somewhat trust =
+4817, Neither trust nor distrust = 3161, Somewhat distrust = 2304, Strongly distrust = 1025.
+It is also clear that people hold a differentiated view about how different news organisations
+will use generative AI. On average across six countries, people are more likely to think there
+will be ‘very’ or ‘somewhat’ large differences in how responsibly different news outlets will use
+generative AI (43%) rather than small differences (28%) (Figure 39). Despite the news landscape
+being very different in each of the six countries, the pattern is remarkably consistent. France is
+the exception, however, where the proportion who think there will be large differences (35%)
+is roughly the same as the proportion who think the differences will be small (34%). Across
+countries, between one quarter and one third say they ‘don’t know’, reflecting the fact that
+there is still considerable uncertainty about how AI will be used.
+Figure 39. Proportion who think there will be large differences in how responsibly different news
+outlets will use generative AI
+On average across six countries, people are more likely to think there will be large rather than small differences in
+how responsibly different news outlets will use generative AI.
+AI_news_responsibleoutlets. How large or small do you think the difference will be in how responsibly different news outlets will
+use generative AI? Base: Total sample in each country ≈ 2000.
+Always Often Sometimes Rarely Never Don't know
+Strongly trust
+Somewhat trust
+Neither trust nor distrust
+Somewhat distrust
+Strongly distrust
+25% 32% 22% 8% 10%
+11% 29% 33% 10% 14%
+8% 19% 35% 14% 21%
+7% 18% 33% 20% 17%
+13% 22% 27% 14% 19%
+Average of six countries
+UK
+USA
+Argentina
+Japan
+Denmark
+France
+22% 29% 29% 14%
+16% 33% 28% 18%
+23% 26% 27% 18%
+8% 20% 25% 29% 18%
+21% 31% 31% 12%
+24% 24% 35% 12%
+8% 26% 33% 26% 9%
+Very small differences Somewhat small differences Don't know
+Somewhat large differences Very large differences
+53
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+Perception of audience-facing AI features and labels
+In addition to the fact that few people know about the day-to-day work of journalists, another
+reason for this uncertainty about how AI will be used in news is that most people (60%) do not
+yet regularly see AI-powered, audience-facing features – such as bullet-point summaries and
+chatbots – on news websites and apps. While a handful of outlets, like the Financial Times in the
+UK and the Washington Post in the USA, have experimented with and introduced features like
+these, many of the most popular and widely used outlets have not.
+An example of an AI feature on a news website: The Financial Times’ chatbot ‘Ask FT’. Source: Screenshot.
+An example of an AI-summary at The Economist. Source: Screenshot.
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+54
+We presented people with four different, very common uses of AI by news organisations based
+on recent industry research (Newman and Cherubini 2025). The patterns vary by country, but
+on average, people are slightly more likely to have seen an AI bullet-point summary of a news
+story (19%), than an AI chatbot that answers questions about the news (16%). Features offering
+AI audio (14%) and video (11%) conversion of news stories are less frequently encountered
+(Figure 40).
+Figure 40. Proportion who have seen each AI feature when using news in the last week
+On average across six countries, most people do not regularly see AI-powered features on news websites and apps
+– but they are more regularly seen in the USA, Japan, and Argentina.
+AI_news_features. Which of the following features have you come across while using a news website or app in the last week
+(even if you did not actually use them)? Base: Total sample in each country ≈ 2000.
+Another way people can be made aware of the use of AI in the newsroom is when news outlets
+label their content as being made with the help of (generative) AI. On average across six
+countries, 19% say that they see these labels daily, with a further 9% saying they see them on
+a weekly basis – meaning that, in common with the other AI features discussed earlier, most
+people do not encounter labels regularly. To put this into some kind of context, it is worth
+remembering that 77% of respondents in our survey say that they use the news on a daily basis,
+meaning that only a small fraction of frequent news users regularly see AI labelling or other
+forms of AI disclosure.
+Again, the numbers vary by country (Figure 41, see next page). In the UK, 6% say they see labels
+daily, compared to 12% in Denmark, 16% in the USA and France, and around one third in Japan
+(33%) and Argentina (32%). This will partly reflect differences in frequency of news use, but
+also different approaches to labelling adopted by outlets in different countries. However, it is
+worth keeping in mind that labels are not always easy for users to spot, and as with any data
+from surveys, respondents’ recall can be prone to error.
+An AI (bulletpoint) summary
+of a news story
+at the top of an
+article.
+An AI audio
+version of a
+news article
+An AI video
+version of a
+news article
+An AI news
+chatbot that
+lets you ask
+questions about
+the news
+None of these
+Average of
+six countries 19% 14% 11% 16% 60%
+UK 15% 5% 5% 7% 76%
+USA 24% 14% 12% 19% 55%
+France 16% 10% 10% 17% 62%
+Denmark 11% 8% 6% 11% 73%
+Japan 24% 25% 13% 16% 50%
+Argentina 21% 19% 23% 23% 44%
+55
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+Figure 41. Proportion who see news labelled as being made using generative AI
+On average across six countries, only a small fraction of people that use news on a daily basis say that they see
+labelled generative AI news daily.
+AI_news_labelling_seen. How often, if at all, do you see labels or disclaimers indicating that a news story was made entirely
+or partly using (generative) AI? DNR_Q1b_NEW. Typically, how often do you access news? Base: Total sample across Argentina,
+Denmark, France, Japan, the UK, the USA = 12,217.
+Although many prominent news outlets have a policy to clearly label content that has been
+produced with the help of generative AI, the public may suspect that AI has been used to make
+unlabelled content, especially in the context of low levels of trust in news in many countries
+(Newman et al. 2025). Fortunately for news organisations, this is a relatively fringe view (Figure
+42, see next page). Only around 15% on average say that they always or often encounter ‘a news
+story and suspect that it might have been made entirely or partly using generative AI – even
+though it was not labelled as such’.
+25
+50
+75
+100%
+19% 19%
+9%9%
+10% 10%
+33% 33%
+28% 28%
+77% 77%
+12% 12%
+5%5%
+3%3%2%2%
+Sees labelled generative AI
+news
+Uses news
+Daily
+Weekly
+Monthly
+Never
+Don't know
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+56
+Figure 42. Proportion who think they see unlabelled generative AI news content each week
+The proportion who think they regularly see unlabelled generative AI news content each week is typically low, but
+varies by country.
+AI_news_suspected. How often, if at all, do you read, watch, or listen to a news story and suspect that it might have been made
+entirely or partly using generative AI – even though it was not labelled as such? Base: Total sample in each country ≈ 2000.
+The figure is as high as 30% in Argentina and 17% in the USA, but falls to around 10% in Japan
+and Europe. Less reassuring is the fact that most people think that they encounter unlabelled
+AI content on news sites at least some of the time. Of course, people have no way of knowing
+for sure, and they may well be incorrectly perceiving the use of AI. But these perceptions are
+still real and given that the use of AI in news is viewed quite cautiously by the public, clearly
+communicating their AI policies remains important for news organisations across the world.
+10
+20
+30%
+30% 30%
+17% 17%
+15% 15%
+12% 12% 12% 12%
+8%8% 8%8%
+Argentina USA Average of
+six
+countries
+France Japan UK Denmark
+57
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+Conclusion
+We have documented public use of, perceptions of, and expectations around generative AI in news
+specifically, and across society and people’s own life in six countries. Based on online surveys
+of nationally representative samples, we have shown how awareness and use of generative AI
+systems have grown rapidly over the year since we last surveyed these countries, with weekly usage
+nearly doubling from 18% to 34%.
+In terms of what people say they do with generative AI, creating media is still an important use,
+but overall, information-seeking has become the most widespread type of use. This involves many
+different tasks – researching a topic, asking advice, or answering factual questions – and includes
+getting news. The latter is growing, but it is not yet particularly widespread; it has doubled from
+a low base from 3% to 6%, but it is still only about one in six regular generative AI users who say
+they use these tools to get news.
+A crucial question going forward is the balance between the role of standalone generative AI
+systems such as ChatGPT and its competitors versus the integration of various forms of generative
+AI into already widely used products and services like search engines and social media. AIgenerated search answers, rolled out to many users by first Microsoft and then Google in the last
+year or so, is a particularly prominent example of this. In a remarkable illustration of how such
+integration can drive exposure, seeing AI-generated summaries is now more common (54% say
+they have seen such answers in the last week) than having used any of the generative AI systems
+or tools we ask about (34% say they have in the same period). News publishers who have long
+received a large volume of search referrals are understandably concerned about this development,
+as not only are AI summaries widely seen, in line with what others have found in studies of
+individual countries (Chapekis and Lieb 2025), but across all countries covered many of our
+respondents also say they do not click through to source links when they encounter AI summaries.
+While the vast majority of the public are now at least aware of various generative AI systems
+and many use them, most people have not made up their mind about whether they trust these
+systems. Several of the most widely used tools – ChatGPT, Gemini, and Copilot – have more people
+saying they trust them than distrust them (whereas public opinion is net negative for several
+others including, for example, DeepSeek and Meta AI). While 50% of those who say they have
+encountered AI answers in search say they trust them, in most cases, there is a ‘trust gap’ between
+how many people say they trust the news, and how many say they trust even the most widely used
+AI tools. This is akin to similar gaps we have documented in the past between how people think of
+the news media versus news found via search engines and social media (Mont’Alverne et al. 2022).
+Looking beyond personal use, our respondents from six countries think that generative AI is
+already prevalent across sectors, with an average of 41% believing it’s used ‘always’ or ‘often’
+across a range of different sectors. Of course, it is not always clear whether and how much actors in
+a particular sector are using specific technologies, but we at least can say that people’s judgement
+of how often other people are using generative AI is pretty good – 36% of our respondents say
+others are using these tools ‘always’ or ‘often’, compared to 34% of respondents who are using
+them at least weekly.
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+58
+Asked how much better or worse they think different actors’ use of generative AI will make their
+experience of interacting with them, many respondents answer ‘neither better nor worse’ or simply
+that they don’t know. But a majority do express a view, and on average, across all countries and
+sectors, 29% are optimistic and 22% pessimistic. Looking more closely across sectors, however,
+there is significant variation. Generally there are more optimists than pessimists, especially for
+sectors like healthcare, science, and search engines, but in other sectors, pessimists outnumber the
+optimists. This is the case for the news media, government, and, especially, politicians and political
+parties.
+Public opinion is similarly nuanced when it comes to the impact generative AI will have on the
+respondents’ own lives, versus the impact on society – the optimists outnumber the pessimists in
+four of the six countries covered in terms of people’s own lives, but when it comes to society there
+are significantly more pessimists than optimists in three of the six countries. As we have noted
+above, there may be irrational exuberance around these technologies in some quarters, but that
+does not seem to be the case for the public at large.
+For news media, our findings are in some ways challenging – we document rapid growth in the
+use of a new set of tools bound to impact the discovery of information, how people use it, and,
+by extension over time, changing competition for both attention, advertising, and the money
+people are willing to spend on media and content. This will affect the news media irrespective
+of whether people use generative AI for getting news specifically. We also document that while
+many are cautious, or pessimistic, about what generative AI portents, many of the more regular
+users are more content with these tools, and many trust, for example, the AI summaries they see
+in search. Finally, the parts of our survey that focus on news specifically reinforce past findings
+– people are sceptical of the use of generative AI in the news, with a clear ‘comfort gap’ between
+AI- and human-led news production, and they have a pretty negative view of what the greater use
+of generative AI in news will mean for them – basically, more cheaply produced, less trustworthy
+news.
+There are also important encouraging findings, however – at least for some news media. The ‘trust
+gap’ between news and most generative AI tools will be welcome news for many journalists. The
+premium on human involvement plays to the strength of those news media willing and able to
+invest in original reporting and professional editing (even as they may at the same time invest
+aggressively in using various forms of AI for a whole slew of back-end tasks for efficiency and
+improved performance). And the fact that a large plurality of the public expect there to be very
+or somewhat large differences in how responsibly different news outlets will use generative AI
+provides a basis for individual news media brands to clearly demonstrate and communicate how
+they stand out – whether from ‘AI slop’ on the wider internet or old-fashioned ‘churnalism’ from
+competitors in the news media.
+Many journalists and media professionals might want the public to look more kindly on the sector
+as a whole, but ultimately they might settle for people at least valuing those who really do deliver
+stand-out journalism, also with the help of generative AI.
+59
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+References
+Brown, P. D., Jaźwińska, K. 2025. Journalism Zero: How Platforms and Publishers are Navigating
+AI. Tow Center for Digital Journalism, Columbia University Libraries.
+https://doi.org/10.7916/jkv1-f205
+Chapekis, A., Lieb, A. 2025. Google Users Are Less Likely to Click on Links when an AI Summary
+Appears in the Results. 22 July. Pew Research Center.
+https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-onlinks-when-an-ai-summary-appears-in-the-results/
+Fletcher, R., Nielsen, R. K. 2024. What Does the Public in Six Countries Think of Generative AI in
+News? Oxford: Reuters Institute for the Study of Journalism.
+https://reutersinstitute.politics.ox.ac.uk/what-does-public-six-countries-think-generative-ainews
+Hagar, N. 2024. Do People Want to Get Their News from Chatbots? What Data from Real-World
+LLM Interactions Tells Us. Medium. 12 September.
+https://generative-ai-newsroom.com/do-people-want-to-get-their-news-from-chatbots8a806495b65d
+Kirk, H. R., Gabriel, I., Summerfield, C., Vidgen, B., Hale, S. A. 2025. ‘Why Human–AI
+Relationships Need Socioaffective Alignment’, Humanities and Social Sciences Communications,
+12(728).
+https://www.nature.com/articles/s41599-025-04532-5
+Lipka, M. 2025. Americans Largely Foresee AI Having Negative Effects on News, Journalists. Pew
+Research Center, 28 April.
+https://www.pewresearch.org/short-reads/2025/04/28/americans-largely-foresee-ai-havingnegative-effects-on-news-journalists/
+Metz, C. 2025. ‘What to Know about DeepSeek and How it Is Upending A.I.’, The New York Times,
+27 January.
+https://www.nytimes.com/2025/01/27/technology/what-is-deepseek-china-ai.html
+Mitchell, A., Jens, S., Moon Sehat, C., LeCompte, C., Beed, N., Wright, E., Barchas-Lichtenstein,
+J. March 2025. ‘What the Public Wants from Journalism in the Age of AI’, Center for News,
+Technology & Innovation.
+https://innovating.news/wp-content/uploads/2025/04/CNTI_2025 WhatThePublicWantsFrom
+JournalismInTheAgeOfAI.pdf
+Mitova, E., Blassnig, S., Strikovic, E., Urman, A., Hannak, A., de Vreese, C., Esser, F. 2025.
+‘Exploring Public Attitudes Toward Generative AI for News Across Four Countries’, Journal of
+Quantitative Description: Digital Media, 5.
+https://doi.org/10.51685/jqd.2025.012
+THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM
+60
+Mont’Alverne, C., Badrinathan, S., Ross Arguedas, A., Toff, B., Fletcher, R., Nielsen, R. K. 2022.
+The Trust Gap: How and Why News on Digital Platforms Is Viewed More Sceptically Versus News in
+General. Oxford: Reuters Institute for the Study of Journalism, 22 September.
+https://doi.org/10.60625/risj-skfk-h856
+Morosoli, S., Resendez, V., Naudts, L., Helberger, N., de Vreese, C. 2025. ‘“I Resist”. A Study
+of Individual Attitudes Towards Generative AI in Journalism and Acts of Resistance, Risk
+Perceptions, Trust and Credibility’, Digital Journalism, 1–20.
+https://doi.org/10.1080/21670811.2024.2435579
+Murphy, H., Criddle, C., Moens, B. 2025. ‘How Elon Musk’s Rogue Grok Chatbot Became a
+Cautionary AI Tale’, Financial Times, 11 July.
+https://www.ft.com/content/7c9468c2-4dd7-458d-b58c-c8af3ea92cc8
+Newman, N., Cherubini, F. 2025. Journalism, Media, and Technology Trends and Predictions 2025.
+Oxford: Reuters Institute for the Study of Journalism.
+https://doi.org/10.60625/RISJ-VTE1-X706
+Newman, N., Fletcher, R., Robertson, C. T., Ross Arguedas, A., Nielsen, R. K. 2025. Digital News
+Report 2025. Oxford: Reuters Institute for the Study of Journalism.
+https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025
+Porlezza, C., Schapals, A. K. 2024. ‘AI Ethics in Journalism (Studies): An Evolving Field Between
+Research and Practice’, Emerging Media, 2(3), 356–370.
+https://doi.org/10.1177/27523543241288818
+Ross Arguedas, A. 2024. ‘OK Computer? Understanding Public Attitudes Towards the Uses of
+Generative AI in News’, Reuters Institute for the Study of Journalism, 16 July.
+https://reutersinstitute.politics.ox.ac.uk/news/ok-computer-understanding-public-attitudestowards-uses-generative-ai-news
+Simon, F. M. (2024). Artificial Intelligence in the News. How AI Retools, Rationalizes, and Reshapes
+Journalism and the Public Arena. Tow Center for Digital Journalism, Columbia University.
+https://doi.org/10.7916/ncm5-3v06
+Tamkin, A., McCain, M., Handa, K., Durmus, E., Lovitt, L., Rathi, A., Huang, S., Mountfield, A.,
+Hong, J., Ritchie, S., Stern, M., Clarke, B., Goldberg, L., Sumers, T. R., Mueller, J., McEachen, W.,
+Mitchell, W., Carter, S., Clark, J., Kaplan, J, Ganguli, D. (2024). Clio: Privacy-Preserving Insights
+into Real-World AI Use. arXiv.
+https://doi.org/10.48550/arXiv.2412.13678
+The Economist. 2025. ‘AI is Killing the Web. Can Anything Save It?’, 14 July.
+https://www.economist.com/business/2025/07/14/ai-is-killing-the-web-can-anything-save-it
+61
+GENERATIVE AI AND NEWS REPORT 2025: HOW PEOPLE THINK ABOUT AI’S ROLE IN JOURNALISM AND SOCIETY
+www.reutersinstitute.politics.ox.ac.uk www.digitalnewsreport.org
+With support from:

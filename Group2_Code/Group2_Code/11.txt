@@ -1,0 +1,1619 @@
+_____________________________________________________________________________________________________
+*Corresponding author: Email: jasminbharadiya92@gmail.com;
+J. Eng. Res. Rep., vol. 25, no. 3, pp. 85-103, 2023
+Journal of Engineering Research and Reports
+Volume 25, Issue 3, Page 85-103, 2023; Article no.JERR.100807
+ISSN: 2582-2926
+Rise of Artificial Intelligence in
+Business and Industry
+Jasmin Praful Bharadiya a*, Reji Kurien Thomas b
+
+and Farhan Ahmed c
+a University of the Cumberlands, United States.
+b Swiss School of Business and Management, Geneva, Switzerland.
+c Mid Sweden University, Sweden.
+Authors’ contributions
+This work was carried out in collaboration among all authors. All authors read and approved the final
+manuscript.
+Article Information
+DOI: 10.9734/JERR/2023/v25i3893
+Open Peer Review History:
+This journal follows the Advanced Open Peer Review policy. Identity of the Reviewers, Editor(s) and additional Reviewers,
+peer review comments, different versions of the manuscript, comments of the editors, etc are available here:
+https://www.sdiarticle5.com/review-history/100807
+Received: 27/03/2023
+Accepted: 29/05/2023
+Published: 05/06/2023
+ABSTRACT
+The ongoing development of business and the most recent advances in artificial intelligence (AI)
+allow for the many business practices to be improved by the capacity to establish new forms of
+collaboration, which is a significant competitive advantage. This rapidly developing technology
+enables to offer brand services and even some new forms of business interactions with consumers
+and personnel. The digitalization of AI concurrently emphasized for businesses that they need
+concentrate on their present strategies while also routinely and early pursuing new chances in the
+market. Not only in business but also in different industry sectors, Al techniques are being used and
+revolutionized different industry sectors. This review focuses on the application of AI techniques in
+business and different industries.
+Keywords: Artificial intelligence; business; healthcare; pharmaceutical; industry; machine learning ML.
+Review Article
+Bharadiya et al.; J. Eng. Res. Rep., vol. 25, no. 3, pp. 85-103, 2023; Article no.JERR.100807
+86
+1. INTRODUCTION
+Artificial intelligence (AI) is causing a revolution
+in business as well as the economy and society
+as a whole by changing the interactions and
+relationships that exist between stakeholders and
+individuals. The roots of artificial intelligence may
+be traced back to mythology from ancient
+Chinese, Greek, and other civilizations, where it
+was believed that automatons have true brains
+and were able to think and experience emotion.
+This is where the concept of artificial intelligence
+first emerged. However, according to Nilsson, the
+term "artificial intelligence" was first used in
+public during a workshop held in 1956 at
+Dartmouth College in the United States [1]. Since
+then, researchers from a variety of
+academic fields have made contributions to the
+field of artificial intelligence. Researchers in
+business management have been looking at how
+AI affects customers, businesses, and
+stakeholders in an increasingly automated and
+interconnected business world [2]. Computer
+scientists have created sophisticated deep
+learning algorithms [1,3]. Social scientists have
+been debating the ethical and legal ramifications
+of AI. Despite this, most of these advancements
+in AI research have been carried out in isolated
+enclaves with relatively little collaboration
+between different fields of study. In the same
+vein, it has not been easy to settle on a single
+definition of AI that is generally recognized by
+most people. The many concepts of AI systems
+have been organized by Russell and Norvig [4]
+into four categories along two dimensions: the
+human performance-rationality dimension and
+the reasoning-behavior dimension. Systems that
+act like people, systems that think rationally,
+systems that think like humans, and
+systems that think like humans are all examples
+of these types of artificial intelligence.
+Natural language processing, knowledge
+representation, automated reasoning, the use of
+the stored information to answer questions and
+draw new conclusions and machine learning
+should all be included in AI systems [4-6].
+Natural language processing, knowledge
+representation, automated reasoning, and the
+use of the stored information to answer questions
+and draw new conclusions should also be
+included. Because of these skills, AI systems will
+soon be able to engage in natural language with
+people and other machines. The global spread of
+research into fresh applications of AI, on the
+other hand, has not been hindered by the
+absence of a definition that is generally
+recognized.
+The market for cognitive and AI systems has
+been progressively developing over the course of
+the previous several years, as seen by the global
+expenditure of $24.0 billion on such systems in
+2018. According to IDC's 2019 projections, this
+investment will reach 77.6 billion dollars in 2022
+[7]. Researchers and practitioners of AI will
+benefit from having a comprehensive
+understanding of what has been explored and
+used in a variety of business domains (for
+example, manufacturing to services) and in a
+variety of disciplinary subjects, such as
+marketing, tourism, management, sociology,
+psychology, and so on. This is due to the fact
+that research on commercial applications of AI
+typically requires a perspective that draws from
+other disciplines. With the use of such in-depth
+knowledge, researchers will be able to prioritize
+their study topics, and practitioners will be able to
+make prudent investments in essential businessrelated AI aspects [8].
+It is interesting to note that several academics
+have made an attempt to carry out a
+comprehensive literature review on the use of AI
+in business. For example, Côrte-Real, Ruivo, and
+Oliveira [9] carry out a methodical mapping of the
+diffusion stages of business intelligence and
+analytics (BI&A) deployment and make a
+recommendation for more research in the postadoption stages, which were mostly disregarded
+at the time of the study's original publication.
+Moro, Cortez, and Rita [10] did a literature study
+that focused on business intelligence in banking
+between the years 2002 and 2013. Business
+intelligence uses AI algorithms for predictive
+analysis. Tká and Verner [11,12] noticed,
+throughout the course of their analysis of 20
+years' worth of research on the use of artificial
+neural networks in business, that the majority of
+the papers they looked at mentioned expert
+systems with applications. This was one of the
+findings from their investigation. As a final step,
+Duan, Edwards, and Dwivedi [13] conduct an
+analysis of relevant papers from the International
+Journal of Information Management. Their goal is
+to identify issues and challenges connected to
+the application of artificial intelligence (AI) for
+decision-making in the era of big data, as well as
+to provide theoretical advancement and AI
+implementation. While these projects do provide
+useful information on the latest advancements in
+business research and artificial intelligence, the
+majority of their focus is on certain applications
+(such as BI&A or decision support systems) or
+domains. The purpose of this study is to address
+this vacuum by providing an overview of the
+Bharadiya et al.; J. Eng. Res. Rep., vol. 25, no. 3, pp. 85-103, 2023; Article no.JERR.100807
+87
+present research on artificial intelligence (AI) in
+business. This will be accomplished by doing a
+comprehensive analysis of the history and stateof-the-art research on AI, as well as by projecting
+future trends in order to make useful ideas for
+further research on the subject.
+1.1 Artificial Intelligence
+It is necessary to provide a definition of the word
+"artificial intelligence" before analysing the ways
+in which AI technologies are influencing the
+business sector. The phrase "artificial
+intelligence" is a generic one that may be used to
+describe any variety of computer software that
+participates in tasks that are analogous to those
+performed by humans, such as learning,
+planning, and problem-solving. To refer to certain
+applications as "artificial intelligence" is like to
+referring to a car as a "vehicle"; while this is
+technically accurate, it does not encompass any
+of the nuances of the topic. We need to delve
+further if we want to learn which kind of artificial
+intelligence is most commonly used in business
+[14, 15].
+1.1.1 Machine learning
+One of the most prevalent forms of artificial
+intelligence (AI) currently being developed for
+use in business is known as machine learning.
+The primary goal of machine learning is to
+process vast volumes of data in a relatively short
+amount of time. The algorithms that make up
+these sorts of artificial intelligences give the
+impression that they "learn" over time [16,17]. If
+you give an algorithm for machine learning
+additional information, the modeling it produces
+should get better. The Internet of Things and
+linked gadgets are producing ever-increasing
+amounts of data, which can be difficult for
+humans to comprehend without the assistance of
+machine learning [18]. For instance, if you are
+the manager of a manufacturing company, the
+equipment in your facility is probably connected
+to the network. A centralized location receives a
+steady flow of information regarding the
+functionality, production, and other aspects of an
+organization's connected devices. Unfortunately,
+there is far too much information for a person to
+ever be able to sort through all of it, and even if
+they did, it is probable that they would overlook
+the majority of the patterns [19]. Machine
+learning can detect trends and abnormalities in
+real time. A machine-learning system can alert
+decision-makers that a manufacturing plant
+machine is underperforming and needs
+preventative maintenance [20,21]. Machine
+learning is vast. Deep learning emerged from
+artificial neural networks, a network of artificial
+intelligence "nodes" [22].
+1.1.2 Deep learning
+Deep learning uses neural networks for nonlinear
+thinking. Fraud detection requires deep learning.
+It does this by analyzing many factors [23]. Selfdriving automobiles must concurrently identify,
+analyze, and respond to multiple elements. Deep
+learning algorithms assist self-driving cars
+contextualize sensor data including object
+distance, speed, and 5-10-second predictions. A
+self-driving automobile calculates all this
+information at once to decide whether to change
+lanes [24]. Deep learning is promising in
+business and may be utilized increasingly. Deep
+learning models advance with additional data,
+but older machine-learning algorithms plateau.
+Deep learning models are more scalable,
+detailed, and independent [25].
+Fig. 1. Artificial intelligence
+Machine
+learning
+Deep
+learning
+Artificial
+Intelligence
+Bharadiya et al.; J. Eng. Res. Rep., vol. 25, no. 3, pp. 85-103, 2023; Article no.JERR.100807
+88
+1.2 AI in Business
+Artificial intelligence supports human intelligence
+and inventiveness rather than replacing it. AI can
+process and analyze large amounts of data
+quicker than a human brain, but it struggles with
+basic tasks. Then, AI software may offer
+synthesized actions to humans. Thus, AI can
+help us predict the outcomes of each action and
+simplify decision-making [26,27]. Amir Husain,
+creator and CEO of Spark Cognition, called
+artificial intelligence the second coming of
+software. “It’s software that makes its own
+decisions and acts in situations the programmers
+didn’t anticipate. AI can make more decisions
+than traditional software” [28]. AI is useful in
+numerous sectors, from helping visitors and staff
+navigate a corporate site to monitoring a wind
+turbine to forecast maintenance [29].
+2. AI APPLICATIONS IN BUSINESS
+There are several uses for artificial intelligence in
+business, but most of them are focused on
+fostering expansion. Companies are discovering
+novel methods to improve company performance
+by integrating artificial intelligence (AI) and
+machine learning (ML) [30]. The following is a list
+of some of the commercial benefits of AI.
+2.1 Machine Learning
+Massive data systems employ machine learning.
+Smart energy management systems take data
+from asset sensors. Machine-learning algorithms
+contextualize the data for your company's
+decision-makers to better comprehend energy
+use and maintenance needs [31].
+2.2 Cyber Security
+Husain said artificial intelligence is essential for
+finding computer network security weaknesses.
+AI systems can detect cyber-attacks and other
+cyber threats by analyzing data trends. It may
+pinpoint the source of a danger in your data and
+prevent future threats. Your infrastructure will
+benefit from AI's vigilant and constant eyes
+[32].“Because of scale and increasing
+complexity, you really can’t have enough cyber
+security experts to look at these problems,”
+Husain said. “AI is becoming more important
+here” [33].
+2.3 Managing Customers
+AI is also revolutionizing CRM systems. Sales
+force and Zoho need frequent human updates. AI
+turns a CRM system into a self-updating, autocorrecting relationship management system [34].
+ Increasing Productivity Through the
+Automation of Processes
+ Improving either the rate at which service is
+provided or its consistency.
+ Utilizing information gleaned from customers
+as a basis for decision-making
+ Discovering new markets for existing and
+potential products and services
+Fig. 2. AL in business
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+Management Quality
+controll
+Customer care Cybersecurity Fruad
+Detection
+% of AL in business
+% of AL in business
+Bharadiya et al.; J. Eng. Res. Rep., vol. 25, no. 3, pp. 85-103, 2023; Article no.JERR.100807
+89
+The use of AI is compatible with virtually any
+business tactic. To get started with AI, it is
+essential to first obtain a grasp of how data
+collecting and analysis factor into artificial
+intelligence. This is because artificial intelligence
+relies heavily on data. You will be better
+equipped to identify how artificial intelligence
+could be able to aid your sector if you examine
+the technique underlying AI first. Anyone
+interested in learning more about how AI is
+revolutionizing the world of business might
+consider enrolling in an introductory AI course
+such as the one offered by Wharton Online’s
+Artificial Intelligence for Business program. This
+can be an excellent place to start [35,36].
+2.4 Case Studies of Businesses Utilizing
+Artificial Intelligence
+You may not be aware of how frequently firms
+employ AI, but the frequency may surprise you.
+The uses of artificial intelligence are virtually
+limitless, ranging from marketing to operations to
+customer service. The following are some
+instances of how artificial intelligence is utilized in
+various business settings [37,38].
+2.5 Improving One's Service to
+Customers
+Have you ever gone to a website and were
+greeted by a chatbot when you went there?
+Customers may have direct interactions with AI
+most frequently through chatbots. This type of
+interaction is becoming increasingly widespread.
+Chatbots make it possible for businesses to
+automate many of the procedures involved in
+providing customer care and free up staff' time to
+focus on problems that call for a higher level of
+individualized attention. The ability to
+comprehend user requests is often accomplished
+by chatbots through a synergy of natural
+language processing, machine learning, and
+artificial intelligence [39]. Clients can also be sent
+to a real-life employee who is better able to
+answer their inquiries by using chatbot
+technology, which can also aid clients [40].
+2.6 Providing Suggestions for Various
+Products
+AI may be used by businesses to provide product
+recommendations to clients that will both satisfy
+their needs and keep them interested in what
+they have to offer. You can provide clients with
+items that are comparable to those that they
+have already viewed on your website if you
+follow the behavior of your customers on your
+website. Companies who operate in the ecommerce market might benefit tremendously
+from utilizing this strategy [41]. Streaming
+services provide yet another illustration of
+personalized suggestions in action. Streaming
+platforms are able to keep you on their app for
+longer lengths of time by showing you titles that
+are similar to the movies and program that you
+click on the most frequently. This analysis is
+performed by looking at the sorts of movies and
+shows that you click on the most [42].
+2.7 Segmenting Audiences
+In a manner not dissimilar to that of making
+product recommendations, advertising
+departments may utilize AI to divide consumers
+into distinct groups and develop campaigns that
+are specifically geared towards those groups.
+When working in a field that is known for its high
+level of competition, it is of the utmost
+importance to present one's work to the
+appropriate audience. Companies utilize data to
+determine which sorts of people will see which
+advertisements in order to make their marketing
+initiatives more effective. When it comes to
+forecasting how clients would respond to certain
+adverts, artificial intelligence comes into play
+[43].
+2.8 Examining the Level of Happiness of
+the Customers
+The usage of sentiment analysis, also known as
+emotion artificial intelligence (AI), is a strategy
+that businesses employ in order to evaluate the
+responses of their clients. The use of artificial
+intelligence (AI) and machine learning allows
+businesses to collect data about how consumers
+view their brand. One example of this is the use
+of artificial intelligence to comb through reviews,
+ratings, and postings on social media platforms
+that reference the brand. Companies are able to
+find chances for improvement as a result of the
+insights that were gathered through this
+investigation [44].
+2.9 Identifying Fraud
+AI may also assist businesses in identifying
+potential instances of fraud and devising effective
+countermeasures. Utilizing various types of
+machine learning algorithms, there are already
+accessible solutions in the banking and finance
+sector that can identify potentially fraudulent
+transactions. The application will prevent the
+Bharadiya et al.; J. Eng. Res. Rep., vol. 25, no. 3, pp. 85-103, 2023; Article no.JERR.100807
+90
+transaction from going through if it determines
+that there is a potential for fraud and will notify
+the relevant parties [45].
+2.10 Increasing Efficiency throughout the
+Supply Chain Activities
+AI could be able to assist your firm if it has
+trouble meeting its deadlines for the delivery of
+its products on a regular basis. AI-driven
+solutions may be of assistance to businesses in
+several ways, including anticipating how quickly
+items will be able to move through the supply
+chain and predicting the cost of materials and
+shipping. These kinds of insights provide supply
+chain experts with the information they
+need to make decisions on the most efficient
+manner to distribute their items. On a more
+localized basis, artificial intelligence may be
+utilized to assist delivery trucks in locating
+speedier routes [46].
+3. ARTIFICIAL INTELLIGENCE IN
+SUPPLY CHAIN MANAGEMENT
+Over the course of the past several years, the
+globe has been inching closer and closer to a
+digital future, and the technologies of Industry 4.0
+are widely regarded as the wave of the future.
+Artificial intelligence (AI) is one of the most
+prominent of these technologies (including
+blockchain, IoT, cloud computing, and so on)
+[47]. AI is defined as the power of computers to
+interact with and emulate the capabilities of
+people [48]. Blockchain is one of the most
+prominent of these technologies. Problems can
+be solved more accurately, more quickly, and
+with a greater number of inputs when artificial
+intelligence is used. AI is not a new subject and it
+is not a new academic field of study [49];
+however, only recently have technological
+developments shown that AI has a vast
+set of applications [50]. AI is making
+headlines by adapting processes in numerous
+diverse areas [51], including supply chain
+management (SCM). According to Thow-Yick
+and Huu-Phuong [52], artificial intelligence
+technology is developing as a competitive
+advantage at a time when other aspects of
+information technology are moving closer and
+closer to the position of a competitive need. In
+this regard, many businesses are transitioning
+from remote monitoring to control, optimization,
+and eventually, sophisticated autonomous AIbased systems in order to increase their
+functioning [53]. This move comes as a result of
+the growing popularity of AI.
+This presence has had an effect on many fields,
+such as business research, which has picked up
+on the topic, and AI is now researched from a
+more holistic perspective [54], with supply chain
+management being recognized as one of the
+fields that stands to benefit the most from AI
+applications. There is a need to investigate the
+contribution that AI has made to the area of
+supply chain management (SCM), despite the
+fact that interest from practitioners and
+academics is thus strong [55,56].
+4. AI IN MARKETING
+Despite the growing interest in AI in the
+marketing sector, it is still a young subject with
+many untapped research possibilities. Recent
+times have seen a number of important
+classification attempts for ML and AI applications
+in marketing, especially from 2017 forward. For
+instance, in a study conducted in collaboration
+with Deloitte, Davenport, and Ronanki [57],
+projects utilizing AI-based technologies across a
+range of business tasks and processes have
+been studied, with fascinating findings. According
+to the study, Davenport was able to divide AI
+applications into three categories: (1) Robotics
+and cognitive automation, which uses robotic
+process automation to automate back-office
+financial and administrative tasks; (2) Cognitive
+insights, which uses machine learning algorithms
+to find patterns in data and turn them into
+knowledge; and (3) Cognitive Engagement,
+which uses chat to engage customers and
+workers. More widespread classifications based
+on marketing strategies, such as segmentation,
+targeting, and positioning (STP), and marketing
+activities, such as product, price, place, and
+promotion (4Ps), are provided by other initiatives
+to systematize AI and ML applications in
+marketing.
+Accordingly, segmentation, targeting, and
+positioning are three critical areas where
+marketers and managers might benefit from
+using AI and ML [58]. Personalized advertising is
+an illustration of an ML application in this
+framework. By identifying patterns that human
+intuition and experience alone would not have
+seen, data mining can assist in defining
+segments. The four categories of marketing
+actions—Product, Price, Place, and Promotion—
+are referred to as the marketing 4Ps, or
+"marketing mix," which McCarthy first articulated
+in 1960. Numerous instances of AI applications
+in marketing were analyzed by Jarek and
+Mazurek [59], who demonstrated how the
+examples reflected the marketing mix.
+Bharadiya et al.; J. Eng. Res. Rep., vol. 25, no. 3, pp. 85-103, 2023; Article no.JERR.100807
+91
+Jarek cites hyper-personalization, automated
+suggestions, and the creation of new products as
+examples of applications for AI in product
+activities. Apple Pay, Google Pay, and PayPal
+are just a few examples of payment automation
+tools that leverage AI technology. Reinforcement
+learning algorithms are able to dynamically
+modify pricing by taking into consideration
+customer preferences, competition activity, and
+supply characteristics. Regarding price actions,
+IoT can optimize retail operations [60]; frontend
+presence can be automated with 24/7 customer
+care chatbots [61,62]; and both can be used to
+automate frontend presence. Finally, AI
+technologies can automate the planning of
+advertising media, keyword research, real-time
+bidding, and social media targeting in many of
+their applications, including social media
+marketing, mobile marketing, and search engine
+optimization [63]. By combining the marketing
+mix discussed above with the various AI
+intelligences—mechanical AI, thinking AI, and
+feeling AI—Huang and Rust [64] have developed
+an intriguing taxonomy of AI applications.
+Mechanical AI, the first level of AI intelligence,
+automates routine tasks; thinking AI deals with
+data processing to produce insights that support
+decision-making and contribute to competitive
+advantage; and feeling AI engages in a two-way
+conversation with people by analyzing their
+needs and emotions.
+5. AI IN INDUSTRIES
+A more flexible version of the definition for
+industrial AI offered in [65] is suggested in the
+context of this study. Industrial AI may be
+characterized in this context as a systematic
+discipline that focuses on the creation, validation,
+deployment, and maintenance of AI solutions (in
+its many forms) for industrial applications with
+long-term performance [66]. Therefore, Industrial
+AI is a multidisciplinary field of study that
+integrates robotics, machine learning, and
+natural language processing. Over the past
+several years, significant research has been
+done on how to integrate and embed these
+principles into the current Industry 4.0
+manufacturing value chains [67,68]. Combining
+these domains gives the system the ability to
+adapt and address issues through a certain
+amount of autonomous activity within pre-defined
+system bounds [69]. Within the topic of AI,
+industrial AI stands out in five specific ways:
+ Infrastructures: Real-time processing
+capabilities are highly prioritized in terms of
+hardware and software, guaranteeing
+industrial-grade dependability with strict
+security standards and interconnection
+[70];
+ Data: Industrial AI requires data that comes
+from a range of units, products, regimes, etc.
+and is enormous in volume and fast-moving
+[71].
+ Algorithms: It necessitates the fusion of
+heuristic, digital, and physical knowledge.
+high complexity caused by model
+deployment, governance, and administration
+[72].
+ Making decisions: Given the industrial
+environment's often low tolerance for
+mistake, addressing ambiguity is crucial.
+Efficiency is especially crucial for complex
+optimization issues [73].
+ Objectives: Through a mix of elements like
+scrap reduction, higher quality, enhanced
+operator performance, or shorter ramp-up
+times, industrial AI primarily focuses on
+concrete value generation [74].
+Fig. 3. The virtuous cycle of Al
+Bharadiya et al.; J. Eng. Res. Rep., vol. 25, no. 3, pp. 85-103, 2023; Article no.JERR.100807
+92
+6. APPLICATIONS
+Although the field of artificial intelligence (AI) has
+been studied academically and scientifically
+since the 1950s, the technology has only just
+begun to achieve significant traction. The current
+boom in AI research, funding, and practical
+commercial applications is unparalleled, which
+hardly needs to be said. Grand View Research
+estimates that at a 38.1% CAGR, the worldwide
+AI industry would grow from $136.6 billion in
+2022 to $1,811.8 billion by 2030 [75,76].
+Applications of AI not only promise to produce
+better commercial outcomes but also enhance
+overall human experience.
+6.1 Health Care
+It is crucial for the industry that technological
+behemoths like Microsoft, Google, Apple, and
+IBM contribute to the healthcare sector. AI is now
+being used for a variety of healthcare services,
+including medical imaging, medication
+management, drug development, robotic surgery,
+and data mining for pattern recognition and
+subsequently carrying out more precise
+diagnosis and treatment of medical disorders
+[77-79].
+For instance, IBM Watson (an AI tool) may be
+used to analyze a patient's medical record to find
+prospective treatments after determining the
+meaning and context of a combination of
+structured and unstructured data that may be
+important for choosing a treatment plan. In other
+words, IBM Watson behaves like a real physician
+[80]. Similar to this, a platform created by the
+biopharma business NuMedii called Artificial
+Intelligence for Drug Discovery (AIDD) uses big
+data and AI to identify the relationship between
+illnesses and medications at the systems level
+[81-83].
+Fig. 4. Applications of AI in industries
+Artificial
+Intelligenc
+e
+Health
+Sector Agricul
+ture
+Food
+Autom
+obile
+Gamini
+ng
+Real
+Estate
+Retail
+transp
+ortatio
+n
+finance
+Travel
+proper
+ty
+power
+Bharadiya et al.; J. Eng. Res. Rep., vol. 25, no. 3, pp. 85-103, 2023; Article no.JERR.100807
+93
+Fig. 5. Statistics of AI in health
+Fig. 6. Applications of ai in health sector
+6.2 Retail and Online Shopping
+Perhaps the only industry where the majority of
+end consumers can see the deployment of AI in
+action is retail and e-commerce. Retail
+businesses always search for methods to identify
+trends in customer behavior in order to better
+align their strategy and outwit rivals in this highly
+competitive industry [84]. It's safe to say that in
+the grand scheme of things, AI has reached its
+sweet spot. Your Amazon account's product
+suggestions are nothing more than the real-time
+use of sophisticated AI algorithms to identify the
+goods you are most likely to purchase [85].
+Applications of AI are also being employed more
+often to improve the consumer experience. For
+instance, a lot of the chatbots that can be seen
+on e-commerce websites are AI-powered and
+built to instantly respond to a variety of frequent
+client questions [86].
+6.3 Food Science
+The food business has benefited from the use of
+AI. Have you ever considered a robot making
+your tea? Hi Arya, a culinary technology firm, has
+created a robotic tea maker in partnership with
+LeewayHertz using AI and IoT technologies.
+Users of the smart tea maker may develop their
+own recipes using the equipment itself, a
+smartphone app, and a web interface [87]. In
+essence, consumers utilize a web interface,
+machine, or smartphone app to order their cup of
+tea. When a user placed an order, the tea maker
+immediately begins to make it, and the user may
+take use of live-feed features to see their tea
+being made [88]. In a similar vein, AI
+advancement has also impacted the commercial
+food processing industry. Taking the market for
+French fries, peeled potatoes, and chopped and
+ground beef as an example, Tomra Systems
+Applications of AL in health sectors
+Drig Development
+Disease Diagnostics
+Health monitoring
+Digital Consultation
+Surgery
+Medical treatment:
+50%
+10 %
+10 %
+10 %
+10 %
+10 %
+Robot
+Assisted
+surgery
+Virtual
+nursing
+assistants
+Dossage Error
+Detection
+Drug
+development
+Disease
+Diagnostics
+Analysis of
+health plan
+Storage and
+managing
+medical data
+Personlized
+Medicine
+Bharadiya et al.; J. Eng. Res. Rep., vol. 25, no. 3, pp. 85-103, 2023; Article no.JERR.100807
+94
+ASA has created AI-based food sorting
+machinery. Food processing businesses may
+use Tomra's food processors to automate
+operations like gauging the size, shape, and
+colour of fries or figuring out how much fat is in a
+piece of meat [89, 90]. In the field of agriculture,
+Sentient is using AI to study how factors like UV
+radiation, salt, heat, and water affect basil. With
+the information at hand, they are creating the
+procedures for growing the ideal crops [91]. In
+the farming industry, where we have witnessed a
+rise in the usage of intelligent tractors and
+intelligent plucking machines, AI applications
+have also been introduced [92].
+6.4 Financial and Banking Services
+The emergence of AI applications has caused a
+significant upheaval in the banking and financial
+services sector. There are tons of AI application
+cases in this field. In many cases, sophisticated
+software robots are replacing human workers to
+handle loan applications in milliseconds. Similar
+to this, robo-financial advisers quickly sort
+through several levels of data to suggest the best
+investments for clients [93]. In order to find the
+industries and businesses most closely
+associated with your long-term requirements and
+aspirations, these Robo-advisors can also
+analyze your social media activity, emails, and
+other personal data [94,95]. In order to enhance
+the customer experience and develop insurance
+plans and solutions based on consumer data, AIbased chatbots are also being used in the
+insurance industry. The processing of claims has
+been sped up greatly thanks to the introduction
+of AI-based tools, benefiting both customers and
+insurance providers [96].
+Fraud detection is a crucial use of AI in the
+banking industry. For instance, Mastercard
+analyses multiple data points to identify
+fraudulent transactions using AI-based Decision
+Intelligence technology [97].
+6.5 Transportation and Logistics
+The logistics and transportation sector is about to
+undergo a transformation powered by AI. Supply
+chain management has already undergone
+significant change and become a smooth
+operation thanks to the application of machine
+learning and predictive analytics. Robots with AI
+capabilities are widely used in warehouses to
+sort and package merchandise. The fastest
+shipping route and last-mile delivery are two
+more tasks that are increasingly supported by AI
+algorithms [98,99]. Self-driving cars will surely be
+the next big thing in the transportation sector.
+Artificial intelligence-based self-driving vehicles
+have the potential to replace manual driving and
+improve road safety, even if they are still in the
+research and testing stages in many nations. The
+leaders in this research are Tesla, Uber, Volvo,
+and Volkswagen [100]. Research is also being
+done on how AI algorithms may be used to
+schedule, route, and even operate traffic lights
+for public transportation [101].
+Fig. 7. Rise of Al technologies in Food industry
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+2010 2014 2016 2018 2020 2023
+% rise of AL in food industry by year
+% rise of AL in food industry by year
+Bharadiya et al.; J. Eng. Res. Rep., vol. 25, no. 3, pp. 85-103, 2023; Article no.JERR.100807
+95
+6.6 Travel
+The adoption of AI-enabled chatbots is expected
+to have a substantial positive impact on the travel
+sector. Because they are available around-theclock and provide prompt answers to questions,
+chatbots have been shown to be an effective
+way to increase customer satisfaction and
+engagement [102]. Chatbots are being powered
+by increasingly effective AI algorithms, enabling
+them to respond to client inquiries with more
+accuracy. In order to create their own AI-based
+mobile applications and chatbots for enhancing
+the client experience, several sizable travel
+organizations are turning to AI businesses [103].
+Furthermore, by recognizing client behavior and
+purchase trends, machine learning and predictive
+analytics assist travel firms in increasing their
+conversion rates [104].
+6.7 Property
+AI's use in the real estate sector is creating new
+opportunities for brokers, clients, and agents
+alike. Brokers are becoming more strategic,
+clients are feeling more in control, and agents
+are becoming more productive and efficient.
+Brokers and agents may assist clients wanting to
+purchase, rent, or sell a property discover the
+ideal match with the use of AI-powered bots
+[105,106]. The real estate sector may use AI in
+the following ways.
+ Artificial intelligence may be used by real
+estate experts to analyze market
+circumstances, property valuations, and
+other factors to identify trends and
+investment possibilities [107].
+ Lease agreements, mortgages, and title
+deeds may all be handled and processed
+automatically using artificial intelligence
+[108].
+ Rental revenue, property values, and other
+factors impacting the real estate market may
+all be predicted using AI's predictive
+modelling component.
+ AI may be combined with smart home
+technologies, such as thermostats and
+security systems, to improve security and
+energy efficiency.Additionally, AI-based
+chatbots may work around-the-clock to assist
+users of real estate websites in finding the
+answers to their questions [109].
+6.8 Gaming and Entertainment
+Entering the entertainment sector, AI is assisting
+broadcasters and program makers in determining
+which shows or program they should suggest to
+certain consumers based on their behavior. It
+enables companies like Netflix and Amazon to
+provide people a more individualized experience
+[110]. Machine learning algorithms are frequently
+used to analyze user behavior, and these
+algorithms are getting smarter over time to the
+point where they can now tell whether a user is
+buying something for themselves or as a gift, or
+whether different family members have different
+viewing preferences [111]. Artificial intelligence
+(AI) is being used in the film business to improve
+digital effects, reduce costs, and hasten pre- and
+post-production. For instance, data is utilized to
+determine the best timetable for filming, or
+Natural Language Processing (NLP) is used to
+organize a screenplay for storyboarding [112].
+Large organizations in the music sector, such
+Apple and Spotify, employ AI to comprehend
+user interaction patterns and provide the
+appropriate music to the appropriate listeners at
+the appropriate moment. The AI-driven computer
+accompaniment technique in music creation
+enables a machine to create music in real-time in
+reaction to a live musician's performance [113].
+One of the first industries to embrace AI was the
+gaming sector, and it has had a significant
+influence on user experience. AI is utilized in
+gaming for a variety of purposes, including
+directing the behavior of non-player characters
+(NPCs) who are important in moving the plot
+along. The gaming experience of such
+characters is significantly improved by AI-driven
+behavior modeling [114].
+6.9 Production
+There is no question that the industrial sector is
+setting the pace for the use and acceptance of AI
+technologies. AI is being used in manufacturing
+at all levels and lines of operations, from labor
+planning to product design, enhancing
+productivity, product quality, and worker safety
+[115]. Machine learning and artificial neural
+networks are used in factories to enable
+predictive maintenance of essential industrial
+equipment that can foresee asset failure
+accurately. It enables management to take
+prompt action to repair the equipment and avoid
+expensive unscheduled downtime [116]. Robots
+play a crucial role in the manufacturing process.
+Most industrial robots remain immobile most of
+the time, yet they still run the risk of colliding with
+neighboring things. The use of AI to robotics has
+ushered in the idea of collaborative robots,
+sometimes known as "cobots," which can follow
+Bharadiya et al.; J. Eng. Res. Rep., vol. 25, no. 3, pp. 85-103, 2023; Article no.JERR.100807
+96
+orders from people and collaborate effectively
+with them.
+AI algorithms are being utilized in quality control
+to alert manufacturing facilities to potential
+production errors that might affect the quality of
+the final product. Process variations, minor
+machine behavior abnormalities, changes in raw
+materials, and other errors are examples of
+faults. As AI advances, it is progressively
+assuming the role as the single most important
+factor behind the evolution of technology. We live
+in a time when computers are beginning to
+comprehend human behavior and make
+predictions about it. It has opened up a world of
+opportunities, and what we have seen so far and
+what we could predict for the future just scratch
+the surface of AI's full potential. The industries
+that will have the fastest growth in AI investment
+over the next five years are those in healthcare,
+pharmaceutical research, retail, marketing,
+finance, and intelligent process automation
+[117,118].
+6.10 Automotive
+The automotive sector might benefit from the use
+of AI in a number of ways, including self-driving
+cars, driver support systems, and traffic
+prediction to increase safety and decrease traffic
+congestion. It may be used to power autonomous
+vehicles, assisting them in making deft
+judgements, navigating through traffic, and
+dodging hazards. Artificial intelligence may be
+used to improve driver assistance systems like
+adaptive cruise control, lane departure warning,
+and automated emergency braking. These
+systems monitor and account for traffic
+conditions using cameras, radar, and other
+sensors, making driving safer and more effective
+[119]. To improve traffic flow and lessen
+congestion on the roads, artificial intelligence
+may be used to update traffic lights, signage, and
+other infrastructure in response to changes in
+traffic conditions. AI is able to predict
+when maintenance will be required, even
+when a component may break, by analyzing data
+from automobiles. Automakers and fleet
+operators may cut costs and downtime by
+planning maintenance before a problem arises
+[120].
+6.11 Power
+AI is being used in the energy sector to increase
+energy efficiency and reduce costs in areas
+including energy management, demand
+forecasting, and the integration of renewable
+Fig. 8. L in automotives [121]
+Bharadiya et al.; J. Eng. Res. Rep., vol. 25, no. 3, pp. 85-103, 2023; Article no.JERR.100807
+97
+Fig. 9. AI in generating smart energy power [124]
+energy sources. In order to determine how
+frequently maintenance should be performed,
+data from energy infrastructure, such as
+transmission lines and power plants, can be
+examined. This enables businesses that produce
+energy to schedule repair before a problem
+arises, cutting costs and downtime [122]. The
+power grid may be made more efficient with the
+use of artificial intelligence by analyzing data on
+energy supply and demand and changing power
+plant output accordingly. Artificial intelligence
+may be used in buildings and other facilities to
+analyze energy consumption data and find ways
+to increase energy efficiency, such as by altering
+lighting, heating and cooling systems, and other
+equipment. In addition, the energy sector may
+apply AI algorithms to spot dishonest behavior
+like meter tampering and billing mistakes
+[121,123].
+7. CONCLUSIONS
+Artificial intelligence (AI) is now driving a
+revolution in business, as well as in the economy
+and society as a whole. This revolution is being
+driven by AI's ability to change the interactions
+and connections that already exist between
+stakeholders and individuals. It is conceivable to
+trace the roots of artificial intelligence back to the
+mythology of ancient Chinese, Greek, and other
+civilizations. Other cultures' mythologies may
+also hold clues. It was believed, according to
+these myths, that automatons have genuine
+minds and were able to think for themselves and
+experience emotions. Because of this, artificial
+intelligence came into being. This is where the
+concept that would eventually develop into what
+is now known as artificial intelligence first
+emerged. Many companiespractices now have
+the potential to be improved by the formation of
+new forms of collaboration, which is a
+considerable advantage over other organizations
+as a result of the ongoing evolution of business
+as well as the most recent breakthroughs in
+artificial intelligence (AI). In addition, this
+advantage is made possible by the most recent
+advancements in artificial intelligence (AI).
+Because of the rapid advancement of
+technology, it is now feasible to offer branded
+services and even to experiment with new forms
+of corporate contact with both consumers and
+staff. The digitalization of AI has simultaneously
+brought to the notice of businesses the demand
+for those businesses to focus on their present
+strategies while also regularly and quickly
+investigating new prospects in the market. This is
+a necessity that these businesses must fulfil in
+order to remain competitive. The use of AI
+techniques has not only altered the corporate
+world but also a wide range of other industrial
+sectors as well. The major focus of this review is
+on the application of AI approaches to a wide
+variety of subfields within the business and
+economics sectors.
+Bharadiya et al.; J. Eng. Res. Rep., vol. 25, no. 3, pp. 85-103, 2023; Article no.JERR.100807
+98
+COMPETING INTERESTS
+Authors have declared that no competing
+interests exist.
+REFERENCES
+1. Nilsson NJ. The quest for artificial
+intelligence. Cambridge University Press;
+2009.
+2. Nahodil P, Vıtku J. How to design an
+autonomous creature based on original
+artificial life approaches. Beyond Artif Intell
+Author’s Part. 2012;40:161-80.
+3. Cath C. Governing artificial intelligence:
+ethical, legal and technical opportunities
+and challenges. Philos Trans A Math Phys
+Eng Sci. 2018;376(2133):20180080.
+4. Russell SJ. Artificial intelligence a modern
+approach. Pearson Education, Inc; 2010.
+5. Huang M-H, Rust RT. Artificial intelligence
+in service. J Serv Res. 2018;21(2):155-72.
+6. Moro S, Cortez P, Rita P. Business
+intelligence in banking: A literature analysis
+from 2002 to 2013 using text mining and
+latent Dirichlet allocation. Expert Syst Appl.
+2015;42(3):1314-24.
+7. Tkáč M, Verner R. Artificial neural
+networks in business: Two decades of
+research. Appl Soft Comput. 2016;38:788-
+804.
+8. Duan Y, Edwards JS, Dwivedi YK. Artificial
+intelligence for decision making in the era
+of Big Data–evolution, challenges and
+research agenda. Int J Inf Manag. 2019;
+48:63-71.
+9. Cortez P, Moro S, Rita P, King D, Hall J.
+Insights from a text mining survey on
+Expert Systems research from 2000 to
+2016. Expert Syst. 2018;35(3):e12280.
+10. Loureiro SMC, Guerreiro J, Eloy S,
+Langaro D, Panchapakesan P.
+Understanding the use of Virtual Reality in
+Marketing: A text mining-based review. J
+Bus Res. 2019;100:514-30.
+11. Moro S, Rita P, Cortez P. A text mining
+approach to analyzing Annals literature. A
+text mining approach to analyzing, 2017;
+208-10.
+12. Goralski M, Górniak-Kocikowska K.
+Globalization, codification, automation, and
+artificial intelligence: Job affectation. In:.
+Presented at the academy of
+international business–US–NE conference.
+Philadelphia: Temple University; 2017.
+13. Goralski M, O’Connor M. Artificial
+intelligence, open cog, and blockchain. In:
+Presented at the academy of
+International business–US–NE conference.
+Philadelphia: Drexel University; 2018.
+14. Boullart L. A gentle introduction to artificial
+intelligence. Appl Artif Intell Process
+Control. 1992:5-40.
+15. Cbinsights. Understanding Tech Company
+Health and Predicting Future Success;
+2020. Available: http://www.cbinsights.com
+16. HBR. November. V. Kolbjørnsrud, R.
+Amico, and R. J. Thomas. How artificial
+intelligence will redefine management.
+Harvard Business Review; 2016.
+17. Neiger C. 5 reasons why investors should
+believe the artificial intelligence hype;
+2019.
+Available:https://www.fool.com/investing/2
+019/04/13/reasons-investors-believeartificial-intelligence.aspx
+18. Raygun. Developers are building better
+software, faster, using AI; 2017.
+Available:https://thenextweb.com/dd/2017/
+09/19/developers-are-building-bettersoftware-faster-using-ai
+19. Ertel W. Introduction to artificial
+intelligence. Springer; 2018.
+20. Shani A. From science fiction to reality:
+The evolution of artificial intelligence.
+Wired; 2015.
+21. Abbasi A, Sarker S, Chiang RH. Big data
+research in information systems: Toward
+an inclusive research agenda. J Assoc Inf
+Syst. 2016;17(2):1-32.
+22. Afiouni R. Organizational learning in the
+rise of machine learning. International
+Conference on Information Systems,
+Munich, Germany; 2019.
+23. Alsheibani S, Cheung Y, Messom C,
+Alhosni M. Winning AI strategy: six-steps
+to create value from artificial intelligence.
+Americas Conference on Information
+Systems, Online; 2020.
+24. AlSheibani S, Messom C, Cheung Y. Rethinking the competitive landscape of
+artificial intelligence. Proceedings of the
+Annual Hawaii International Conference on
+System Sciences. Proceedings of the 53rd
+Hawaii International Conference on
+System Sciences; 2020.
+25. Alsheibani S, Messom D, Cheung Y,
+Alhosni M. Reimagining the strategic
+management of artificial intelligence: five
+recommendations for business leaders.
+Americas Conference on Information
+Systems, Online; 2020.
+26. Anon. AI is essential to India’s future of
+work, study finds. M2 Presswire; 2020.
+Bharadiya et al.; J. Eng. Res. Rep., vol. 25, no. 3, pp. 85-103, 2023; Article no.JERR.100807
+99
+27. Baby CJ, Khan FA, Swathi J. Home
+automation using IoT and a chatbot using
+natural language processing. 2017
+innovations in power and advanced
+computing technologies (i-PACT); 2017.
+28. Baier L, Jöhren F, Seebacher S.
+Challenges in the deployment and
+operation of machine learning in practice.
+In: Proceedings of the 27th European
+conference on information systems (ECIS),
+Stockholm, Sweden; 2019.
+29. Balasundaram S, Venkatagiri S. A
+structured approach to implementing
+Robotic Process Automation in HR. J Phys
+Conf S. 2020;1427(1):012008.
+30. Bauer W, Vocke C. Work in the age of
+artificial intelligence–challenges and
+potentials for the design of new forms of
+human-machine interaction. International
+Conference on Applied Human Factors
+and Ergonomics; 2019.
+31. Borges AFS, Laurindo FJB, Spínola MM,
+Gonçalves RF, Mattos CA. The strategic
+use of artificial intelligence in the digital
+era: Systematic literature review and future
+research directions. Int J Inf Manag.
+2021;57:102225.
+32. Bytniewski A, Matouk K, ChojnackaKomorowska A, Hernes M, Zawadzki A,
+Kozina A. The functionalities of cognitive
+technology in management control system.
+Asian Conference on Intelligent
+Information and Database Systems; 2020.
+33. Castillo D, Canhoto AI, Said E. The dark
+side of AI-powered service interactions:
+Exploring the process of co-destruction
+from the customer perspective. Serv Ind J.
+2020:1-26.
+34. Coombs C, Hislop D, Taneva SK, Barnard
+S. The strategic impacts of Intelligent
+Automation for knowledge and service
+work: an interdisciplinary review. J Strateg
+Inf Syst. 2020;29(4):101600.
+35. Dastin J. Amazon scraps secret AI
+recruiting tool that showed bias against
+women. Reuters. Retrieved 15/06; 2018.
+Available:https://www.reuters.com/article/u
+s-amazon-com-jobs-automationinsight/amazon-scraps-secret-ai-recruitingtool-that-showed-bias-against-womenidUSKCN1MK08G
+36. Davenport TH, Ronanki R. Artificial
+intelligence for the real world. Harv Bus
+Rev. 2018;96(1):108-16.
+37. Dellermann D, Lipusch N, Ebel P, Popp
+KM, Leimeister JM. Finding the unicorn:
+Predicting early stage startup success
+through a hybrid intelligence method.
+SSRN Journal. International Conference
+on Information Systems (ICIS), Seoul,
+South Korea; 2017.
+38. Demlehner Q, Laumer S. Shall we use it or
+not? Explaining the adoption of artificial
+intelligence for car manufacturing purposes
+in Proceedings of the 28th European
+Conference on Information Systems
+(ECIS); 2020.
+39. Engler A. Auditing employment algorithms
+for discrimination. Retrieved 15/06; 2021.
+Available:https://www.brookings.edu/resea
+rch/auditing-employment-algorithms-fordiscrimination
+40. Eriksson T, Bigi A, Bonera M. Think with
+me, or think for me? On the future role of
+artificial intelligence in marketing strategy
+formulation. TQM J. 2020;32(4):795-814.
+doi: 10.1108/TQM-12-2019-0303.
+41. European Commission. Ethics guidelines
+for trustworthy AI; 2019a [cited Apr 23
+2021].
+Available:https://ec.europa.eu/newsroom/d
+ae/document.cfm?doc_id=60419
+42. European Commission. Proposal for a
+Regulation laying down harmonised rules
+on artificial intelligence. Retrieved 15/06;
+2019.
+Available: https://digital-strategy.ec.
+europa.eu/en/library/proposal-regulationlaying-down-harmonised-rules-artificialintelligence.
+43. Geva M, Goldberg Y, Berant J. Are we
+modeling the task or the annotator? an
+investigation of annotator bias in natural
+language understanding datasets; 2019.
+Available:arXiv preprint arXiv:1908.07898
+44. Ghadage YH, Shelke SD International
+Conference on Communication and Signal
+Processing (ICCSP). Speech to text
+conversion for multilingual languages;
+2016.
+45. Glauner P. Unlocking the power of artificial
+intelligence for your business. In:
+Innovative technologies for market
+leadership. Future of business and finance.
+Springer International Publishing. 2020;
+45-59.
+46. Higgins JP. Cochrane Handbook for
+Systematic Reviews of Interventions
+Version 5.0. 1. The Cochrane
+Collaboration; 2008.
+Available: https://www.cochranehandbook.org
+47. Jelonek D, Mesjasz-Lech A, Stępniak C,
+Turek T, Ziora L. The artificial intelligence
+Bharadiya et al.; J. Eng. Res. Rep., vol. 25, no. 3, pp. 85-103, 2023; Article no.JERR.100807
+100
+application in the management of
+contemporary organization: theoretical
+assumptions, current practices and
+research review. Future of Information and
+Communication Conference; 2019.
+48. Kawaguchi K, Kaelbling LP, Bengio Y.
+Generalization in deep learning. arXiv
+preprint; 2017. arXiv:1710.05468.
+49. Kirchmer M, Franz P. Value-driven robotic
+process automation (RPA). International
+Symposium on Business Modeling and
+Software Design; 2019.
+50. Kitchenham B. Procedures for performing
+systematic reviews. Keele University;
+2004.
+51. LeCun Y, Bengio Y, Hinton G. Deep
+learning. Nature. 2015;521(7553):436-44.
+52. Marcondes FS, Almeida JJ, Novais P. A
+short survey on chatbot technology: Failure
+in raising the state of the art. International
+Symposium on Distributed Computing and
+Artificial Intelligence; 2019.
+53. Marcus G, Davis E. Rebooting AI: building
+artificial intelligence we can trust Vintage;
+2019.
+54. Matei AM, Iftene A. Smart home
+automation through voice interaction
+RoCHI; 2019.
+55. Nambisan S, Lyytinen K, Yoo Y. Handbook
+of digital innovation Edward Elgar
+Publishing; 2020.
+56. Netflix; 2020. Machine Learning [cited
+2020-12-3].
+Available:https://research.netflix.com/resea
+rch-area/machinelearning
+57. Ntoutsi E, Fafalios P, Gadiraju U, Iosifidis
+V, Nejdl W, Vidal ME et al. Bias in datadriven artificial intelligence systems—An
+introductory survey. Wiley Interdiscip Rev
+Data Min Knowl Discov. 2020;10(3):e1356.
+58. Nuruzzaman M, Hussain OK. A survey on
+chatbot implementation in customer
+service industry through deep neural
+networks 15th International Conference on
+e-Business Engineering (ICEBE). IEEE
+Publications; 2018.
+59. Papagiannidis E, Mikalef P, Krogstie J.
+Structuring AI resources to build an AI
+capability: A conceptual framework.
+European Conference on Information
+Systems, Marrakesh, Morocco; 2021.
+60. Pellikka J, Ali-Vehmas T. Managing
+innovation ecosystems to create and
+capture value in ICT industries. Technol
+Innov Manag [review]. 2016;6(10):17-24.
+61. Prentice C, Lopes D, Wang XS. The
+impact of artificial intelligence and
+employee service quality on customer
+satisfaction and loyalty. J Hosp Mark
+Manag. 2020;29(7):739-56.
+62. Pumplun L, Tauchert C, Heidt M. A new
+organizational chassis for artificial
+intelligence-exploring organizational
+readiness factors. In: Proceedings of the
+27th European conference on info
+rmation systems (ECIS), Stockholm &
+Uppsala, Sweden; 2019.
+63. Quinio B, Harfouche A, Skandrani
+SR, Marciniak R. A framework for
+artificial knowledge creation in
+organizations. International Conference on
+Information Systems, Seoul, South Korea;
+2017.
+64. Ransbotham S, Kiron D, Gerbert P,
+Reeves M. Reshaping business with
+artificial intelligence: closing the gap
+between ambition and action. MIT Sloan
+Manag Rev. 2017;59(1).
+65. Ransbotham S, Gerbert P, Reeves M,
+Kiron D, Spira M. Artificial intelligence in
+business gets real. MIT Sloan Manag Rev;
+2018.
+66. Riikkinen M, Saarijärvi H, Sarlin P,
+Lähteenmäki I. Using artificial intelligence
+to create value in insurance. Int J Bank
+Mark. 2018;36(6):1145-68.
+67. Schaefer C, Lemmer K, Samy Kret K,
+Ylinen M, Mikalef P, Niehaves B. Truth or
+dare?–How can we Influence the Adoption
+of Artificial Intelligence in Municipalities?
+In: Proceedings of the 54th Hawaii
+international conference on system
+sciences; 2021.
+68. Schmidt R, Zimmermann A, Moehring M,
+Keller B. Value creation in connectionist
+artificial intelligence–A research agenda;
+2020.
+69. Shollo A, Aanestad M, Lyytinen K, Mahring
+M, Nielsen PA, Sørensen C. Panel 4: a
+Nordic sociotechnical perspective on
+artificial intelligence phenomena.
+Proceedings of the 28th European
+conference on information systems (ECIS):
+A Virtual AIS Conference; 2020.
+70. Vigdor N. Apple card investigated after
+gender discrimination complaints. The New
+York Times. Retrieved 15/06.
+Available:https://www.nytimes.com/2019/1
+1/10/business/Apple-credit-cardinvestigation.html; 2019.
+71. Wamba-Taguimdje S, Fosso Wamba S,
+Kala Kamdjoug JR, Tchatchouang Wanko
+CE. Influence of artificial intelligence (AI)
+on firm performance: the business value of
+Bharadiya et al.; J. Eng. Res. Rep., vol. 25, no. 3, pp. 85-103, 2023; Article no.JERR.100807
+101
+AI-based transformation projects. Bus
+Process Manag J. 2020;26(7):1893-924.
+72. Wang H, Huang J, Zhang Z. The impact of
+deep learning on organizational agility. In
+proceedings of the 40th International
+Conference on Information Systems (ICIS),
+Munich, Germany; 2019.
+73. Wanner J, Herm LV, Heinrich K, Janiesch
+C, Zschech P. White, grey, black: effects of
+XAI augmentation on the confidence in AIbased. Decis Support Syst; 2020.
+74. Welling M. Artificial intelligence versus
+intelligence engineering. Harv Data Sci
+Rev. 2019;1(1).
+75. Dwivedi YK, Hughes L, Ismagilova E, Aarts
+G, Coombs C, Crick T et al. Artificial
+intelligence (AI): multidisciplinary
+perspectives on emerging challenges,
+opportunities, and agenda for research,
+practice and policy. Int J Inf Manag.
+2021;57:101994.
+76. Acemoglu D, Restrepo P. The race
+between man and machine: Implications of
+technology for growth, factor shares, and
+employment. Am Econ Rev. 2018;108(6):
+1488-542.
+77. Alsheibani S, Cheung Y, Messom C.
+Artificial intelligence adoption: AI-readiness
+at firm-level. Artif Intell. 2018;6.
+78. Amer-Yahia S, Basu Roy S, Chen L,
+Morishima A, Abello Monedero J, Bourhis
+P, et al. Making AI machines work for
+humans in FoW. SIGMOD Rec.
+2020;49(2):30-5.
+79. Bharadiya JP, Tzenios NT, Reddy M.
+Forecasting of crop yield using remote
+sensing data, agrarian factors and
+machine learning approaches. J Eng Res
+Rep. 2023;24(12):29-44.
+80. Arrieta AB, et al. Explainable Artificial
+Intelligence (XAI): Concepts, taxonomies,
+opportunities and challenges toward
+responsible AI. Inf Fusion. 2020;58.
+81. Benbya H, et al. Complexity and
+information systems research in the
+emerging digital world. MIS Q. 2020;44.
+82. Beyer M, Laney D. The importance of ”Big
+Data”: a definition. Gartner; 2012.
+83. Nallamothu PT, Bharadiya JP. Artificial
+intelligence in orthopedics: A concise
+review. Asian Journal of Orthopaedic
+Research. 2023;6(1):17-27.
+84. Chen J, Tao Y, Wang H, Chen T. Big data
+based fraud risk management at AliBaba. J
+Fin Data Sci. 2015;1(1):1-10.
+85. Chakravorty SS, Dulaney RE, Franza RM.
+ERP implementation failures: A case study
+and analysis. Int J Bus Inf Syst.
+2016;21(4).
+86. Cirillo D, Catuara-Solarz S, Morey C,
+Guney E, Subirats L, Mellino S, et al. Sex
+and gender differences and biases in
+artificial intelligence for biomedicine and
+healthcare. NPJ Digit Med. 2020;3:81.
+87. Collins C, Dennehy D, Conboy K, Mikalef
+P. Artificial intelligence in information
+systems research: A systematic literature
+review and research agenda. Int J Inf
+Manag. 2021;60.
+88. Damper RI, Marchand Y, Adamson MJ,
+Gustafson K. Evaluating the pronunciation
+component of text-to-speech systems for
+English: A performance comparison of
+different approaches. Comput Speech
+Lang. 1999;13(2):155-76.
+89. Dedrick J, Kraemer KL, Shih E. Information
+technology and productivity in developed
+and developing countries. J Manag Inf
+Syst. 2013;30(1):97-122.
+90. Duan Y, Edwards JS, Dwivedi YK. Artificial
+intelligence for decision making in the era
+of Big Data–evolution, challenges and
+research agenda. Int J Inf Manag.
+2019;48:63-71.
+91. Eccles RG, Newquist SC, Schatz R.
+Reputation and its risks. Harv Bus Rev.
+2007;85(2). PMID 17345684.
+92. Ehret M, Wirtz J. Unlocking value from
+machines: business models and the
+industrial internet of things. J Mark Manag.
+2017;33(1-2):111-30.
+93. Felzmann H, Villaronga EF, Lutz C, TamòLarrieux A. Transparency you can trust:
+transparency requirements for artificial
+intelligence between legal norms and
+contextual concerns. Big Data Soc.
+2019;6(1).
+94. Finch G, Goehring B, Marshall A. The
+enticing promise of cognitive computing:
+high-value functional efficiencies and
+innovative enterprise capabilities. Strategy
+Leadersh. 2017;45(6):26-33.
+95. Fountaine T, McCarthy B, Saleh T.
+Building the AI-powered organization. Harv
+Bus Rev. 2019;97.
+96. Galloway C, Swiatek L. Public relations
+and artificial intelligence: it’s not (just)
+about robots. Public Relat Rev.
+2018;44(5):734-40.
+97. Gregory RW, Henfridsson O, Kaganer E,
+Kyriakou H. The role of artificial
+intelligence and data network effects for
+creating user value. Acad Manag Rev(ja).
+2021;46(3):534-51.
+Bharadiya et al.; J. Eng. Res. Rep., vol. 25, no. 3, pp. 85-103, 2023; Article no.JERR.100807
+102
+98. Holton R, Boyd R. Where are the people?
+What are they doing? Why are they doing
+it? (Mindell) Situating artificial intelligence
+within a socio-technical framework. J
+Sociol. 2019;57.
+99. Huang MH, Rust R, Maksimovic V. The
+feeling economy: Managing in the next
+generation of artificial intelligence (AI).
+Calif Manag Rev. 2019;61(4):43-65.
+100. Jarrahi MH. Artificial intelligence and the
+future of work: human-AI symbiosis in
+organizational decision making. Bus Horiz.
+2018;61(4):577-86.
+101. Keding C. Understanding the interplay of
+artificial intelligence and strategic
+management: four decades of research in
+review. Manag Rev Q. 2021;71(1):91-134.
+102. Kolbjørnsrud V, Amico R, Thomas RJ.
+Partnering with AI: how organizations can
+win over skeptical managers. Strategy
+Leadersh. 2017;45(1):37-43.
+103. Koutsoukis NS, Mitra G. Decision
+modelling and information systems: the
+information value chain. Business Media;
+2003.
+104. Lee J, Suh T, Roy D, Baucus M. Emerging
+technology and business model innovation:
+The case of artificial intelligence. J Open
+Innov Technol Mark Complexity. 2019;
+5(3).
+105. Lichtenthaler U. An intelligence-based view
+of firm performance: Profiting from artificial
+intelligence. J Innov Manag. 2019;7(1):7-
+20.
+106. Loyola-Gonzalez O. Black-box vs. whitebox: understanding their advantages and
+weaknesses from a practical point of view.
+IEEE Access. 2019;7:154096-113.
+107. Makarius EE, Mukherjee D, Fox JD, Fox
+AK. Rising with the machines: A
+sociotechnical framework for bringing
+artificial intelligence into the organization. J
+Bus Res. 2020;120:262-73.
+108. Mikalef P, Gupta M. Artificial Intelligence
+Capability: conceptualization,
+measurement calibration, and empirical
+study on its impact on organizational
+creativity and firm performance. Inf Manag.
+2021;58(3).
+109. Mikalef P, Pappas IO, Krogstie J,
+Giannakos M. Big data analytics
+capabilities: a systematic literature review
+and research agenda. Inf Syst e-Business
+Manag. 2018;16(3):547-78.
+110. Mishra AN, Pani AK. Business value
+appropriation roadmap for artificial
+intelligence. VINE J Inf Knowl Manag Syst.
+2021;51(3):353-68.
+111. Moher D, Shamseer L, Clarke M, Ghersi D,
+Liberati A, Petticrew M, et al. Preferred
+reporting items for systematic review and
+meta-analysis protocols (PRISMA-P) 2015
+statement. Syst Rev. 2015;4(1):1.
+112. Nambisan S, Lyytinen K, Majchrzak A,
+Song M. Digital Innovation Management:
+Reinventing innovation management
+research in a digital world. MIS Q.
+2017;41(1):223-38.
+113. Plastino E, Purdy M. Game changing value
+from Artificial Intelligence: eight strategies.
+Strategy Leadersh. 2018;46(1):16-22.
+114. Rajput S, Singh SP. Connecting circular
+economy and industry 4.0. Int J Inf Manag.
+2019;49:98-113.
+115. Samek W, Müller KR. Towards explainable
+artificial intelligence. In: Explainable ai:
+interpreting, explaining and visualizing
+deep learning. Springer; 2019:5-22.
+116. Shrestha YR, Ben-Menahem SM, von
+Krogh G. Organizational decision-making
+structures in the age of artificial
+intelligence. Calif Manag Rev.
+2019;61(4):66-83.
+117. Tallon PP, Pinsonneault A. Competing
+perspectives on the link between strategic
+information technology alignment and
+organizational agility: insights from a
+mediation model. MIS Q. 2011;35(2).
+118. Templier M, Paré G. A framework for
+guiding and evaluating literature reviews.
+Commun Assoc Inf Syst. 2015;37.
+119. Toniolo K, Masiero E, Massaro M, Bagnoli
+C. Sustainable business models and
+artificial intelligence: opportunities and
+challenges. In: Knowledge, people, and
+digital transformation. Springer; 2020:
+103-17.
+120. Yang W, Meyer KE. How does ownership
+influence business growth? A competitive
+dynamics perspective. Int Bus Rev.
+2019;28(5).
+121. Zuiderveen Borgesius FJ. Strengthening
+legal protection against discrimination
+by algorithms and artificial intelligence.
+Int J Hum Rights. 2020;24(10):
+1572-93.
+122. Yudkowsky E. Artificial intelligence as a
+positive and negative factor in global risk.
+Glob Catastrophic Risks. 2008;1.
+123. Zheng N, Liu Z, Ren P, Ma Y, Chen S, Yu
+S, et al. Hybrid-augmented intelligence:
+collaboration and cognition. Frontiers
+Bharadiya et al.; J. Eng. Res. Rep., vol. 25, no. 3, pp. 85-103, 2023; Article no.JERR.100807
+103
+Inf Technol Electronic Eng. 2017;18(2):
+153-79.
+124. Cheng L, Yu T. A new generation of AI: A
+review and perspective on machine
+learning technologies applied to smart
+energy and electric power
+systems. Int J Energy Res. 2019;43
+(6):1928-73.
+© 2023 Bharadiya et al.; This is an Open Access article distributed under the terms of the Creative Commons Attribution
+License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any
+medium, provided the original work is properly cited.
+Peer-review history:
+The peer review history for this paper can be accessed here:
+https://www.sdiarticle5.com/review-history/100807 

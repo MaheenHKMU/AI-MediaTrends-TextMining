@@ -1,0 +1,654 @@
+The Routledge Handbook
+of European Integrations
+Edited by Thomas Hoerber,
+Gabriel Weber and Ignazio Cabras
+First published 2022
+ISBN: 978-0-367-20307-8 (hbk)
+ISBN: 978-1-032-18242-1 (pbk)
+ISBN: 978-0-429-26208-1 (ebk)
+14
+Artificial intelligence in the
+European Union
+Policy, ethics and regulation
+Inga Ulnicane
+(CC BY-NC-ND 4.0)
+DOI: 10.4324/9780429262081-19
+254 DOI: 10.4324/9780429262081-19
+Overall, the ambition is for Europe to become the world-leading region for developing and deploying cutting-edge, ethical and secure AI, promoting a humancentric approach in the global context.
+(European Commission, 2018d: 1)
+Introduction: artificial intelligence – novelty
+and continuity in EU policy
+Since 2016, policy-makers, industry, civil society, think tanks, media and consultancies around
+the world have engaged in passionate debates on what kind of policy and governance would
+facilitate a socially beneficial development and use of artificial intelligence (AI) and help to
+mitigate any associated risks (Cath et al., 2018; Galanos, 2019; Ulnicane et al., 2021a, 2021b;
+Vesnic-Alujevic et al., 2020). According to the OECD, in early 2020, “around the world, at
+least 50 countries (including the European Union) have developed, or are in the process of
+developing, a national AI strategy” (OECD, 2020), while a global review in 2019 identified 84
+AI ethics guidelines (Jobin et al., 2019).
+These policy documents and ethics guidelines have been launched in the context of recent
+advances in AI, which is defined (for a discussion of the AI definition, see the next section) as “systems that display intelligent behaviour by analysing their environment and taking
+actions” (European Commission 2018a: 2). While pioneering developments in the field of
+AI took place already in the 1950s and 1960s, recent advances in hardware and big data (see
+e.g. Marcus and Davis, 2019) have enabled a broad range of applications of AI across many
+areas from education and health to transport (Dyrhauge, 2022) and military (Karampekios and
+Oikonomou, 2022; Sweeney, 2022). Emerging AI applications have raised hopes for social
+and economic benefits as well as concerns about their problematic impact on jobs, democracy
+and other areas.
+Against this background, the European Union (EU) has been actively discussing how it
+can facilitate development and use of AI, what kind of AI it would like to develop and how it
+would like to contribute to global AI development. Initially, one of the main concerns for the
+14
+Artificial intelligence in the
+European Union
+Policy, ethics and regulation
+Inga Ulnicane
+Artificial intelligence in the EU
+255
+EU has been that it is lagging behind the North America and Asia. The report “10 Imperatives
+for Europe in the Age of AI and Automation” prepared by McKinsey & Company for the EU
+Heads of State Tallinn Digital Summit in September 2017 stated that “Europe, while making
+progress, is behind the United States and China” (McKinsey & Company, 2017). In particular,
+the report highlighted that “overall Europe is behind in external AI investment, which totalled
+$3 to $4 billion in 2016, compared with $8 to $12 billion in Asia and $15 to $23 billion in
+North America” (McKinsey & Company, 2017). This has been an influential report and is cited
+in the main EU documents on AI (see Table 14.1): the 2018 AI strategy (European Commission, 2018a: 5) and coordinated plan (European Commission, 2018b: 3), as well as the 2020
+white paper on AI (European Commission, 2020a: 4).
+While AI has come into the spotlight of EU policy relatively recently, concerns about the
+EU lagging behind the United States (US) and Asia (previously Japan, more recently China)
+in science, technology and innovation have been a major driving force for European integration in research and technology policy since its early stages in the 1950s and have featured
+prominently during the launch of the European Research Area in 2000 and the Europe 2020
+strategy for smart, sustainable and inclusive growth in 2010 (Chou and Gornitzka, 2014;
+Mitzner, 2020; Ulnicane, 2015, 2016). Such focus on global competitiveness can help to
+mobilise resources, but it has also been criticised, for example, by Paul Krugman, in his influential 1994 essay “Competitiveness: A Dangerous Obsession”, claiming that countries do not
+compete like businesses, and the international economy is not a zero-sum game (Krugman,
+1994).
+To analyse EU policy for AI in a comparative perspective, this chapter will focus on two
+main questions. First, how is the EU developing its policy for AI with a focus on main policy
+actors and ideas? Second, how is the EU positioning its AI policy vis-à-vis other global
+powers?
+To address these questions, this chapter draws on the ‘Europe as a power’ debate in European
+studies, which examines the basis of the EU’s power as a global actor. It uses the two main concepts in this debate, namely, “Normative Power Europe” (Manners, 2002) and “Market Power
+Europe” (Damro, 2012) to explore if, in developing its approach to AI, the EU prioritises its
+norms or rather its single market. The concept of Normative Power Europe (Manners, 2002)
+focuses on the EU’s power in diffusing its norms, which have developed through a series of
+declarations, treaties, policies, criteria and conditions. They consist of five core norms (peace,
+liberty, democracy, rule of law and respect for human rights and fundamental freedoms), as well
+as four ‘minor’ norms (social solidarity, anti-discrimination, sustainable development and good
+governance) (Manners, 2002). Alternatively, the Market Power Europe concept highlights that
+“while the identity of the European Union (EU) may have normative and/or other characteristics, it is fundamentally a large single market with significant institutional features and competing interest groups” (Damro, 2012: 682). Being the world’s largest single market provides the
+basis for the EU’s global power “through the externalization of economic and social marketrelated policies and regulatory measures” (Damro, 2012: 682).
+The analysis in this chapter draws on policy documents, literature and media, as well as
+attendance of events such as the European AI Alliance Assemblies in 2019 and 2020. This chapter proceeds as follows: after introducing definitions of and expectations towards AI, it traces
+the development of EU policy for AI analysing the key documents launched by the European
+Parliament, the European Commission and experts. In its conclusion, the chapter presents the
+key findings on the emerging EU approach to AI in the context of global competition and
+cooperation.
+Inga Ulnicane
+256
+AI: definition and expectations in EU policy
+There are many definitions of AI. A widely used definition of AI in the EU comes from the
+2018 AI strategy, which defines AI as follows:
+Artificial Intelligence (AI) refers to systems that display intelligent behaviour by analysing
+their environment and taking actions – with some degree of autonomy – to achieve specific
+goals.
+AI-based systems can be purely software-based, acting in the virtual world (e.g. voice
+assistants, image analysis software, search engines, speech and face recognition systems) or
+AI can be embedded in hardware devices (e.g. advanced robots, autonomous cars, drones
+or Internet of Things applications).
+(European Commission, 2018a: 2)
+This definition has been cited and expanded in the subsequent documents. Typically, AI
+includes approaches and techniques, such as machine learning, machine reasoning and robotics
+(European Commission, 2019a: 6), and the main elements that compose AI are data and algorithms (European Commission, 2020a: 16). Distinction between ‘narrow AI’ and ‘general AI’
+is often used (see e.g. Boucher, 2020; European Commission, 2019a: 5). The current stage of
+AI development is described as ‘narrow AI’, where AI systems can perform one or only a few
+specific tasks. In the future, it is expected that ‘general AI’ will be developed that should be able
+to perform most human activities.
+Descriptions of AI in EU policy documents demonstrate high expectations towards AI as a
+transformative technology with wide-ranging impacts. The EU AI strategy describes AI as “one
+of the most strategic industries of the 21st century”, suggesting that “like the steam engine or
+electricity in the past, AI is transforming our world, our society and our industry” (European
+Commission, 2018a: 2). At the same time, policy documents highlight potential risks associated with AI. The need to balance high potential and risks of AI is exemplified in the opening
+paragraph of the EU white paper on AI, which states that:
+Artificial Intelligence is developing fast. It will change our lives by improving healthcare
+(e.g. making diagnosis more precise, enabling better prevention of diseases), increasing
+the efficiency of farming, contributing to climate change mitigation and adaptation,
+improving the efficiency of production systems through predictive maintenance, increasing the security of Europeans, and in many other ways that we can only begin to imagine. At the same time, AI entails a number of risks, such as opaque decision-making,
+gender-based or other kinds of discrimination, intrusion in our private lives or being
+used for criminal purposes.
+(European Commission, 2020a: 1)
+EU policy for AI, as will be discussed later, is aiming to facilitate the positive impacts of AI and
+to mitigate the risks. While the transformative potential of AI is strongly emphasised by policymakers and other actors within and beyond the EU, AI experts emphasise that at the moment,
+there is still an enormous gap between ambition and reality of what AI can do (see e.g. Marcus
+and Davis, 2019: 18).
+A mix of hopes and concerns regarding AI can also be seen in the Eurobarometer survey (European Commission, 2020b). Around half of the respondents (51%) agreed that public
+Artificial intelligence in the EU
+257
+policy intervention is needed to ensure the ethical development of AI applications. Half of the
+survey participants (50%) saw healthcare as a field where the use of AI would be particularly
+appropriate. Eighty percent of the respondents indicated that they would like to know when a
+digital service or mobile application uses AI.
+Towards a European approach to AI? the evolution of EU policy
+Many EU actors and institutions have been involved in defining EU policy for AI. Table 14.1
+provides a chronology of the key EU policy documents on AI. In addition to these major milestones, many other reports and opinions from EU institutions (e.g. Boucher, 2020), experts (e.g.
+EGE, 2018) and stakeholders (e.g. EESC, 2017) have contributed to intensive discussions about
+the EU approach to AI (Ulnicane et al., 2021a, 2021b; Vesnic-Alujevic et al., 2020). Development of the EU approach to AI involves a number of EU policy areas including digital market,
+internal market and research and innovation policies.
+In developing an EU approach, policy-makers, stakeholders and experts have been inspired
+by the developments in other countries and regions as well as previous success stories of European integration. The report from one of the early European Commission’s AI policy seminars
+(European Commission, 2017a) includes an overview of international initiatives from the US,
+China, Japan, United Kingdom, Germany and the United Arab Emirates. Additionally, the idea
+of creating a type of CERN (European Organization for Nuclear Research) for AI was suggested at this seminar (and has kept reappearing in the following discussions), referring to the
+large-scale research facility, which is seen as one of the great success stories of European integration in research (Cramer and Hallonsten, 2020; Ryan, 2022). According to the report, at the
+CERN for AI, “AI experts could discuss the fundamentals of technology and develop solutions
+open to peer review” (European Commission, 2017a: 7).
+This section looks at the key AI policy documents from the European Parliament, the European Commission and experts outlined in Table 14.1 and how they incorporate elements of
+Normative Power Europe and Market Power Europe.
+Table 14.1 Chronology of the key EU policy documents on AI
+Date Document
+2017 February Resolution on Civil Law Rules on Robotics (European Parliament, 2017)
+2018 April Communication “Artificial Intelligence for Europe” (European Commission,
+2018a)
+2018 December Communication “Coordinated Plan on Artificial Intelligence” (European
+Commission, 2018b, 2018d)
+2019 April Independent High-Level Expert Group on Artificial Intelligence set up by the
+European Commission “Ethics Guidelines for Trustworthy AI” (European
+Commission, 2019b)
+2020 February White paper “On Artificial Intelligence – A European Approach to Excellence and
+Trust” (European Commission, 2020a)
+2021 April Communication “Fostering a European Approach to Artificial Intelligence”
+(European Commission, 2021): regulation proposal and revised coordinated
+plan
+Source: Author’s own compilation
+Inga Ulnicane
+258
+The European parliament: the legal status for robots
+In early 2017, the European Parliament adopted its resolution on Civil Law Rules for Robotics (European Parliament, 2017). This was not only the first EU policy document on AI but
+also one of the first AI policy documents worldwide (Cath et al., 2018). This document was
+prepared during the early stages of public debates on AI characterised by media attention to
+alarmist opinions on AI threats voiced by public figures Stephen Hawking and Elon Musk
+(Galanos, 2019). The somewhat sensational and sci-fi mood surrounding AI at that early stage
+of the public debate can be found in the Parliament document which opens with mentions of
+Mary Shelley’s Frankenstein’s monster and the robot of Karel Capek and later invokes Isaac Asimov’s Three Laws of Robotics from his 1943 short story “Runaround”; these laws, according
+to the resolution, “must be regarded as being directed at the designers, producers and operators
+of robots” (European Parliament, 2017: 241).
+The title of this document, “Civil Law Rules on Robotics”, suggests a rather specific focus
+and an important part of the document is dedicated to issues of liability legislation as applied
+to legal responsibility for any damage that might be caused by robots. However, the document
+also addresses broader questions typically discussed in AI policy debates, such as concerns about
+jobs and the need to support research, innovation and education, as well as to work on ethical principles, standardisation, safety and security. The Parliament recommends following the
+precautionary principle,1
+ and it suggests that the guiding ethical framework should be based
+“on the principles and values enshrined in Article 2 of Treaty on the European Union2
+ and
+in the Charter of Fundamental Rights, such as human dignity, equality, justice and equity,
+non-discrimination, informed consent, private and family life and data protection” (European
+Parliament, 2017: 244).
+In this resolution, the Parliament requests the Commission to submit a proposal for a directive on civil law rules for robots, following the Parliament’s recommendations. This document
+has become largely known due to one particularly controversial recommendation to create a
+legal status for robots. The Parliament suggested:
+creating a specific legal status for robots in the long run, so that at least the most sophisticated autonomous robots could be established as having the status of electronic persons
+responsible for making good any damage they may cause, and possibly applying electronic
+personality to cases where robots make autonomous decisions or otherwise interact with
+third parties independently.
+(European Parliament, 2017: 250)
+This recommendation received a lot of criticism from AI experts and stakeholders. An open
+letter to the European Commission signed by more than 200 AI and robotics researchers,
+industry leaders and law and ethics experts stated that “creating a legal status of electronic ‘person’ would be ideological and non-sensical and non-pragmatic”.3
+ Additionally, the authors of
+the open letter emphasised that from a technical perspective, this recommendation is based on
+“overvaluation of the actual capabilities of even the most advanced robots” and perception of
+robots “distorted by Science-Fiction and a few recent sensational press announcements”, while
+from a legal and ethical perspective, it is inappropriate to create a legal personality for a robot.
+As requested, the Commission provided a response to the Parliament emphasising that it
+will develop a comprehensive strategy for AI, which will also include the evaluation of existing
+legislation (European Commission, 2017b). While many ideas on ethics, employment and need
+for regulation highlighted by the Parliament’s resolution are part of the subsequent EU policy
+Artificial intelligence in the EU
+259
+for AI, this document is largely remembered due to its one highly controversial recommendation on creating a legal status for robots.
+The Parliament’s resolution incorporates elements of both Normative Power Europe as well
+as Market Power Europe. Recommendations to develop an ethical framework based on principles and values enshrined in the Treaty on European Union and the Charter of Fundamental
+Rights demonstrates a strong reliance on normative power. At the same time, the document
+emphasises the need for regulation, which is a key element of Market Power Europe. Moreover, the document also pays attention to other market related policies, such as investment and
+employment.
+AI strategy for Europe “amid fierce global competition”
+Following the Tallinn Digital Summit that discussed the influential McKinsey report on the
+EU being behind the US and China in AI investment (see introduction), in October 2017, the
+European Council invited the Commission to put forward a European approach to AI (European Council, 2017). In response to the Council’s invitation and the Parliament’s resolution, the
+Commission launched the EU strategy for AI in April 2018 (European Commission, 2018a).
+At this time, many organisations and countries around the world either had already launched or
+were about to launch their AI strategies (Ulnicane et al., 2021b, 2021a). This context is reflected
+in the document, which states that “amid fierce global competition, a solid European framework is needed” (European Commission, 2018a: 2) and in its introduction mentions recent AI
+strategies and investment plans of the US, China, Japan and Canada.
+This strategy sets out three aims, which have become the key pillars for the EU AI policy.
+First, it aims to boost the EU’s technological and industrial capacity and AI uptake across the
+economy both by the private and public sectors. This includes a range of activities, such as stepping up investments, strengthening research and innovation and making more data available.
+The strategy sets a target for the combined public (EU and Member States) and private investments in AI to reach more than 20 billion euros per year over the following decade (European
+Commission, 2018a: 6).4
+Second, the strategy aims to prepare for socio-economic changes brought about by AI. This
+aim directly addresses one of the major concerns about AI, automation and robots, namely their
+impact on employment. While the document mentions some positive aspects, such as robots
+doing jobs that might be repetitive or even dangerous and new jobs emerging as a result of AI,
+the main focus is on dealing with jobs that will be lost and ‘leaving no one behind’. Actions
+include modernisation of education and training systems, anticipating changes in the labour
+market, supporting labour market transitions and adaptation of social protection systems.
+Third, the goal is to ensure an appropriate ethical and legal framework that is based on the
+EU’s values, in line with the Charter for Fundamental Rights. This includes guidance on regulation in particular in areas of safety and liability, cooperation of stakeholders and development
+of AI ethics guidelines. An overarching idea highlighted in the strategy is that Europe should
+champion “an approach to AI that benefits people and society as a whole” (European Commission, 2018a: 3) and “place the power of AI at the service of human progress” (European
+Commission, 2018a: 20).
+This strategy has been followed by a range of actions. To engage a broad range of stakeholders, the European Commission set up a European AI Alliance. The Alliance is open to any
+representative from industry, civil society, academia and other fields who are interested to contribute to the EU AI policy, and in 2019, it had over 2700 members (European Commission,
+2019c: 2). Other activities set out in the strategy include developing a coordinated approach
+Inga Ulnicane
+260
+with EU Member States, preparing ethics guidelines and collaborating internationally; these
+will be discussed in the following sections.
+Similar to the Parliament’s resolution, this strategy contains largely the same elements of
+Normative Power Europe, such as the need to develop an ethical framework based on the EU’s
+values enshrined in the Treaty and Charter for Fundamental Rights, as well as characteristics of
+Market Power Europe, including the need for regulation, investments and labour market policy.
+AI ‘made in Europe’: cooperation and coordination among
+the Member States
+At the time when the EU’s AI strategy was launched, several Member States had published or
+were about to publish their own national strategies (af Malmborg and Trondal, 2021; Dexe and
+Franke, 2020; Köstler and Ossewaarde, 2021; Ossewaarde and Gulenc, 2020; Robinson, 2020;
+Van Roy et al., 2021). The EU strategy (European Commission, 2018a) refers to policy initiatives in France, Germany and Finland. The strategy emphasised the importance of joining forces
+of Member States to help the EU as a whole to compete globally and prevent the fragmentation
+of the single market. To facilitate that, the Commission committed to work with Member States
+on a coordinated plan on AI, building on a recent declaration of Member States to collaborate
+on AI (Declaration, 2018).
+The coordinated plan on AI, jointly prepared by the Commission and the Member States,5
+was launched in December  2018 (European Commission, 2018b). The plan builds on and
+expands the AI strategy. The plan aims to increase Europe’s effort in public interest areas, such
+as healthcare, transport, security, education and energy, as well as in other areas, for example,
+manufacturing and financial services. The main goals of the plan are:
+to maximise the impact of investments at EU and national levels, encourage synergies and
+cooperation across the EU, including on ethics, foster the exchange of best practices and
+collectively define the way forward. By working together the Union can maximise its
+impact to compete globally.
+(European Commission, 2018d: 2)
+The annex “Coordinated Plan on the Development and Use of Artificial Intelligence Made in
+Europe” (European Commission, 2018d) defines a series of joint actions for closer and more
+efficient cooperation between Member States and the Commission integrating national and
+regional-level actions and measures with the EU level ones outlined in the strategy. In total, the
+plan proposes some 70 joint actions in key areas, such as research, investment, market uptake,
+skills and talent, data and international cooperation (European Commission, 2020a). The plan
+will be monitored and updated regularly. The first review of the plan has been published in 2021
+(European Commission, 2021). The plan is scheduled to run until 2027 in line with the EU
+Multi-annual Financial Framework.
+In the coordinated plan, the Commission and Member States agree on joint actions to
+maximise investment, create European data spaces, nurture talent skills and life-long learning
+and develop ethical and trustworthy AI. Combined investments include EU-level funding such
+as from research and innovation Framework Programmes and European Structural and Investment Funds, as well as national investments. While some Member States had AI strategies in
+place already at the time when the coordinated plan was published, others were encouraged to
+develop their national AI strategies, including investment plans and implementation measures
+and building on the work done at the European level.
+Artificial intelligence in the EU
+261
+Activities aimed at the creation of common European data spaces are important, because
+access to large and robust datasets is crucial for development of AI. The plan envisages such data
+spaces in a number of areas, including health, to be created in accordance with the EU General
+Data Protection Regulation. Processing of data is to be supported by high-performance computing initiatives. Measures to support talent and skills are important not only due to expected
+job replacement but also because of shortages of information and communication technology
+professionals. Against the background that in 2017 there were 240,000 Europeans in Silicon
+Valley (European Commission, 2018b: 5), the coordinated plan highlights the measures to train,
+attract and retain tech talent in Europe.
+Activities aimed at ethical and trustworthy AI require “a regulatory framework that is
+flexible enough to promote innovation while ensuring high levels of protection and safety”
+(European Commission, 2018b: 8). To that end, the Commission carries out an assessment of whether the national and EU safety and liability frameworks are fit for purpose
+or whether there are any gaps that should be addressed. For the ethics framework, the
+coordinated plan (in addition to traditional references to Charter of Fundamental Rights)
+emphasises that one key principle will be ‘ethics by design’, “by which ethical principles
+are embedded in AI products and services right at the beginning of the design process”
+(European Commission, 2018d: 17). To realise the ambition to bring Europe’s ethical
+approach to the global stage, the plan encourages Member States and the Union to align
+their international outreach efforts.
+Additionally, the coordinated plan mentions security-related aspects of AI applications and
+infrastructure and an international security agenda along three dimensions: first, how AI could
+enhance the objectives of the security sector; second, how AI technologies can be protected
+from attacks (especially cyber-security requirements of AI); and third, how to address any potential abuse of AI for malicious purposes. Furthermore, the document highlights the potential of
+AI application to contribute to better public services by, for example, increasing the quality and
+consistency of services delivered and improving health and employment services (European
+Commission, 2018d: 19).
+What exactly does the slogan “Artificial Intelligence Made in Europe” mentioned in the
+coordinated plan (European Commission, 2018b) mean? The Commission explains it as
+follows:6
+Europe has a unique approach to AI. While actions are geared towards the development
+of technology that is competitive and makes the most of opportunities offered by AI, this
+technology should also be ethical and secure. For this reason, the Commission is proposing an approach that places people at the centre of the development of AI (humancentric AI) and encourages the use of this powerful technology to help solve the world’s
+biggest challenges such as climate change, safe transportation and cybersecurity. At the
+same time, the development of this type of AI builds on Europe’s scientific and industrial
+strengths.
+(European Commission, 2019e)
+Thus, the European approach to AI, as defined here, brings together different elements from
+previous EU AI documents and highlights close interconnections between characteristics of
+Normative Power Europe and Market Power Europe. Investment policies and regulation, which
+typically are associated with Market Power Europe, are closely related to ethics and values that
+are part of Normative Power Europe, because investments in AI are expected to address societal
+challenges and regulation aims to protect values and implement an ethical framework. The
+Inga Ulnicane
+262
+following quote from the coordinated plan sums up a close connection between market and
+normative elements as a major characteristic of the European approach to AI:
+An appropriate and predictable, ethical and regulatory framework that relies on effective
+safeguards for the protection of fundamental rights and freedoms is vital for citizens to trust
+AI and for companies, in need of investment security, to take up new business opportunities. Spearheading the ethics agenda, while fostering innovation, has the potential to
+become a competitive advantage for European businesses on the global marketplace.
+(European Commission, 2018d: 17)
+While there are complex relationships between business, regulation and values, the previously
+mentioned idea of the ethics agenda as a competitive advantage for European business raises the
+question of whether ethics are being instrumentalised to support business interests. This question has been part of controversies surrounding the EU ethics guidelines and the White Paper
+discussed in the following sections.
+“Ethics Guidelines for Trustworthy AI”
+The need to develop an ethics framework for AI has been highlighted in all EU AI policy documents. In 2018, the Commission set up an independent high-level expert group (HLEG) on
+AI to develop the ethics guidelines. The group consisted of 52 experts from industry, academia
+and civil society who were chosen in an open selection process (Larsson, 2020; Smuha, 2019;
+Stix, 2021).
+The ethics guidelines were developed in a participatory way. An initial draft was published in
+December 2018. More than 500 organisations and individuals provided comments during the
+stakeholder discussion. The “Ethics Guidelines for Trustworthy AI” (European Commission,
+2019b) were published in April 2019. These guidelines emphasise a ‘human-centric’ approach
+to AI. According to this approach, “AI is not an end in itself, but rather a promising means to
+increase human flourishing, thereby enhancing individual and societal well-being and the common good, as well as bringing progress and innovation” (European Commission 2019b: 4). As
+an example of this, the guidelines mention that AI systems can help to facilitate the achievement
+of the United Nations’ Sustainable Development Goals (European Commission, 2019b: 4).
+The ethics guidelines (European Commission, 2019b) put at the centre terms such as ‘trust’
+and ‘trustworthiness’, which are among the concepts widely used in AI ethics guidelines around
+the world (Jobin et al 2019). According to the guidelines, trustworthy AI should have three
+components: it should be lawful, ethical and robust (European Commission, 2019b: 5), see
+Table 14.2.
+The guidelines (European Commission, 2019b) set out seven key requirements for Trustworthy AI: human agency and oversight, technical robustness and safety, privacy and data
+Table 14.2 Components of trustworthy AI (European Commission 2019b: 5)
+Component Description
+Lawful Complying with all applicable laws and regulations
+Ethical Ensuring adherence to ethical principles and values
+Robust Both from technical and social perspectives, since, even with good intentions, AI systems
+can cause unintentional harm
+Artificial intelligence in the EU
+263
+governance, transparency, diversity, non-discrimination and fairness, environmental and societal
+well-being, and accountability. This framework for Trustworthy AI is based on fundamental
+rights as enshrined in the EU Treaties and the Charter for Fundamental Rights.
+The guidelines aim to balance maximising benefits and preventing any risks related to AI
+systems. As examples of opportunities, the document mentions climate action and sustainable
+infrastructure, health and well-being and quality education and digital transformation, while
+critical concerns include identifying and tracking individuals with AI, and lethal autonomous
+weapon systems (European Commission, 2019b: 32-34).
+The guidelines (European Commission, 2019b) were welcomed by the European Commission (2019c) but received harsh criticism from one of the HLEG members. On the day
+the guidelines were published HLEG member Thomas Metzinger published a highly critical
+opinion in the German newspaper Der Tagesspiegel, with the provocative title “Ethics Washing Made in Europe” (Metzinger, 2019). Metzinger, who is one of four ethicists among 52
+members of the HLEG heavily dominated by industry representatives, describes the guidelines
+as “a compromise of which I am not proud, but which is nevertheless the best in the world on
+the subject”. While he admits that anchoring the guidelines in European fundamental values
+is excellent, his main criticisms focus on the influence of industrial interests, which, according
+to him, has led, for example, to removing from the document ‘red lines’ and non-negotiable
+principles on what should not be done with AI in Europe, such as the lethal autonomous
+weapon systems and social scoring. These were replaced in the guidelines with ‘critical concerns’. Therefore, Metzinger sees the guidelines, which he describes as ‘deliberately vague’, as a
+case of ethics washing when industry cultivates ethics debates to buy time and prevent or delay
+effective regulation and policy-making.
+The term ‘red lines’, mentioned by Metzinger, appears in the subsequent HLEG document
+published a couple of months later, which among other things suggests to “institutionalise a
+dialogue on AI policy with affected stakeholders to define the red lines and discuss AI applications that may risk generating unacceptable harms” (European Commission, 2019d: 41). In
+this document, the HLEG outlines 33 policy and investment recommendations for trustworthy
+AI. These recommendations focus on four main areas where AI can help achieving beneficial
+impact: empowering and protecting humans and society, transforming the private sector, supporting the public sector as a catalyst for sustainable growth and innovation and ensuring worldclass research capabilities. As the main enablers to facilitate those impacts, HLEG outlines the
+availability of data and infrastructure, skills and education and appropriate governance and regulation, as well as funding and investment. The document envisages the creation of a European
+Single Market for Trustworthy AI based on appropriate regulation and standards.
+Thus, the ethics guidelines and the following policy and investment guidelines prepared
+by the HLEG again suggest a strong relationship between the elements of Normative Power
+Europe and Market Power Europe. The ethics guidelines are based on European values and,
+according to the policy and investment recommendations, these can be implemented by creating a single market with appropriate regulation and investment. However, according to one of
+the authors, the ethics guidelines might be actually serving short-term business interests rather
+than promoting values or long-term single market needs.
+White paper on AI: towards regulation
+In her Political Guidelines for the European Commission 2019–2024, the incoming President of the European Commission Ursula von der Leyen promised that during her first 100
+days in office, she “will put forward legislation for a coordinated European approach to the
+Inga Ulnicane
+264
+human and ethical implications” of AI (Von der Leyen, 2019: 13). This promise led to the
+publication of a white paper on AI in February 2020 which set out a number of options
+for investment and regulation and launched a public consultation (European Commission,
+2020a).
+The main novelty of this document is outlining a range of options for a regulatory framework suggesting that “a clear regulatory framework would build trust among consumers and
+businesses in AI, and therefore speed up the uptake of the technology” (European Commission,
+2020a: 9-10). For this regulatory framework, the Commission proposes ‘a risk-based approach’
+that would strike a balance between being “effective to achieve its objectives while not being
+excessively prescriptive so that it could create a disproportionate burden” (European Commission, 2020a: 17). To ensure that the regulatory intervention is proportionate, it outlines two
+criteria to differentiate where AI applications are a ‘high-risk’ or not. The first criterion suggests
+focusing on sectors where significant risks can be expected, such as healthcare, transport, energy
+and parts of the public sector. The second criterion focuses on significant risks, such as legal
+effects, injury, death or damage, which may arise from using AI applications in a particular sector. For those AI applications which according to these criteria are deemed high risk, the white
+paper sets out a number of requirements related to features, such as human oversight, robustness
+and accuracy and information to be provided. In particular, the Commission suggests launching
+a broad debate on the use of biometric identification, for instance, facial recognition in public
+places. For those AI applications which are not seen as high risk, the Commission proposes a
+voluntary labelling scheme that would allow users to recognise products and services which
+comply with some EU-wide benchmarks.
+The white paper “On Artificial Intelligence – A European Approach to Excellence and
+Trust” presents regulation as a key element for building trust, while for enhancing excellence, it
+lists a number of recommendations on investments in AI that have already been introduced earlier. It also mentions the European Green Deal and states that “digital technologies such as AI
+are a critical enabler for attaining the goals of the Green Deal” (European Commission, 2020a:
+2). Already at the beginning, the document mentions that “it does not address the development
+and use of AI for military purposes” (European Commission, 2020a: 1) but does not provide
+any explanation for excluding this topic. It is not clear why the military AI is left out, considering that the European Defence Fund is being set up (Calcara et al., 2020; Karampekios and
+Oikonomou, 2021; Sweeney, 2021) and AI is one of technologies supported there, which is also
+mentioned in a footnote of the white paper (European Commission, 2020a: 6). Following the
+open consultation on the white paper in 2020, the Commission has published its proposal for
+regulation (European Commission, 2021).
+The white paper’s focus on investment and regulatory approach suggests a strong presence of elements of Market Power Europe. At the same time, the document claims that this
+approach is grounded in fundamental rights, values and ethics, with references, for example,
+to the ethics guidelines for Trustworthy AI. However, ethicists have voiced their disappointment with this document. Thomas Metzinger, who earlier criticised the ethics guidelines, this
+time joined by another philosophy professor in the HLEG, Mark Coeckelbergh, argues that
+in preparing the white paper, the Commission has failed to listen to its own experts, largely
+ignored detailed recommendations prepared by the HLEG and the few ethicists in the HLEG
+have been “nothing but a fig leaf” (Coeckelbergh and Metzinger, 2020). One of their criticisms highlights the omission of lethal autonomous weapons systems from the white paper. In
+times when the EU is starting to fund defence research on AI and when elements of military
+power Europe are emerging, excluding this topic from the document for public consultation
+seems questionable.
+Artificial intelligence in the EU
+265
+Conclusions: the EU in global AI competition and cooperation
+The EU has been developing its approach to AI in the context when this new transformative technology is being applied more and more widely and when many governments and other organisations are developing their strategies and guidelines on AI. An important part of defining the EU
+approach to AI is learning from other regions, positioning itself as well as cooperating globally.
+Questions about global competition and leadership have been an important part of AI discourse. AI development has been depicted as a new space race where the US is leading and
+China is an emerging leader, with other countries, such as the United Kingdom and France,
+also announcing their leadership ambitions (Franke, 2021; Ulnicane et al., 2021a). Over recent
+years, the EU has repeated its intention to be a leader in AI based on its values. The EU AI
+strategy states that “the EU can lead the way in developing and using AI for good and for all”
+(European Commission, 2018a: 3). The EU tries to distinguish itself from the US and China
+by emphasising its ethical, human-centric and value-based approach, as demonstrated in the
+following quotation:
+There is strong global competition on AI among the USA, China and Europe. The USA
+leads for now but China is catching up fast and aims to lead by 2030. For the EU, it is not
+so much a question of winning or losing a race but of finding the way of embracing the
+opportunities offered by AI in a way that is human-centred, ethical, secure, and true to
+our core values.
+(European Commission, 2018c: 12–13)
+Thus, while emphasising its normative approach, the EU still repeats a competition discourse.
+However, as mentioned in the introduction, such an international competitiveness discourse
+can be misleading and even dangerous. It might lead to political and financial prioritisation of
+AI at the expense of other policy and investment areas. Moreover, focusing on competition
+might make international cooperation more difficult.
+The EU has also demonstrated a strong interest in global cooperation, in particular on AI
+ethics guidelines. It has been involved in developing the OECD ethical principles for trustworthy AI, which were later endorsed by the G20 ministers (European Commission, 2020a: 8).
+The EU white paper on AI recognises an important work on AI ongoing in other multilateral
+fora such as the Council of Europe and UNESCO and confirms the EU’s interest in continuing
+cooperation with like-minded countries. It states that “Europe is well positioned to exercise
+global leadership in building alliances around shared values and promoting the ethical use of AI”
+(European Commission, 2020a: 8). The EU approach to AI as a way to promote its values can
+be seen in the following statement:
+The Commission is convinced that international cooperation on AI matters must be based
+on an approach that promotes the respect for fundamental rights, including human dignity,
+pluralism, inclusion, non-discrimination and protection and privacy and personal data and
+will strive to export its values across the world. It is also clear that responsible development
+and use of AI can be a driving force to achieve the Sustainable Development Goals and
+advance the 2030 Agenda.
+(European Commission, 2020a: 9)
+Thus, in a global arena of AI competition and cooperation, the EU attempts to project itself as
+a Normative Power Europe promoting its value-based and human-centric approach based on
+Inga Ulnicane
+266
+its ethics guidelines for Trustworthy AI. The EU’s ambitions to be a Market Power Europe with
+appropriate regulation and investments at the moment are still being discussed, while potential
+developments towards Military Power Europe based on investments in AI in the context of
+emerging EU defence research are excluded from the public discussion of a European approach
+to AI. Ambitions to be a Normative Power Europe in AI have led to some influence at international forums, such as the OECD and the G20, but have also put the EU’s own actions in
+this area under increased scrutiny and have encountered backlash from some of the EU’s own
+ethics experts.
+At the time of updating this chapter in mid-2021, the EU approach to AI still is a moving
+target. From 2017 until 2020, the EU institutions have adopted some of the key documents,
+organised stakeholder forums and launched public consultations dedicated to AI. These activities have started important conversations and defined the EU goals for the development and use
+of a human-centric AI. However, they have also opened a number of Pandora’s boxes fuelling
+controversies including about the dominance of business interests, the type of regulation needed
+and the potential relationship between civilian and military AI. Implementation of the defined
+goals and resolution of controversies remains on the agenda for the years to come. In April 2021,
+the Commission published its proposal for AI regulation. Its success as well as the success of
+implementing the EU’s ambitious goals in the area of AI more broadly depend on a number of
+factors. These include compromises among the EU institutions; financial investments from EU,
+national and business funds; actions in all Member States; and a balance between the interests of
+diverse stakeholders from big businesses to civil society, including vulnerable and marginalised
+social groups (Ulnicane et al., 2021a, 2021b; Vesnic-Alujevic et al., 2020). Moreover, of major
+importance will be integration of AI in the future EU digital and technological agenda as well
+as in achieving the EU political commitments such as the Green Deal.
+Acknowledgements
+This chapter has benefited from the feedback on presentations of earlier versions at the handbook
+workshop in Lyon, France, 2019, and the 2020 virtual conferences: the European Consortium
+for Political Research General Conference and the Academic Association for Contemporary
+European Studies (UACES) conference. Helpful comments from the Handbook editors are
+acknowledged. The research reported in this chapter has received funding from the EU’s Horizon 2020 Research and Innovation Programme under Grant Agreements No.720270 (HBP
+SGA1), No. 785907 (HBP SGA2) and No. 945539 (HBP SGA3).
+Notes
+1 Precautionary principle used in EU environmental, food safety and other policy areas “relates to an
+approach to risk management whereby, if there is the possibility that a given policy or action might
+cause harm to the public or the environment and, if there is still no scientific consensus on the issue,
+the policy or action in question should not be pursued”. Available from: https://eur-lex.europa.eu/
+summary/glossary/precautionary_principle.html. Last accessed: 23 November 2020.
+2 Human dignity, freedom, democracy, equality, the rule of law and respect for human rights, including
+the rights of persons belonging to minorities.
+3 Open Letter to the European Commission “Artificial Intelligence and Robotics”. Available from www.
+robotics-openletter.eu Last accessed: 10 April 2020.
+4 From 2021–2027, the new Digital Europe Programme plans to allocate over 2 billion euros for AI.
+Available from https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/programmes/
+digital Last accessed 29 March 2021. Further funding is expected from the Structural Funds, Member
+States, and business.
+Artificial intelligence in the EU
+267
+5 Additionally, Norway and Switzerland are part of the Plan.
+6 The term “AI made in Europe” might be misleading, because it suggests a focus on AI developed in
+Europe, while a lot of AI is developed elsewhere, but when used in Europe would also have to comply
+with legal and regulatory frameworks for its use. See, for example, European Commission (2019b: 4).
+Bibliography
+af Malmborg, Frans, and Jarle Trondal (2021) Discursive framing and organizational venues: Mechanisms
+of artificial intelligence policy adoption. International Review of Administrative Sciences, forthcoming.
+Boucher, Philip (2020) Artificial intelligence: How does it work, why does it matter, and what can we do about it?
+European Parliamentary Research Service.
+Calcara, Antonio, Raluca Csernatoni, and Chantal Lavalée (Eds) (2020) Emerging Security Technologies and
+EU Governance: Actors, Practices and Processes. London: Routledge.
+Cath, Corinne, Sandra Wachter, Brent Mittelstadt, Mariarosaria Taddeo, and Luciano Floridi (2018) Artificial Intelligence and the ‘Good Society’: The US, EU, and UK approach. Science and Engineering Ethics
+24: 505–528.
+Chou, Meng-Hsuan, and Ase Gornitzka (Eds) (2014) Building the Knowledge Economy in Europe. New Constellations in European Research and Higher Education Governance. Cheltenham: Edward Elgar.
+Coeckelbergh, Mark and Thomas Metzinger (2020) Europe needs more guts when it comes to AI ethics.
+Tagesspiegel, 14 April 2020.
+Cramer, Katharina, and Olof Hallonsten (2020) Big Science and Research Infrastructures in Europe. Cheltenham: Edward Elgar.
+Damro, Chad (2012) Market Power Europe. Journal of European Public Policy 19(5): 682–699.
+Declaration (2018) Cooperation on artificial intelligence. Brussels, 10 April 2018. Available from: https://
+ec.europa.eu/digital-single-market/en/news/eu-member-states-sign-cooperate-artificial-intelligence.
+Last accessed: 23 November 2020.
+Dexe, Jacob, and Ulrik Franke (2020) Nordic lights? National AI policies for doing well by doing
+good. Journal of Cyber Policy 5(3): 332–349.
+Dyrhauge, Helene (2022) EU transport policy at a crossroad: The cost of liberalisation for climate change
+and personal mobility, in Thomas Hoerber, Ignazio Cabras and Gabriel Weber (Eds) Routledge Handbook of European Integrations. London: Routledge.
+EESC (European Economic and Social Committee) (2017) Artificial intelligence – The consequences of
+artificial intelligence on the (digital) single market, production, consumption, employment and society.
+Opinion.
+EGE (European Group on Ethics in Science and New Technologies) (2018) Statement on Artificial Intelligence, Robotics and ‘Autonomous’ Systems. Brussels: European Commission.
+European Commission (2017a) AI policy seminar: Towards an EU strategic plan for AI. Digital Transformation Monitor. 29 November 2017.
+European Commission (2017b) Follow up to the European Parliament resolution of 16 February 2017 on
+civil law rules on robotics 2015/2103 (INL). SP(2017)310.16.5.2017.
+European Commission (2018a) Artificial intelligence for Europe. Communication. COM(2018) 237 final.
+Brussels 25.4.2018.
+European Commission (2018b) Coordinated plan on artificial intelligence. Communication COM(2018)
+795 final. Brussels 7.12.2018.
+European Commission (2018c) Artificial Intelligence: A  European Perspective. Luxembourg: Publications
+Office of the European Union.
+European Commission (2018d) Annex to the coordinated plan on artificial intelligence. Communication
+COM(2018) 795 final ANNEX. Brussels 7.12.2018.
+European Commission (2019a) A definition of AI: Main capabilities and disciplines. Independent HighLevel Expert Group on Artificial Intelligence set up by the European Commission. Brussels.
+European Commission (2019b) Ethics guidelines for trustworthy AI. Independent High-Level Expert
+Group on Artificial Intelligence set up by the European Commission. Brussels. 8.4.2019.
+Inga Ulnicane
+268
+European Commission (2019c) Building trust in human-centric artificial intelligence. COM(2019) 168
+final. 8.4.2019.
+European Commission (2019d) Policy and investment recommendations for trustworthy AI. Independent
+High-Level Expert Group on Artificial Intelligence set up by the European Commission. Brussels.
+26.6.2019.
+European Commission (2019e) Questions and answers: Coordinated plan for artificial intelligence “made
+in Europe”. Brussels, 7 December 2019. Available from: https://ec.europa.eu/commission/presscorner/
+detail/en/MEMO_18_6690. Last accessed: 24 November 2020.
+European Commission (2020a) On artificial intelligence – A European approach to excellence and trust.
+White Paper. COM(2020) 65 final. Brussels 19.2.2020.
+European Commission (2020b) Europeans and Artificial Intelligence. Report. Standard Eurobarometer 92.
+European Commission (2021) Fostering a European approach to artificial intelligence. Communication.
+COM(2021) 205 final. Brussels 21.4.2021.
+European Council (2017) European Council Conclusions. 19.10.2017.
+European Parliament (2017) Civil law rules on robotics. European Parliament resolution of 16 February 2017
+with recommendations to the Commission on Civil Law Rules on Robotics (2015/2103(INL)). Official Journal of the European Union C 252:239–257.18.7.2018.
+Franke, Ulrike (2021) Artificial Intelligence Diplomacy | Artificial Intelligence Governance as a New European
+Union External Policy Tool. Study for the special committee on Artificial Intelligence in a Digital Age
+(AIDA), Policy Department for Economic, Scientific and Quality of Life Policies, European Parliament, Luxembourg.
+Galanos, Vassilis (2019) Exploring expanding expertise: Artificial intelligence as an existential threat and the
+role of prestigious commentators, 2014–2018. Technology Analysis & Strategic Management 31(4): 421–432.
+Jobin, Anna, Marcello Ienca, and Effy Vayena (2019) The global landscape of AI ethics guidelines. Nature
+Machine Intelligence 1: 389–399.
+Karampekios, Nikolaos, and Iraklis Oikonomou (2022) Defence-industrial consolidation as a precondition
+for EU military integration, in Thomas Hoerber, Ignazio Cabras and Gabriel Weber (Eds) Routledge
+Handbook of European Integrations. London: Routledge.
+Köstler, Lea, and Ringo Ossewaarde (2021) The making of AI society: AI futures frames in German political and media discourses. AI & Society, forthcoming.
+Krugman, Paul (1994) Competitiveness: A dangerous obsession. Foreign Affairs 73(2): 28–44.
+Larsson, Stefan (2020) On the governance of artificial intelligence through ethics guidelines. Asian Journal
+of Law and Society 7(3): 437–451.
+Manners, Ian (2002) Normative power Europe: A contradiction in terms? Journal of Common Market Studies
+40(2): 235–258.
+Marcus, Gary, and Ernest Davis (2019) Rebooting AI: Building Artificial Intelligence We Can Trust. New York:
+Pantheon Books.
+McKinsey & Company (2017) 10 imperatives for Europe in the age of AI and automation. Report for the
+European Union Heads of State Tallinn Digital Summit. Available from: www.mckinsey.com/featuredinsights/europe/ten-imperatives-for-europe-in-the-age-of-ai-and-automation. 23 November 2020.
+Metzinger, Thomas (2019) Ethics washing made in Europe. Tagesspiegel, 8 April 2019.
+Mitzner, Veera (2020) European Union Research Policy. Contested Origins. Palgrave Macmillan.
+OECD (2020) AI strategies and public sector components. Available from: https://oecd-opsi.org/pro
+jects/ai/strategies/ Last accessed: 15 February 2020.
+Ossewaarde, Marinus, and Erdener Gulenc (2020) National varieties of artificial intelligence discourses:
+Myth, utopianism, and solutionism in West European policy expectations. Computer 53(11): 53–61.
+Robinson, Stephen Cory (2020) Trust, transparency, and openness: How inclusion of cultural values shapes
+Nordic national public policy strategies for artificial intelligence (AI). Technology in Society 63: 101421.
+Ryan, Lorna (2022) European integration, the European Research Area and European research infrastructures, in Thomas Hoerber, Ignazio Cabras and Gabriel Weber (Eds) Routledge Handbook of European
+Integrations. London: Routledge.
+Artificial intelligence in the EU
+269
+Smuha, Nathalie A. (2019) The EU approach to ethics guidelines for trustworthy artificial intelligence.
+Computer Law Review International 20(4): 97–106.
+Stix, Charlotte (2021) Actionable principles for artificial intelligence policy: Three pathways. Science and
+Engineering Ethics 27: 15.
+Sweeney, Simon (2022) EU common security and defence policy, in Thomas Hoerber, Ignazio Cabras and
+Gabriel Weber (Eds) Routledge Handbook of European Integrations. London: Routledge.
+Ulnicane, Inga (2015) Broadening Aims and Building Support in Science, Technology and Innovation
+Policy: The Case of the European Research Area. Journal of Contemporary European Research 11(1):
+31–49.
+Ulnicane, Inga (2016) Research and innovation as sources of renewed growth? EU policy responses to the
+crisis. Journal of European Integration 38(3): 327–341.
+Ulnicane, Inga, Damian Okaibedi Eke, William Knight, George Ogoh, and Bernd Carsten Stahl (2021a)
+Good governance as a response to discontents? Déjà vu, or lessons for AI from other emerging technologies. Interdisciplinary Science Reviews 46(1–2): 71–93.
+Ulnicane, Inga, William Knight, Tonii Leach, Bernd Carsten Stahl, and Winter-Gladys Wanjiku (2021b)
+Framing governance for a contested emerging technology: Insights from AI policy. Policy and Society
+40(2): 158–177.
+Van Roy, Vincent, Fiammetta Rossetti, Karine Perset, and Laura Galindo-Romero (2021) AI Watch –
+National strategies on artificial intelligence: A European perspective. Luxembourg: Publications Office of the
+European Union.
+Vesnic-Alujevic, Lucia, Susana Nascimento, and Alexandre Polvora (2020) Societal and ethical impacts of
+artificial intelligence: Critical notes on European policy frameworks. Telecommunications Policy 44(6):
+101961.
+Von der Leyen, Ursula (2019) A union that strives for more. My agenda for Europe. By candidate for President of the European Commission Ursula von der Leyen. Political Guidelines for the Next European
+Commission 2019–2024.

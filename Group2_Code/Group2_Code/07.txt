@@ -1,0 +1,858 @@
+arXiv:2505.10266v1 [cs.SI] 15 May 2025
+Characterizing AI-Generated Misinformation on Social Media
+Chiara Drolsbach1
+, Nicolas Prollochs ¨
+1
+1
+JLU Giessen, Germany
+chiara.drolsbach@wi.jlug.de, nicolas.proellochs@wi.jlug.de
+Abstract
+AI-generated misinformation (e. g., deepfakes) poses a growing threat to information integrity on social media. However, prior research has largely focused on its potential societal consequences rather than its real-world prevalence. In
+this study, we conduct a large-scale empirical analysis of AIgenerated misinformation on the social media platform X.
+Specifically, we analyze a dataset comprising 91,452 misleading posts, both AI-generated and non-AI-generated, that
+have been identified and flagged through X’s Community
+Notes platform. Our analysis yields four main findings: (i)
+AI-generated misinformation is more often centered on entertaining content and tends to exhibit a more positive sentiment than conventional forms of misinformation, (ii) it is
+more likely to originate from smaller user accounts, (iii) despite this, it is significantly more likely to go viral, and (iv)
+it is slightly less believable and harmful compared to conventional misinformation. Altogether, our findings highlight the
+unique characteristics of AI-generated misinformation on social media. We discuss important implications for platforms
+and future research.
+Introduction
+Artificial intelligence (AI) technologies are rapidly transforming the social media landscape, enabling the creation
+of convincing synthetic content. A prominent example is
+deepfakes – AI-generated media that can realistically imitate real people’s appearance, voice, or actions (Feuerriegel
+et al. 2023; Hancock and Bailenson 2021; Groh et al. 2024;
+Vaccari and Chadwick 2020; Sippy et al. 2024). These and
+other forms of AI-generated misinformation blur the line between authentic and fabricated content, making it increasingly difficult for users and platforms to discern what is real
+(Goldstein et al. 2023; Groh et al. 2024). As these tools become more sophisticated and accessible, they offer powerful new means for spreading misinformation (Feuerriegel
+et al. 2023; Goldstein et al. 2023). Their increased scalability, multilingualism, and multimodality further complicate detection, and pose significant challenges to the defense strategies previously employed by digital platforms
+and users (Feuerriegel et al. 2023).
+Despite growing concerns, AI-generated misinformation
+on social media remains poorly understood. Prior research
+warns that such content can have serious societal consequences, including the erosion of trust in media, institutions,
+and democratic processes (Hancock and Bailenson 2021;
+Vaccari and Chadwick 2020; Dobber et al. 2021; Yan et al.
+2025; Goldstein et al. 2023). Individuals with low media literacy may be particularly susceptible to these threats (Feuerriegel et al. 2023; Grinberg et al. 2019). While several studies have analyzed the ability of humans (Bashardoust, Feuerriegel, and Shrestha 2024; Kobis, Dole ¨ zalov ˇ a, and Soraperra ´
+2021; Groh et al. 2024; Kreps, McCain, and Brundage 2022;
+Somoray and Miller 2023; Diel et al. 2024; Bray, Johnson,
+and Kleinberg 2023; Cooke et al. 2024) and machine learning systems (Zi et al. 2020; Montserrat et al. 2020) to detect
+AI-generated content – typically finding that such detection
+is highly challenging – there is little empirical evidence on
+how AI-generated misinformation actually spreads on social
+media and how it differs from conventional forms of misinformation. This hinders efforts to design platform defenses,
+guide policy, and build public resilience (Feuerriegel et al.
+2023). Our study addresses this gap with by characterizing
+AI-generated misinformation circulating on the social media
+platform X (formerly Twitter).
+Research goal: In this paper, we conduct a large-scale
+empirical analysis to characterize AI-generated misinformation circulating on the social media platform X. Specifically,
+we address the following research questions:
+• RQ1: How does AI-generated misinformation differ from other forms of misinformation in terms of
+content attributes (e. g., modality, topics)?
+• RQ2: What are the characteristics of accounts that
+disseminate AI-generated misinformation?
+• RQ3: Is AI-generated misinformation more viral
+than other types of misinformation?
+• RQ4: How does AI-generated misinformation differ in terms of its believability and harmfulness?
+Data & methods: We analyze a large dataset consisting of 91,452 misleading posts, both AI-generated and nonAI-generated, that have been identified and flagged on X’s
+Community Notes platform (Prollochs 2022; X 2021) be- ¨
+tween January 2023 and January 2025 (i. e., during an observation period of two years). Compared to alternative approaches (e. g., manual annotation; machine learning-based
+identification), Community Notes offers two key advantages
+for identifying AI-generated misinformation: (i) it enables
+large-scale detection (Prollochs 2022; Pilarski, Solovev, and ¨
+Prollochs 2024) and (ii) it achieves high identification ac- ¨
+curacy enabled by the wisdom of crowds (Drolsbach and
+Prollochs 2023a; Allen et al. 2021; Martel et al. 2024). ¨
+To characterize AI-generated misinformation, we employ a
+large language model (LLM) to annotate misleading posts
+across a wide range of dimensions (e. g., sentiment, topics,
+believability, harmfulness). Based on this data, we then empirically analyze how AI-generated misinformation on social media differs from traditional forms of misinformation.
+The data collection and the analysis follow common standards for ethical research (Rivers and Lewis 2014).
+Contributions: To the best of our knowledge, our study is
+the first large-scale study characterizing AI-generated misinformation circulating on social media. Our analysis contributes the following four main findings: (i) AI-generated
+misinformation is more often centered on entertaining content and tends to exhibit a more positive sentiment than conventional forms of misinformation, (ii) it is more likely to
+originate from smaller user accounts, (iii) despite this, it is
+significantly more likely to go viral, and (iv) it is slightly
+less believable and harmful as conventional misinformation.
+These findings highlight the distinct role of AI-generated
+within the broader misinformation ecosystem and offer important implications for platforms, policymakers, and researchers seeking to design countermeasures against AIgenerated misinformation.
+Background
+The manipulation of media content has long been a concern;
+however, the rapid advancements of generative AI tools have
+significantly lowered the barriers to creating sophisticated
+AI-generated content (Westerlund 2019; Feuerriegel et al.
+2023). AI-generated content (e. g., deepfakes) – artificially
+generated videos, images, and audio designed to mimic real
+individuals – have become increasingly prevalent on social
+media, raising critical concerns about their role in spreading
+misinformation (Hancock and Bailenson 2021; Groh et al.
+2024; Vaccari and Chadwick 2020). This emerging form of
+digital misinformation poses significant challenges to the
+defense strategies previously employed by digital platforms
+and users (Goldstein et al. 2023; Feuerriegel et al. 2023).
+Additionally, the increased scalability, multilingualism, and
+multimodality of AI-generated content further complicate its
+detection and mitigation (Feuerriegel et al. 2023; Timmerman et al. 2023).
+Research on AI-generated misinformation is still in its
+early stages, with most existing studies focusing on their potential societal impacts, such as erosion of trust in media
+and democratic institutions (Dobber et al. 2021; Hancock
+and Bailenson 2021; Vaccari and Chadwick 2020; Goldstein
+et al. 2023). Despite growing concern, there is limited empirical evidence on the actual prevalence of AI-generated
+misinformation on social media and how it spreads relative
+to other forms of misinformation. Although AI-generated
+misinformation is often portrayed as a particularly dangerous type of digital misinformation (Hancock and Bailenson 2021), it remains unclear what specifically distinguishes
+them from traditional misinformation in terms of its content
+characteristics, reach, and user engagement.
+A separate body of research has focused on detecting AIgenerated misinformation, typically through one of two approaches: (1) human-centered methods (Groh et al. 2024)
+and (2) automated, machine learning-based methods (Zhou
+et al. 2023; Montserrat et al. 2020). Human-centered methods, which are dependent on individual judgements, often
+struggle to accurately identify AI-generated content (Groh
+et al. 2024; Somoray and Miller 2023; Diel et al. 2024;
+Bray, Johnson, and Kleinberg 2023; Cooke et al. 2024).
+Further, they lack scalability, which makes them ineffective for large volumes of media (Groh et al. 2024). Yet, evidence from studies on traditional misinformation shows that
+crowd-based approaches, where multiple judgments are aggregated, can achieve accuracy levels comparable to those of
+experts and overcome scalability issues (Allen et al. 2021;
+Martel et al. 2024; Drolsbach and Prollochs 2023a; He et al. ¨
+2025). In contrast, automated detection approaches, e. g., using AI models to analyze inconsistencies in facial expressions, lighting, and audio-visual mismatches, offer a scalable solution. However, they often struggle with accuracy
+and robustness, leading to false positives or undetected deepfakes (Almars 2021; Feuerriegel et al. 2023; Zhou et al.
+2023). To enable comprehensive and reliable empirical analysis of AI-generated misinformation circulating on social
+media, there is thus a need for complementary detection
+strategies that are both scalable and accurate.
+Our work: In this study, we characterize AI-generated
+misinformation that has been identified on X’s Community
+Notes platform, i. e., via the wisdom of crowds. Compared
+to other identification strategies, this has two key advantages: (i) it overcomes the scalability limitations of humancentered methods (Groh et al. 2024); (ii) it addresses challenges with low accuracy of AI-based approaches for the detection of AI-generated content (Almars 2021; Feuerriegel
+et al. 2023; Zhou et al. 2023). This unique data source
+enables us to empirically analyze what distinguishes AIgenerated misinformation from traditional forms of misinformation in terms of reach, user engagement, and content
+characteristics. Addressing these questions, is a crucial first
+step for developing effective countermeasures against AIgenerated misinformation.
+Data and Methods
+Data source
+To address our research questions, we analyze a comprehensive dataset of crowd-annotated social media posts flagged
+as misleading on X’s Community Notes between January
+2023 and January 2025, i. e., for an observation period of
+two years.1 X’s Community Notes is a crowdsourced factchecking system that enables users to add context to potentially misleading posts (Prollochs 2022; X 2021). By incor- ¨
+porating contributions from diverse perspectives, the system
+strives to provide balanced and informative notes (Wojcik
+et al. 2022) to help users assess content accuracy (Drolsbach, Solovev, and Prollochs 2024). Each Community Note ¨
+1Available via https://communitynotes.x.com/guide/en/underthe-hood/download-data
+consists of the assigned label (i. e., whether the post is considered misleading) and a textual description that explains
+why a post is misleading (e. g., because it is a deepfake; see
+examples in Fig. 1). Further, Community Notes features a
+rating mechanism, where other users can rate the helpfulness
+of each note (Solovev and Prollochs 2025). A note becomes ¨
+visible on X for all users if (and only if) it reaches a certain
+helpfulness rating, reflecting agreement across diverse perspectives rather than simple majority approval. Community
+fact-checks identified as helpful on the Community Notes
+platform have been shown to be accurate (Drolsbach and
+Prollochs 2023a) and trustworthy (Drolsbach, Solovev, and ¨
+Prollochs 2024). ¨
+For our data collection, we filtered all Community Notes
+rated as helpful, resulting in a dataset of 91,452 community
+fact-checked posts. We downloaded both the source posts
+and all attached media (i. e., images and videos). To retrieve additional metadata about the fact-checked posts, we
+mapped the referenced tweetID to the original source tweet
+via the X Research API. This includes key attributes such as
+the number of retweets, likes and, impressions, the type of
+attached media as well as details about the author’s profile
+such as the follower count, followee count, total tweet count,
+account age, and verification status. In addition, we estimated the authors’ political partisanship and misinformation exposure on social media using the method proposed by
+Mosleh and Rand (2022). Partisanship scores range from −1
+(Democrat) to +1 (Republican) and are based on the number of Democratic and Republican public figures followed
+by each user. The misinformation exposure score ([0, 1]) is
+derived from the proportion of followed public figures that
+have been rated false by PolitiFact.2
+Identification of AI-generated misinformation
+To distinguish AI-generated content from other misleading posts, we implemented an LLM-based identification
+approach. Specifically, we deployed an OpenAI Assistant
+(based on gpt-4-turbo), which was given the task of identifying whether a Community Note refers to AI-generated
+content. The assistant was instructed to act as a “professional
+annotator specializing on annotating social media content.”
+The task was complemented by a clear description of what
+is to be understood as AI-generated content. For each case,
+it returned a binary classification (“yes” or “no”) of whether
+or not is AI-generated (see SI, Sec. Prompt: Identification of
+AI-Generated Posts for the full prompt).
+Compared to alternative strategies (e. g., keyword-based
+heuristics, purely content-based methods), our approach
+to identify AI-generated misleading posts via Community Notes offers two main advantages: (i) it leverages
+crowd-sourced fact-checking explanations (i. e., Community
+Notes), which contain contextual insights not evident from
+the media content alone, and (ii) it achieves comparatively
+high accuracy (see validation below).
+2We use the method available at https://github.com/mmosleh/
+minfo-exposure. Due to X API restrictions, partisanship and misinformation expose could only be calculated for authors of 32,070
+posts in our dataset.
+Validation: To validate the identification of AI-generated
+misinformation, we conducted a validation study involving three trained research assistants. Each assistant independently reviewed 400 randomly selected posts (1/3 AI and
+2/3 non-AI), including both the original post and the corresponding textual Community Note. For each post, they assessed whether it contained AI-generated content (Yes/No).
+The participants rated posts categorized as AI-generated significantly more often as AI-generated than posts categorized
+as non-AI-generated (MAI/AI = 0.75, MAI/nonAI = 0.22,
+t = 19.318, p < 0.01). An analysis of Fleiss’s Kappa shows
+a fair interrater agreement, which is statistically significant
+(κ = 0.322, z = 11.1, p < 0.01). These findings strengthen
+the validity of our results, showing that individual annotators (that may have varying familiarity with the posts’ information) and the LLM align well in their perceptions and
+categorizations of AI-generated misleading posts.
+Annotation of post characteristics
+We used an LLM-based classification approach (Feuerriegel
+et al. 2025; Chuai et al. 2025a) to annotate the source posts
+with a wide variety of content characteristics. Since this task
+required processing not only textual content but also media elements (i. e., images/videos), it was computationally
+demanding. To balance API costs while ensuring representativeness, we randomly selected a balanced subset of 3000
+posts (1500 AI/1500 Non-AI). Subsequently, we deployed
+an OpenAI Assistant (gpt-4-turbo) configured to function as
+a professional content reviewer. The assistant was presented
+with the textual elements of the posts and the attached media
+(images or video snapshots). Further, it was provided with
+the information that all posts had been flagged as misleading by a community-based fact-checking initiative. Its evaluation focused on four core dimensions: sentiment, topic,
+harmfulness, and believability.
+Sentiment (Feuerriegel et al. 2025) referred to the emotional tone or attitude expressed in the post, categorized as
+positive, neutral, or negative. The topic dimension (Feuerriegel et al. 2025) required the assistant to identify the
+main subject matter as one of the following topics: Politics, Technology, Health, Crime, Business, Entertainment,
+Sports, Education, Satire, and Other. Harmfulness (Drolsbach and Prollochs 2023b) assessed the potential of the con- ¨
+tent to cause real-world damage, including emotional distress, physical harm, or societal disruption, particularly if the
+misinformation were believed and acted upon (low, medium
+or high). Believability (Drolsbach and Prollochs 2023b) was ¨
+defined as the degree to which a post could plausibly be
+accepted as true by a general audience (low, medium or
+high). These definitions were embedded directly in the system prompt to ensure consistent and interpretable outputs.
+The full prompt is available in the SI, Sec. Prompt: Annotation of post characteristics.
+Empirical Analysis
+Content characteristics (RQ1)
+Our final dataset includes 91,452 posts across more than
+60 languages, with 4577 posts (i. e., 5.06%) identified as
+Figure 1: Examples of posts on X that shares a deepfake in form of an (a) Image, (b) Video, or (c) no media (here: URL to
+media content) and the corresponding Community Notes.
+containing AI-generated content. English dominates the
+dataset, accounting for half of all posts (50.05%), followed
+by Japanese (12.15%), Spanish (10.94%), French (7.85%),
+Portuguese (5.83%), and German (2.61%). A long tail of
+low-frequency languages reflects the dataset’s global scope,
+though many languages are represented by only a handful
+of posts. These posts contain either an image (55.95%), a
+video (37.16%), a GIF (0.02%), or no media (6.86%) (see
+Fig. 2). The latter mostly consists of URLs linking to AIgenerated content on another website or are reposts of other
+posts containing media. Compared to other forms of misinformation, AI-generated misleading posts are 1.33 times
+more likely to contain media elements (i. e., images, video,
+or GIFs). Overall, the numbers reflect the growing importance of visual content on social media.
+Sentiment: We applied LLM-based sentiment classification on a subset of the dataset (N = 3000) that incorporates
+both the textual content of each post and any attached media (see Sec. Annotation of post characteristics). Figure 3
+Non−AI
+AI
+0.00 0.25 0.50 0.75 1.00
+Relative Share
+Photo Video GIF No Media
+Figure 2: Distribution of media types/modalities in AIgenerated vs. non-AI-generated misleading posts. N =
+91,452.
+presents the distribution of posts classified as negative, neutral or positive. The results indicate that a higher proportion
+of AI-generated posts exhibit positive sentiment compared
+to non-AI-generated posts (24% vs. 16%). In contrast, negative sentiment is more prevalent among non-AI-generated
+posts (51% vs. 43%). Further, Pearson’s Chi-squared test
+revealed a statistically significant association between AI
+generation status and sentiment classification (χ = 36.85,
+p < 0.01). This indicates that the distribution of sentiment
+categories differs systematically between AI-generated and
+non-AI-generated posts and suggests that AI-generated misinformation may be more likely to adopt a humorous or entertaining tone.
+As a validation, we calculated sentiment scores on the
+full dataset (N = 91, 452), this time using only the textual
+content of each post (i. e., without attached media).3 Consistent with our main analysis, we find that the mean sentiment
+score is significantly higher for AI-generated posts than for
+non-AI-generated ones (t = −3.63, p < 0.01). However,
+the purely text-based approach classified a larger proportion
+of posts as neutral. This likely reflects the fact that much
+of the emotional tone in these posts is conveyed through attached media, rather than text alone.
+43%
+51%
+24%
+16%
+32%
+Non−AI 33%
+AI
+100 50 0 50 100
+Percentage
+Negative Neutral Positive
+Figure 3: Distribution of sentiment in AI-generated vs. nonAI-generated misleading posts. N = 3000.
+Topics: Based on the LLM-based topic classification
+(including both textual content & media), we observe notable differences in the distribution of specific topics between AI-generated and non-AI-generated content (see Fig.
+4). Specifically, 30.40% of AI-generated posts are associated
+with the topic Entertainment, while only 16.60% of non-AIgenerated posts focus on this topic. This suggests that AIgenerated content may be more likely to focus on lighter,
+more engaging topics. In contrast, the share of posts related
+to the topic Health is higher among non-AI-generated content (9.40% vs. 2.27%), indicating a potential difference in
+the focus areas of human versus AI creators. For all other
+topics, the distribution remains largely similar between the
+two groups (i. e., the differences are ≤ 2.00%).
+Non−AI
+AI
+0% 25% 50% 75% 100%
+Relative Share
+Business
+Politics
+Technology
+Health
+Crime
+Education
+Sports
+Entertainment
+Satire
+Other
+Figure 4: Distribution of topics in AI-generated vs. non-AIgenerated misleading posts. N = 3000.
+3We used the Twitter-roBERTa-base model, which is fine-tuned
+on tweets, to calculate sentiment scores for the textual content of
+each post (Barbieri et al. 2020; Loureiro et al. 2022).
+Author characteristics (RQ2)
+Next, we analyze how the characteristics of authors of AIgenerated misinformation differ from those of other forms
+misinformation (see Fig. 5). We observe that AI-generated
+misleading posts tend to originate from accounts with significantly more followers (950, 660 vs. 585, 671), but fewer
+followees (6072 vs. 8153), and are, on average, older (8.32
+vs. 7.31 years). These accounts have also posted and interacted with more content throughout their entire lifetime,
+with a higher mean tweet count (73, 688 vs. 61, 047). The
+tweet count includes original posts, replies, retweets and
+quoted posts. Further, the number of posts per author is
+lower for AI-generated posts (1.55 vs. 2.78), which may reflect the higher effort required to create and disseminate AIgenerated misinformation. Both two-sided t-tests and Kolmogorov–Smirnov (KS) tests confirm that these differences
+between AI-generated and non-AI-generated misinformation are statistically significant (each p < 0.01).
+a
+KS−test: D=0.055, p<0.01
+0.1
+1
+10
+25
+50
+100
+0 20M 40M 60M
+Follower Count
+CCDF (%)
+AI
+Non−AI
+b
+KS−test: D=0.067, p<0.01
+0.1
+1
+10
+25
+50
+100
+0 100k 200k
+Followee Count
+CCDF (%)
+AI
+Non−AI
+c
+KS−test: D=0.091, p<0.01
+0.1
+1
+10
+25
+50
+100
+0 5 10 15
+Account Age
+CCDF (%)
+AI
+Non−AI
+d
+KS−test: D=0.028, p<0.01
+0.1
+1
+10
+25
+50
+100
+0 250k 500k 750k 1M 1.25M
+Tweet Count
+CCDF (%)
+AI
+Non−AI
+Figure 5: Complementary cumulative distribution functions
+(CCDFs) for AI vs. non-AI generated misleading posts,
+shown separately for follower counts (a), followee counts
+(b), account age (c), and the number of posts per author (d).
+N = 91,452.
+Partisanship and misinformation exposure: We observe a significantly higher mean partisanship score among
+authors of AI-generated posts compared to those of non-AIgenerated posts (see Fig. 6), indicating that authors of AIgenerated content tend to be more conservative. The partisanship score ranges from −1 (Democrat) to 1 (Republican),
+with higher values indicating greater conservatism (Mosleh
+and Rand 2022). Specifically, the mean partisanship score
+for AI-generated posts is 0.272, compared to 0.199 for nonAI-generated posts. While both means fall on the conservative side of the scale, the higher value for AI-generated content suggests a notable shift toward more right-leaning users
+among those sharing such posts. This difference is statisti-
+cally significant according to a two-sided t−test (t = −3.43,
+p < 0.01). In contrast, we find no statistically significant
+differences in misinformation exposure between the two
+groups (t = −1.665, p = 0.09).
+Non−AI
+AI
+−1.0 −0.5 0.0 0.5 1.0
+Partisanship
+Figure 6: Boxplot of partisanship scores for AI vs. non-AI
+generated misleading posts (N = 32,070). The partisanship
+scores range from −1 (Democrat) to 1 (Republican), with
+higher values indicating greater conservatism (Mosleh and
+Rand 2022).
+Virality (RQ3)
+The posts in our dataset have generated more than 200 billion impressions, have been reposted more than 137 million
+times and liked more than 969 million times. On average,
+AI-generated misinformation received 8.19% more impressions, 20.54% more reposts and 49.42% more likes.
+Regression model: To better understand the virality of
+AI-generated vs. other types of misinformation and account for confounding factors, we implement three negative binomial regression models explaining the number of
+(i) retweets, (ii) likes and (iii) impressions (e. g., Chuai et al.
+2024b,a; Rathje, Van Bavel, and Van Der Linden 2021). The
+key explanatory variable is AIGeneratedi
+, i. e., whether the
+post contains media that was generated using AI (= 1) or
+not (= 0). Consistent with previous work (e. g., Stieglitz and
+Dang-Xuan 2013; Vosoughi, Roy, and Aral 2018; Drolsbach
+and Prollochs 2023a), we control for content characteristics ¨
+(i. e., media type), and account characteristics (i. e., follower
+count, followee count, account age, verification status).
+Each model takes the following form:
+log (E[Yi
+| Xi
+]) = β0 + β1 AIGeneratedi
++ β2 MediaTypei + β3 Followersi + β4 Followeesi
++ β5 AccountAgei + β6 Verifiedi + ut, (1)
+where Yi denotes the outcome variable (retweets, likes,
+impressions) for post i, Xi
+is the vector of explanatory variables, and β0 the intercept. Furthermore, we include monthyear fixed effects ut, which allow us to control for variation in exposure windows and platform dynamics over time
+(e. g., Drolsbach and Prollochs 2023b,a). In our regression ¨
+analysis, all continuous variables are z-standardized to aid
+interpretability.
+Coefficient estimates: We find that AI-generated misleading posts are substantially more viral than other forms
+of misinformation. On average, they receive e
+0.104 − 1 =
+10.81% more retweets (coef: 0.103, p < 0.01), 34.16%
+more likes (coef: 0.294, p < 0.01), and 10.32% more impressions (coef: 0.098, p < 0.01), compared to non-AIgenerated misleading posts (see Fig. 7).
+Regarding the control variables, we observe that media
+content plays a significant role in driving user engagement.
+Compared to posts without media, those containing images
+receive 30.46% more retweets (coef: 0.266, p < 0.01),
+while posts with videos receive 53.86% more retweets (coef:
+0.431, p < 0.01). Similar patterns are observed across other
+engagement metrics, except for the impression count, which
+shows no significant effect of images. Posts containing images or videos receive significantly higher engagement overall (p < 0.01), while GIFs show a significant effect only for
+retweets – likely due to the small number of posts with GIFs
+attached in the dataset.
+The effects of social influence variables are also statistically significant (p < 0.01) and align with findings from
+prior work (e. g., Drolsbach and Prollochs 2023a). Higher ¨
+follower and followee counts are associated with higher engagement, while a higher account age is associated with
+lower engagement. Interestingly, the verification status exhibits a strong positive effect on impression count but a
+negative effect on both retweet count and like count (all
+p < 0.01). This suggests that verified users benefit from
+greater visibility, likely due to algorithmic amplification on
+X, which boosts their content in users’ feeds. However, after
+controlling for other account characteristics (e. g., follower
+count) this increased exposure does not translate into higher
+user engagement.
+Content characteristics Account characteristics
+−0.5
+0.0
+0.5
+1.0
+AI−Generated
+Image
+Video
+GIF
+Followers
+Followees
+Account Age
+Verified User
+DV: Retweet Count DV: Like Count DV: Impression Count
+Figure 7: Negative binomial regression with the retweet
+count, like count, and impression count as DVs. The circles show standardized coefficient estimates and the vertical
+bars represent 99% confidence intervals. Month-year fixed
+effects are included. N = 91,452.
+Model checks: (1) We checked that variance inflation factors as an indicator of multicollinearity are below the critical
+value of five (Akinwande et al. 2015). (3) We found confirmatory results when estimating separate regressions for
+AI-generated vs. not AI-generated posts. (iii) We repeated
+our regression analysis controlling for the topic and sentiment of the fact-checked posts. Here we used the subset
+of 3000 LLM-annotated posts for which we have access
+to topic and sentiment labels (see Sec. Annotation of post
+characteristics). We found that AI-generated posts are more
+viral than other misleading posts even after controlling for
+differences in topics and sentiment.
+Harmfulness & believability (RQ4)
+As AI models become increasingly capable of mimicking
+human communication, their ability to produce more credible and potentially more harmful misinformation grows
+(Feuerriegel et al. 2023). Understanding characteristics
+such as believability and harmfulness is therefore critical for assessing the risks associated with AI-generated
+content and informing effective detection and mitigation
+strategies (Drolsbach and Prollochs 2023b). To address ¨
+this, we analyzed the LLM-based annotation of post believability and harmfulness (see Section Annotation of
+post characteristics), comparing AI-generated and non-AIgenerated misinformation.
+We observe that most posts are perceived as not particularly harmful, with 66% of AI-generated and 62% of nonAI-generated posts rated as low in harmfulness. Ratings of
+medium and high harmfulness are less common: 23% vs.
+27% for medium, and 10% vs. 11% for high (AI vs. nonAI, respectively). In terms of believability, the largest share
+of posts is perceived as highly believable, with 45% of AIgenerated and 42% of non-AI-generated posts rated as such.
+The remaining distributions are 32% vs. 30% for low believability, and 23% vs. 28% for medium believability (AI
+vs. non-AI).
+Although the absolute differences between AI-generated
+and non-AI-generated posts in terms of harmfulness and believability are relatively small, Chi-squared tests imply that
+they are partially statistically significant. For believability,
+AI-generated posts are more likely to be rated as less believable, while non-AI-generated posts are more likely to be
+rated as at least medium believable (χ = 22.827, p < 0.01).
+For harmfulness, non-AI-generated posts are slightly more
+likely to be classified as medium or highly harmful, while
+AI-generated posts are more likely to be categorized as less
+harmful (χ = 7.317, p = 0.03).
+Overall, despite the statistical significance, these differences are quite small. Still, the data suggests a slight tendency that AI-generated posts are both less believable and
+less harmful.
+Discussion
+AI-generated misinformation represents a growing challenge in the digital information landscape. Different from
+traditional forms of misinformation, it leverages advanced
+AI technologies to create highly realistic yet deceptive content, making detection increasingly difficult (Feuerriegel
+et al. 2023; Hancock and Bailenson 2021; Groh et al. 2024;
+Vaccari and Chadwick 2020). Despite these risks, research
+has largely focused on the societal consequences of AIgenerated misinformation (Hancock and Bailenson 2021;
+Vaccari and Chadwick 2020; Dobber et al. 2021) rather than
+their real-world prevalence. Here, we contribute by conducting a large-scale empirical analysis of AI-generated misinformation circulating on the social media platform X.
+a
+66%
+23%
+10%
+62%
+27%
+11%
+Low
+Medium
+High
+AI Non−AI
+0.2 0.3 0.4 0.5 0.6
+b
+32%
+23%
+45%
+28%
+30%
+42%
+Low
+Medium
+High
+AI Non−AI
+0.25 0.30 0.35 0.40 0.45
+Figure 8: Harmfulness (a) and believability (b) of AIgenerated vs. non-AI-generated misleading posts. N =
+3000.
+Implications
+Our findings highlight the distinct characteristics of AIgenerated misinformation and their unique role within the
+misinformation ecosystem. Compared to other forms of misinformation, AI-generated content is more frequently focused on entertainment and tends to exhibit a more positive sentiment (RQ1). Yet, even when accounting for content
+differences, AI-generated misleading posts are disproportionately more likely to go viral (RQ2) – despite frequently
+originating from smaller accounts (RQ3). Moreover, we find
+that AI-generated misinformation is similarly believable and
+harmful as traditional forms of misinformation (RQ4). This
+underscores the capacity of generative AI models to produce
+highly realistic and persuasive misleading content.
+These patterns suggest that the AI-generated nature of
+content should be treated as a distinct and meaningful factor in misinformation research. Its disproportionate virality
+points to underlying persuasive properties that may not be
+captured by existing content-based or intent-based categorizations (Tandoc Jr, Lim, and Ling 2018). To account for
+these properties, future studies should consider incorporating AI-generated content as an explanatory variable in empirical models of misinformation spread and engagement.
+Our results also motivate further research into the psychological and perceptual mechanisms that make AI-generated
+misinformation so compelling. Future research should examine the factors driving their spread (e. g., emotional appeal, visual realism, novelty), the demographics most engaged with them, and how they shape user interactions differently from traditional forms of misinformation. types of
+misleading information.
+For platforms, the high virality of AI-generated misinformation highlights the urgency to develop more effective countermeasures (Feuerriegel et al. 2023). Traditional
+strategies (e. g., expert-based fact-checking) often focus on
+high-profile accounts or recurring misinformation themes
+(Greene et al. 2025; Chuai et al. 2025b). However, our results demonstrate that smaller accounts are disproportion-
+ately responsible for spreading AI-generated misinformation. This indicates that detection strategies must move beyond account size as a primary signal. Here, communitybased fact-checking systems – such as X’s Community
+Notes – can be a promising tool by leveraging the collective judgment of users to identify and flag misleading content that may evade both professional fact-checkers and automated systems (Pilarski, Solovev, and Prollochs 2024). In ¨
+addition, improved cross-platform coordination could potentially improve consistency and enable more effective mitigation strategies across the broader digital ecosystem.
+AI-generated misinformation also presents a growing
+challenge to user trust and safety online (Feuerriegel et al.
+2023; Hancock and Bailenson 2021; Goldstein et al. 2023).
+As AI-generated content becomes increasingly indistinguishable from authentic content, users face greater challenges in evaluating the authenticity of the information they
+encounter and share (Groh et al. 2024; Bashardoust, Feuerriegel, and Shrestha 2024; Diel et al. 2024). This makes media literacy training (Jones-Jang, Mortensen, and Liu 2021;
+Guess et al. 2020) more essential than ever. Educational
+initiatives should help users develop skills to critically assess AI-generated misinformation, recognize manipulation
+techniques, and understand its broader societal implications
+(Goldstein et al. 2023; Feuerriegel et al. 2023). Such training
+is particularly vital for high-stakes domains (e. g., elections,
+health), where the spread of AI-generated misinformation
+can have serious real-world consequences (Bar, Pr ¨ ollochs, ¨
+and Feuerriegel 2023).
+Limitations & future research
+As any other research, our study is not free of limitations.
+First, our analysis is observational and cannot establish
+causal relationships. However, our observational approach
+allows us to uncover robust patterns based on real-world
+social media data that would be difficult to study in controlled settings. Second, our data is limited to a single platform (i. e., X), which may constrain the generalizability to
+other platforms with different user bases or moderation practices. Still, given X’s central role in shaping public discourse, it provides a particularly important setting for investing emerging forms of misinformation. Third, we rely on X’s
+Community Notes system to identify misinformation, which
+inherently only captures content that is flagged by users. As
+such, some AI-generated misleading posts likely go undetected, potentially biasing our view toward more visible or
+controversial cases. However, this crowd-sourced approach
+offers a unique advantage in terms of scalability and accuracy, enabling the identification of a wide range of misinformation without relying on manual annotation or automated approaches. Finally, future research should examine
+how fact-checking effectiveness and visibility differ for AIgenerated versus traditional misinformation, and how corrections influence downstream user behaviors (e. g., sharing). Overall, continued research is needed to understand
+and mitigate the evolving risks posed by AI-generated misinformation on social media.
+Conclusion
+Despite growing concerns, the characteristics of AIgenerated misinformation on social media are poorly understood. Our work addresses this gap by offering a largescale empirical analysis of AI-generated misinformation circulating on X. Drawing on a dataset of 91,452 misleading posts identified via X’s Community Notes platform, we
+show that AI-generated misinformation differs significantly
+from traditional forms in terms of content attributes, source
+accounts, and virality. To effectively address this emerging
+threat, researchers, platforms, and policymakers will need to
+develop new strategies and countermeasures that account for
+the unique properties of AI-generated misinformation.
+Ethics Statement
+All analyses are based on publicly available data. We declare
+no competing interests.
+References
+Akinwande, M. O.; Dikko, H. G.; Samson, A.; et al. 2015.
+Variance inflation factor: as a condition for the inclusion of
+suppressor variable (s) in regression analysis. Open Journal
+of Statistics, 5(7): 754–767.
+Allen, J.; Arechar, A. A.; Pennycook, G.; and Rand, D. G.
+2021. Scaling up fact-checking using the wisdom of crowds.
+Science Advances, 7(36): eabf4393.
+Almars, A. M. 2021. Deepfakes Detection Techniques Using Deep Learning: A Survey. Journal of Computer and
+Communications, 9: 20–35.
+Bar, D.; Pr ¨ ollochs, N.; and Feuerriegel, S. 2023. New threats ¨
+to society from free-speech social media platforms. Communications of the ACM, 66(10): 37–40.
+Barbieri, F.; Camacho-Collados, J.; Neves, L.; and EspinosaAnke, L. 2020. TweetEval: Unified benchmark and comparative evaluation for tweet classification. arXiv preprint
+arXiv:2010.12421.
+Bashardoust, A.; Feuerriegel, S.; and Shrestha, Y. R. 2024.
+Comparing the willingness to share for human-generated
+vs. AI-generated fake news. Proceedings of the ACM on
+Human-Computer Interaction, 8(CSCW2).
+Bray, S. D.; Johnson, S. D.; and Kleinberg, B. 2023. Testing
+human ability to detect ‘deepfake’ images of human faces.
+Journal of Cybersecurity, 9(1): tyad011.
+Chuai, Y.; Pilarski, M.; Renault, T.; Restrepo-Amariles,
+D.; Troussel-Clement, A.; Lenzini, G.; and Pr ´ ollochs, N. ¨
+2024a. Community-based fact-checking reduces the spread
+of misleading posts on social media. arXiv preprint
+arXiv:2409.08781.
+Chuai, Y.; Sergeeva, A.; Lenzini, G.; and Prollochs, N. ¨
+2025a. Community fact-checks trigger moral outrage in
+replies to misleading posts on social media. In CHI.
+Chuai, Y.; Tian, H.; Prollochs, N.; and Lenzini, G. 2024b. ¨
+Did the roll-Out of community notes reduce engagement
+with misinformation on X/Twitter? Proceedings of the ACM
+on Human-Computer Interaction, 8(CSCW2).
+Chuai, Y.; Zhao, J.; Prollochs, N.; and Lenzini, G. 2025b. Is ¨
+fact-Checking politically neutral? asymmetries in how US
+fact-checking organizations pick up false statements mentioning political elites. In ICWSM.
+Cooke, D.; Edwards, A.; Barkoff, S.; and Kelly, K. 2024. As
+Good As A Coin Toss: Human detection of AI-generated images, videos, audio, and audiovisual stimuli. arXiv preprint
+arXiv:2403.16760.
+Diel, A.; Lalgi, T.; Schroter, I. C.; MacDorman, K. F.; ¨
+Teufel, M.; and Bauerle, A. 2024. Human performance in ¨
+detecting deepfakes: A systematic review and meta-analysis
+of 56 papers. Computers in Human Behavior Reports, 16:
+100538.
+Dobber, T.; Metoui, N.; Trilling, D.; Helberger, N.; and
+De Vreese, C. 2021. Do (microtargeted) deepfakes have real
+effects on political attitudes? The International Journal of
+Press/Politics, 26(1): 69–91.
+Drolsbach, C.; and Prollochs, N. 2023a. Diffusion of ¨
+community fact-checked misinformation on Twitter. Proceedings of the ACM on Human-Computer Interaction,
+7(CSCW2).
+Drolsbach, C. P.; and Prollochs, N. 2023b. Believability and ¨
+harmfulness shape the virality of misleading social media
+posts. In WWW.
+Drolsbach, C. P.; Solovev, K.; and Prollochs, N. 2024. Com- ¨
+munity notes increase trust in fact-checking on social media.
+PNAS Nexus, pgae217.
+Feuerriegel, S.; DiResta, R.; Goldstein, J. A.; Kumar, S.;
+Lorenz-Spreen, P.; Tomz, M.; and Prollochs, N. 2023. Re- ¨
+search can help to tackle AI-generated disinformation. Nature Human Behaviour, 7(11): 1818–1821.
+Feuerriegel, S.; Maarouf, A.; Bar, D.; Geissler, D.; ¨
+Schweisthal, J.; Prollochs, N.; Robertson, C. E.; Rathje, S.; ¨
+Hartmann, J.; Mohammad, S. M.; et al. 2025. Using natural language processing to analyse text data in behavioural
+science. Nature Reviews Psychology, 4: 96–111.
+Goldstein, J. A.; Sastry, G.; Musser, M.; DiResta, R.;
+Gentzel, M.; and Sedova, K. 2023. Generative language models and automated influence operations: Emerging threats and potential mitigations. arXiv preprint
+arXiv:2301.04246.
+Greene, K. T.; Pisharody, N.; Carroll, F.; and Shapiro, J. N.
+2025. Fact-checks focus on famous politicians, not partisans. PNAS Nexus, 4(1): pgae567.
+Grinberg, N.; Joseph, K.; Friedland, L.; Swire-Thompson,
+B.; and Lazer, D. 2019. Fake news on Twitter during the
+2016 U.S. presidential election. Science, 363(6425): 374–
+378.
+Groh, M.; Sankaranarayanan, A.; Singh, N.; Kim, D. Y.;
+Lippman, A.; and Picard, R. 2024. Human detection of political speech deepfakes across transcripts, audio, and video.
+Nature Communications, 15(1): 7629.
+Guess, A. M.; Lerner, M.; Lyons, B.; Montgomery, J. M.;
+Nyhan, B.; Reifler, J.; and Sircar, N. 2020. A digital
+media literacy intervention increases discernment between
+mainstream and false news in the United States and India.
+Proceedings of the National Academy of Sciences (PNAS),
+117(27): 15536–15545.
+Hancock, J. T.; and Bailenson, J. N. 2021. The social impact of deepfakes. Cyberpsychology, Behavior, and Social
+Networking, 24(3): 149–152.
+He, B.; Hu, Y.; Lee, Y.-C.; Oh, S.; Verma, G.; and Kumar, S.
+2025. A survey on the role of crowds in combating online
+misinformation: Annotators, evaluators, and creators. ACM
+Transactions on Knowledge Discovery from Data, 19(1): 1–
+30.
+Jones-Jang, S. M.; Mortensen, T.; and Liu, J. 2021. Does
+media literacy help identification of fake news? Information
+literacy helps, but other literacies don’t. American Behavioral Scientist, 65(2): 371–388.
+Kobis, N. C.; Dole ¨ zalov ˇ a, B.; and Soraperra, I. 2021. Fooled ´
+twice: People cannot detect deepfakes but think they can.
+iScience, 24(11).
+Kreps, S.; McCain, R. M.; and Brundage, M. 2022. All the
+news that’s fit to fabricate: AI-generated text as a tool of media misinformation. Journal of Experimental Political Science, 9(1): 104–117.
+Loureiro, D.; Barbieri, F.; Neves, L.; Anke, L. E.;
+and Camacho-Collados, J. 2022. TimeLMs: Diachronic language models from Twitter. arXiv preprint
+arXiv:2202.03829.
+Martel, C.; Allen, J.; Pennycook, G.; and Rand, D. G. 2024.
+Crowds can effectively identify misinformation at scale.
+Perspectives on Psychological Science, 19(2): 477–488.
+Montserrat, D. M.; Hao, H.; Yarlagadda, S. K.; Baireddy,
+S.; Shao, R.; Horvath, J.; Bartusiak, E.; Yang, J.; Guera, D.; ´
+Zhu, F.; et al. 2020. Deepfakes detection with automatic face
+weighting. In IEEE/CVPR, 668–669.
+Mosleh, M.; and Rand, D. G. 2022. Measuring exposure
+to misinformation from political elites on Twitter. Nature
+Communications, 13(1): 7144.
+Pilarski, M.; Solovev, K.; and Prollochs, N. 2024. Commu- ¨
+nity notes vs. snoping: How the crowd selects fact-checking
+targets on social sedia. In ICWSM.
+Prollochs, N. 2022. Community-based fact-checking on ¨
+Twitter’s Birdwatch platform. In ICWSM.
+Rathje, S.; Van Bavel, J. J.; and Van Der Linden, S. 2021.
+Out-group animosity drives engagement on social media.
+Proceedings of the National Academy of Sciences, 118(26):
+e2024292118.
+Rivers, C. M.; and Lewis, B. L. 2014. Ethical research standards in a world of big data. F1000Research, 3: 38.
+Sippy, T.; Enock, F.; Bright, J.; and Margetts, H. Z. 2024.
+Behind the Deepfake: 8% Create; 90% Concerned. Surveying public exposure to and perceptions of deepfakes in the
+UK. arXiv preprint arXiv:2407.05529.
+Solovev, K.; and Prollochs, N. 2025. References to unbiased ¨
+sources increase the helpfulness of community fact-checks.
+arXiv preprint arXiv:2503.10560.
+Somoray, K.; and Miller, D. J. 2023. Providing detection
+strategies to improve human detection of deepfakes: An
+experimental study. Computers in Human Behavior, 149:
+107917.
+Stieglitz, S.; and Dang-Xuan, L. 2013. Emotions and information diffusion in social media: Sentiment of microblogs
+and sharing behavior. Journal of Management Information
+Systems, 29(4): 217–248.
+Tandoc Jr, E. C.; Lim, Z. W.; and Ling, R. 2018. Defining
+“Fake News”: A typology of scholarly definitions. Digital
+Journalism, 6(2): 137–153.
+Timmerman, B.; Mehta, P.; Deb, P.; Gallagher, K.; DolanGavitt, B.; Garg, S.; and Greenstadt, R. 2023. Studying the
+online deepfake community. Journal of Online Trust and
+Safety, 2(1).
+Vaccari, C.; and Chadwick, A. 2020. Deepfakes and disinformation: Exploring the impact of synthetic political video
+on deception, uncertainty, and trust in news. Social Media+
+Society, 6(1).
+Vosoughi, S.; Roy, D.; and Aral, S. 2018. The spread of true
+and false news online. Science, 359(6380): 1146–1151.
+Westerlund, M. 2019. The emergence of deepfake technology: A review. Technology Innovation Management Review,
+9: 40–53.
+Wojcik, S.; Hilgard, S.; Judd, N.; Mocanu, D.; Ragain, S.;
+Hunzaker, M.; Coleman, K.; and Baxter, J. 2022. Birdwatch:
+Crowd wisdom and bridging algorithms can inform understanding and reduce the spread of misinformation. arXiv
+preprint arXiv:2210.15723.
+X. 2021. Introducing Birdwatch, a community-based
+approach to misinformation. https://blog.twitter.com/en us/
+topics/product/2021/introducing-birdwatch-a-communitybased-approach-to-misinformation.
+Yan, H. Y.; Morrow, G.; Yang, K.-C.; and Wihbey, J. 2025.
+The origin of public concerns over AI supercharging misinformation in the 2024 US presidential election. Harvard
+Kennedy School Misinformation Review.
+Zhou, J.; Zhang, Y.; Luo, Q.; Parker, A. G.; and De Choudhury, M. 2023. Synthetic lies: Understanding AI-generated
+misinformation and evaluating algorithmic and human solutions. In CHI.
+Zi, B.; Chang, M.; Chen, J.; Ma, X.; and Jiang, Y.-G. 2020.
+Wilddeepfake: A challenging real-world dataset for deepfake detection. In MM, 2382–2390.
+Supplementary Materials
+Summary Statistics
+An overview of the dataset used in this study is shown in
+Table S1.
+Prompt: Identification of AI-Generated Posts
+To distinguish AI-generated content from other misleading
+posts, we implemented an OpenAI Assistant (gpt-4-turbo).
+The corresponding prompt is printed below.
+“You are a professional annotator specializing on annotating social media content. Your task is to classify social
+media posts based on Community Notes. The Community
+Notes have been added for fact-checking purposes to the social media posts, have been found helpful by other users and
+provide additional context to the social media post. Each
+post must be annotated along two dimensions: AI-generated,
+IdentificationConfidence
+Your goal is to produce consistent, structured annotations.
+Follow the definitions and formatting instructions strictly.
+Return only a valid JSON object with exactly two top-level
+keys: ’AI-generated’ and “IdentificationConfidence”.
+Definitions and Output Format:
+1. AI-generated
+• Definition: Identify whether you expect the original
+post to contain AI-generated content based on the
+community note provided. AI-generated content refers
+to any form of text, image, audio, video, or other media that is created with the assistance of artificial intelligence technologies. These technologies include machine learning models—such as large language models (LLMs), image generators, or speech synthesis systems—that can mimic human creativity, language, or
+perception. Return only the classification (yes or no).
+• Output format: ”Yes” // One of: Yes, No
+2. Identification confidence
+• Indicate how confident you are regarding your identification of AI-generated content as provided in 1.
+• Output format: ”Medium” // One of: Low, Medium,
+High
+Return only a valid JSON object using the structure
+above. Do not include any explanation, comments, or metadata.”
+Prompt: Annotation of post characteristics
+We implemented an OpenAI Assistant (gpt-4-turbo) to annotate the source posts with a wide variety of content characteristics. The corresponding prompt is printed below.
+“You are a professional content reviewer specializing in
+analyzing social media posts, including both the tweet text
+and attached media (images or video snapshots). All social media posts for comment were identified as misleading
+by a community-based fact-checking initiative. Your task is
+to assess the content across the following four dimensions:
+Believability, Sentiment, Harmfulness, and Topic. Consider
+both text and visual media in your assessment. Return only a
+valid JSON object using the structure and formatting below.
+Do not include any explanation, comments, or metadata.
+Definitions and Output Format:
+1. Believability
+• Definition: Rate the believability of the social media
+post (text + attached media). Believability is defined as
+the quality of something being convincing or credible
+enough that people accept it as true or plausible.
+• Output format: ”believability”: ”High” // One of:
+Low, Medium, High
+2. Sentiment
+• Definition: Rate the sentiment of the social media post
+(text + attached media). Sentiment refers to the underlying emotion or attitude conveyed in a message, reflecting how the author feels about a subject, whether
+it’s positive, negative, or neutral.
+• Output format: ”sentiment”: ”Negative” // One of:
+Positive, Neutral, Negative
+3. Harmfulness
+• Rate the harmfulness of the social media post (text +
+attached media). Harmfulness is defined as the potential of a (misleading) post to cause real-world damage
+(such as physical harm, social division, or emotional
+distress) especially when people believe and act on the
+misinformation.
+• Output format: ”harmfulness”: ”Medium” // One of:
+Low, Medium, High
+4. Topic
+• Identify the main topic of the post (text + attached media)
+• Output format: ”topic”: ”Politics” // One of: Technology, Health, Politics, Crime, Business, Entertainment,
+Sports, Education, Satire, Other”
+Table S1: Variable Definitions and Summary Statistics.
+Variable Description Overall AI Non-AI
+Mean SD Mean SD Mean SD
+Content characteristics (N = 91,452)
+AI-generated Whether tweet is identified as AIgenerated (= 1 if true, otherwise 0)
+0.12 0.33 1.00 0.00 0.00 0.00
+Media Type Type of media included in the tweet (e.g.,
+image, video, none)
+– – – – – –
+Sentiment Sentiment score of the tweet (Twitter
+roBERTa-base model)
+0.04 0.67 0.01 0.65 0.05 0.68
+Content characteristics (LLM-annotation, N = 3000)
+Sentiment Sentiment score of the tweet (−1 = Negative, +1 = Positive)
+-0.27 0.775 -0.184 0.801 -0.356 0.738
+Topic Topic category of the tweet (Politics,
+Technology, Health, Crime, Business,
+Entertainment, Sports, Education, Satire,
+or Other)
+– – – – – –
+Believability Perceived as believable (= 1 if true) 0.34 0.47 0.58 0.49 0.31 0.46
+Harmfulness Perceived as harmful (= 1 if true) 0.41 0.49 0.66 0.47 0.37 0.48
+Account characteristics
+Followees Accounts followed (in 1000s) 6.176 24.002 8.152 30.273 6.072 23.621
+Followers Followers (in 1000s) 932.393 7515.512 585.671 7622.054 950.660 5074.501
+Account age Account age (in years) 8.217 5.075 7.311 4.811 8.322 5.078
+Tweet Count Posts, Reposts, Quotes & Replies (in
+1000s)
+73.055 141.309 61.047 93.267 73.688 143.357
+Partisanship Political leaning (−1 = Democrat, +1 =
+Republican)
+0.202 0.769 0.272 0.782 0.199 0.768
+Misinformation exposure Exposure to misinformation [0, 1] 0.599 0.170 0.606 0.175 0.298 0.170
+Virality
+Retweet Count Number of retweets (in 1000s) 1.469 3.284 1.753 3.570 1.454 3.268
+Impression Count Number of impressions (in 1000s) 2157.207 7044.313 2324.291 6222.344 2148.404 7084.897
+Like Count Number of likes (in 1000s) 10.326 25.370 15.057 32.628 10.077 24.904

@@ -1,0 +1,3729 @@
+Agents, robots, and
+us: Skill partnerships
+in the age of AI
+
+Agents, robots, and
+us: Skill partnerships
+in the age of AI
+Authors
+Lareina Yee
+Anu Madgavkar
+Sven Smit
+Alexis Krivkovich
+Michael Chui
+Maria Jesus Ramirez
+Diego Castresana
+November 2025
+Copyright © 2025 McKinsey & Company.
+All rights reserved.
+Cover image © XH4D/Getty Images.
+All interior images © Getty Images.
+Confidential and proprietary. Any use of
+this material without specific permission of
+McKinsey & Company is strictly prohibited.
+McKinsey Global Institute
+The McKinsey Global Institute was established in 1990. Our mission is to provide a fact base to
+aid decision making on the economic and business issues most critical to the world’s companies
+and policy leaders. We benefit from the full range of McKinsey’s regional, sectoral, and functional
+knowledge, skills, and expertise, but editorial direction and decisions are solely the responsibility of
+MGI directors and partners.
+Our research is currently grouped into five major themes:
+— Productivity and prosperity: Creating and harnessing the world’s assets most productively
+— Resources of the world: Building, powering, and feeding the world sustainably
+— Human potential: Maximizing and achieving the potential of human talent
+— Global connections: Exploring how flows of goods, services, people, capital, and ideas
+shape economies
+— Technologies and markets of the future: Discussing the next big arenas of value and competition
+We aim for independent and fact-based research. None of our work is commissioned or funded by
+any business, government, or other institution; we share our results publicly free of charge; and we
+are entirely funded by the partners of McKinsey. While we engage multiple distinguished external
+advisers to contribute to our work, the analyses presented in our publications are MGI’s alone, and
+any errors are our own.
+You can find out more about MGI and our research at www.mckinsey.com/mgi.
+MGI directors
+Sven Smit (chair)
+Chris Bradley
+Kweilin Ellingrud
+Sylvain Johansson
+Nick Leung
+Olivia White
+Lareina Yee
+MGI partners
+Mekala Krishnan
+Anu Madgavkar
+Jan Mischke
+Jeongmin Seong
+Agents, robots, and us: Skill partnerships in the age of AI 1
+Contents
+At a glance 3
+Introduction 4
+CHAPTER 1
+The workforce of the future will be a partnership
+of people, agents, and robots 7
+CHAPTER 2
+Human skills will evolve, not disappear, as
+people work closely with AI 21
+CHAPTER 3
+Entire workflows can be reimagined around
+people, agents, and robots 35
+CHAPTER 4
+Leadership is crucial as agents and robots
+reshape work and the economy 52
+Glossary of terms 55
+Acknowledgments 56
+Endnotes 57
+Agents, robots, and us: Skill partnerships in the age of AI 2
+— Work in the future will be a partnership between people, agents, and robots—all powered
+by AI. Today’s technologies could theoretically automate more than half of current US work
+hours. This reflects how profoundly work may change, but it is not a forecast of job losses.
+Adoption will take time. As it unfolds, some roles will shrink, others grow or shift, while new
+ones emerge—with work increasingly centered on collaboration between humans and
+intelligent machines.
+— Most human skills will endure, though they will be applied differently. More than 70 percent
+of the skills sought by employers today are used in both automatable and non-automatable work.
+This overlap means most skills remain relevant, but how and where they are used will evolve.
+— Our new Skill Change Index shows which skills will be most and least exposed to
+automation in the next five years. Digital and information-processing skills could be most
+affected; those related to assisting and caring are likely to change the least.
+— Demand for AI fluency—the ability to use and manage AI tools—has grown sevenfold in two
+years, faster than for any other skill in US job postings. The surge is visible across industries and
+likely marks the beginning of much bigger changes ahead.
+— By 2030, about $2.9 trillion of economic value could be unlocked in the United States—if
+organizations prepare their people and redesign workflows, rather than individual tasks, around
+people, agents, and robots working together.
+At a glance
+Agents, robots, and us: Skill partnerships in the age of AI 3
+Work in the future will be a partnership between people, agents, and robots—all powered by
+artificial intelligence. While much of the current public debate revolves around whether AI will lead
+to sweeping job losses, our focus is on how it will change the very building blocks of work—the
+skills that underpin productivity and growth. Our research suggests that although people may
+be shifted out of some work activities, many of their skills will remain essential. They will also be
+central in guiding and collaborating with AI, a change that is already redefining many roles across
+the economy.
+In this research, we use “agents” and “robots” as broad, practical terms to describe all machines
+that can automate nonphysical and physical work, respectively. Many different technologies
+perform these functions, some based on AI and others not, with the boundaries between them
+fluid and changing. Using the terms in this expansive way lets us analyze how automation reshapes
+work overall.1
+This report builds on McKinsey’s long-running research on automation and the future of work.
+Earlier studies examined individual activities, while this analysis also looks at how AI will transform
+entire workflows and what this means for skills. New forms of collaboration are emerging, creating
+skill partnerships between people and AI that raise demand for complementary human capabilities.
+Although the analysis focuses on the United States, many of the patterns it reveals—and their
+implications for employers, workers, and leaders—apply broadly to other advanced economies.
+We find that currently demonstrated technologies could, in theory, automate activities accounting
+for about 57 percent of US work hours today.2
+ This estimate reflects the technical potential for
+change in what people do, not a forecast of job losses. As technologies take on more complex
+sequences of tasks, people will remain vital to make them work effectively and to do what machines
+cannot. Our assessment reflects today’s capabilities, which will continue to evolve, and adoption
+may take decades.
+AI will not make most human skills obsolete, but it will change how they are used. We estimate that
+more than 70 percent of today’s skills can be applied in both automatable and non-automatable
+work. With AI handling more common tasks, people will apply their skills in new contexts. Workers
+will spend less time preparing documents and doing basic research, for example, and more time
+framing questions and interpreting results. Employers may increasingly prize skills that add value
+to AI.
+To measure how skills could evolve, we developed a Skill Change Index (SCI), a time-weighted
+measure of automation’s potential impact on each skill used in today’s workforce. Nearly every
+occupation will experience skill shifts by 2030. Highly specialized, automatable skills such as
+accounting and coding could face the greatest disruption, while interpersonal skills like negotiation
+and coaching may change the least. Most others, including widely applicable skills such as problem
+solving and communication, may evolve as part of a growing partnership with agents and robots.
+Introduction
+Agents, robots, and us: Skill partnerships in the age of AI 4
+Employers are already adjusting. Demand for AI fluency—the ability to use and manage AI tools—
+has jumped nearly sevenfold in two years. The need for technical AI skills employed to develop
+and govern AI systems is also growing, though at a slower pace. About eight million people in the
+United States work in occupations where job postings already call for at least one AI-related skill—a
+fraction of what may be needed in the years ahead. Demand is also rising for complementary skills
+such as quality assurance, process optimization, and teaching, as well as for some physical skills
+such as nursing and electrical work. In contrast, job post mentions are declining for routine writing
+and research, both areas where AI already performs well, although these skills remain essential for
+much of the workforce.
+In our midpoint scenario of automation adoption by 2030, AI-powered agents and robots could
+generate about $2.9 trillion in US economic value per year.3
+ Capturing this may depend less on new
+technological breakthroughs than on how organizations redesign workflows—especially complex,
+high-value ones that rely on unstructured data—and how quickly human skills adapt. Integrating AI
+will not be a simple technology rollout but a reimagining of work itself—redesigning processes, roles,
+skills, culture, and metrics so people, agents, and robots create more value together.
+Leaders will play a central role in shaping this partnership. The most effective will engage directly
+with AI rather than delegating, invest in the human skills that matter most, and balance gains with
+responsibility, safety, and trust. The outcomes for firms, workers, and communities will ultimately
+depend on how organizations and institutions work together to prepare people for the jobs of
+the future.
+Agents, robots, and us: Skill partnerships in the age of AI 5
+AI is redefining the boundaries of work and unlocking new potential for productivity.4
+ Work will be
+reconfigured as a partnership between people, agents, and robots.5
+AI has made agents and robots more autonomous and capable
+For much of the past century, machines have been built to follow rules. Robots executed physical
+routines like assembling parts while software automated predictable clerical and analytical tasks.
+Both types of machines operated in a predetermined way; they did what they were programmed
+to do, and little more. The rise of AI has begun to change that and to broaden the scope of what
+automation can do. (See sidebar “How technology is advancing.”)
+AI agents and robots—machines that perform cognitive and physical work, respectively—are
+becoming more capable as they learn from vast data sets. This enables them to simulate reasoning
+and to respond to a wider range of inputs, including natural language, and adapt to different
+contexts instead of simply following preset rules.
+We estimate that today’s technology could, in theory, automate about 57 percent of current US work
+hours (Exhibit 1). This figure compares the capabilities of existing technologies, including those
+demonstrated in a lab, with the level of human proficiency required for different work tasks.6
+ As
+technology advances, the picture will continue to evolve and should be updated regularly.
+Actual adoption depends on more than technical capability. Factors including policy choices, labor
+costs, implementation expenses, and development time all influence when and where automation
+is deployed. Electricity took more than 30 years to spread, and industrial robotics followed a
+similar multi-decade path. As recently as 2023, only about one in five companies ran most of their
+applications in the cloud, despite the technology being widely available since the mid-2000s.7
+ (See
+the technical appendix for details.)
+In this chapter, we focus on technical automation potential—mapping the frontier of what today’s
+technologies can do and identifying the types of work that could be most affected in the years ahead.
+The workforce of the future
+will be a partnership of
+people, agents, and robots
+CHAPTER 1
+Agents, robots, and us: Skill partnerships in the age of AI 7
+AI can have an impact on all types of work
+We distinguish between physical and nonphysical work. Robots are needed to automate the former,
+agents the latter. Not all automation requires agents or robots in the narrow technical sense of those
+terms, but we use them broadly to capture the full range of technologies that automate work.
+Nonphysical work accounts for about two-thirds of US work hours. Roughly one-third of those
+hours draw on social and emotional skills that mostly remain beyond AI’s reach, while the rest involve
+tasks—such as reasoning and information processing—that are better suited to automation. These
+more automatable activities represent about 40 percent of total US wages and span roles in fields
+from education and healthcare to business and legal (Exhibit 1).
+The near-term influence of automation on physical work may be narrower. Activities that require
+physical as well as cognitive capabilities account for about 35 percent of current US work hours.
+Robots have made major progress, but most physical work still demands fine motor skills, dexterity,
+and situational awareness that technology cannot yet replicate reliably (see sidebar “Robots in the
+workplace’’).
+Sidebar
+How technology is advancing
+Rapid advances in model reasoning
+and computing power have dramatically
+accelerated AI’s progress. AI models trained
+to simulate reasoning are integrating
+disparate structured and unstructured data
+sources, executing multistep processes,
+and able to match human performance in
+high school and university standardized
+exams across multiple subjects. At the
+same time, the advent and enhancement
+of graphics processing units (GPU) and
+tensor processing units (TPU) are making
+model training and inference faster,
+cheaper, and more energy efficient. AI has
+also become multimodal, able to ingest
+and generate text, audio, images, and
+video, and it is increasingly interoperable
+1 Ivan Solovyev and Shrestha Basu Mallick, “Gemini 2.0: Level up your apps with real-time multimodal interactions,” Google, December 2024. 2 McKinsey technology trends outlook 2025, McKinsey, July 2025. 3 Marc Benioff, “How the rise of new digital workers will lead to an unlimited age,” Time, November 25, 2024. 4 “A leap in automation: The new technology behind general-purpose robots,” McKinsey, July 2025.
+across tools and platforms. For example,
+Model Context Protocol and Agent2Agent
+are protocols that allow teams of agents
+to communicate. Important challenges
+remain, however, particularly regarding
+hallucinations, transparency, and
+explainability, which are key to ensuring
+safety and avoiding unwanted bias.1
+ The
+underlying infrastructure to support AI is
+also advancing quickly from GPU and TPU
+to the rapid build-out of AI data centers,
+and new techniques to use traditional and
+alternative sources of energy.
+AI-powered agents as teammates
+Developments in AI are transforming
+agents from passive assistants into
+“virtual coworkers,” with improving
+cognitive capabilities that can increasingly
+autonomously plan and execute complex
+tasks in workflows.2
+ AI agents are beginning
+to carry out multistep processes such as
+interacting with customers, processing
+transactions, and coordinating follow-up
+actions. This marks a fundamental step
+toward AI-driven operations, where people
+and AI-powered agents collaborate as a team
+to deliver results more quickly and efficiently.3
+AI-powered robots are becoming
+more capable
+A new generation of general-purpose robots
+is emerging. Powered by AI, they integrate
+spatial perception, reasoning, and action
+to perform complex physical activities such
+as operating in unstructured environments,
+following verbal instructions, and executing
+variations on tasks for which they were not
+explicitly trained. Technological advances
+in robotics extend beyond AI to include
+improvements in dexterity, sensing, and
+edge computing.4
+Agents, robots, and us: Skill partnerships in the age of AI 8
+Exhibit 1
+Educational instruction
+and library
+Architecture
+and engineering
+Arts, design, entertainment,
+sports, and media
+Life, physical,
+and social science
+Personal care
+and service
+Business and
+nancialoperationsComputer
+and mathematical
+Community
+and social service
+Oce and
+administrative support
+Sales and related
+Healthcare practitioners
+and technical
+Management
+Production
+Farming, shing,
+and forestry 
+Food preparation
+and serving related
+Protective service
+Construction
+and extraction
+Installation, maintenance,
+and repair
+Transportation
+and material moving
+Healthcare support
+Building and grounds
+cleaning and maintenance
+Distribution of physical and nonphysical work in the US, by occupation group
+Occupation
+group
+Capabilities required:¹
+Two-thirds of US work hours require only nonphysical capabilities.
+Share of work hours, %
+Physical Nonphysical Share of work that requires social and emotional capabilities
+70 50 30 10 10 30 50 70 90
+Physical Nonphysical
+7
+3
+2
+12
+6
+2
+1
+1
+8
+6
+7
+2
+2
+5
+1
+8
+4
+9
+5
+4
+3
+Share of
+workforce,
+%
+Agents, robots, and us: Skill partnerships in the age of AI 9
+Exhibit 1 (continued)
+Educational instruction
+and library
+Architecture
+and engineering
+Arts, design, entertainment,
+sports, and media
+Life, physical,
+and social science
+Legal
+Business and
+nancial operations
+Computer
+and mathematical
+Community
+and social service
+Oce and
+administrative support
+Sales and related
+Healthcare practitioners
+and technical
+Total US workforce
+McKinsey & Company
+¹All work requires cognitive capabilities. Both physical and nonphysical work may also require social and emotional capabilities.
+Source: Lightcast; US Bureau of Labor Statistics (2024); McKinsey Global Institute analysis
+70 50 30 10 10 30 50 70 90
+1
+7
+3
+2
+12
+6
+2
+1
+1
+8
+6
+Even so, the effects could be significant for some workers. Physical tasks make up more than half
+of working hours for about 40 percent of the US workforce, including drivers, construction workers,
+cooks, and healthcare aides. Advances in robotics are expected to change occupations in areas
+like production and food preparation, including some lower-wage roles. Robots may also continue
+to perform work that is hazardous or otherwise unfeasible for people, such as underwater tasks,
+search-and-rescue, and inspections of dangerous environments.
+Educational instruction
+and library
+Architecture
+and engineering
+Arts, design, entertainment,
+sports, and media
+Life, physical,
+and social science
+Personal care
+and service
+Business and
+nancialoperationsComputer
+and mathematical
+Community
+and social service
+Oce and
+administrative support
+Sales and related
+Healthcare practitioners
+and technical
+Management
+Production
+Farming, shing,
+and forestry 
+Food preparation
+and serving related
+Protective service
+Construction
+and extraction
+Installation, maintenance,
+and repair
+Transportation
+and material moving
+Healthcare support
+Building and grounds
+cleaning and maintenance
+Distribution of physical and nonphysical work in the US, by occupation group
+Occupation
+group
+Capabilities required:¹
+Two-thirds of US work hours require only nonphysical capabilities.
+Share of work hours, %
+Physical Nonphysical Share of work that requires social and emotional capabilities
+70 50 30 10 10 30 50 70 90
+Physical Nonphysical
+7
+3
+2
+12
+6
+2
+1
+1
+8
+6
+7
+2
+2
+5
+1
+8
+4
+9
+5
+4
+3
+Share of
+workforce,
+%
+Agents, robots, and us: Skill partnerships in the age of AI 10
+Sidebar
+Robots in the workplace
+Robots have been around for decades, but
+advances in AI are giving them capabilities once
+considered beyond the reach of automation.
+This progress is being driven by embodied AI—
+the integration of intelligence and physicality
+that enables robots to perceive, reason, and
+act increasingly autonomously.
+Robots today take many forms, depending
+on their application. They range from
+autonomous vehicles that navigate roads
+to drones used for inspection or delivery to
+disk-shaped machines with wheels that clean
+floors or move goods in warehouses. Typical
+delivery robots are roughly cube shaped,
+while quadruped robots that resemble
+animals can navigate rough terrain.
+1 The Humanoid 100: Mapping the humanoid robot value chain, Morgan Stanley, February 2025. 2 “Will embodied AI create robotic coworkers?” McKinsey, June 2025. 3 “Humanoid robots: Crossing the chasm from concept to commercial reality,” McKinsey, October 2025.
+Among these, humanoid robots continue to
+capture the imagination with their relatable
+appearance, fueling growing interest, new
+market entrants, significant investment,
+and widespread public fascination through
+videos showcasing their capabilities.1
+ In
+principle, humanoids offer practical physical
+advantages. They can operate in physical
+spaces designed for people, reducing the
+need for costly reconfiguration.2
+Yet major hurdles remain. Chief among
+them are dexterity and mobility, requiring
+advances in actuators, mechanical range,
+and sensorimotor control. Safety is another
+barrier to scale, particularly when AI
+models are employed to control robots in
+the presence of humans, demanding both
+regulatory clarity and technical progress in
+collision avoidance, malfunction prevention,
+cybersecurity, and transparency in AI
+decision-making. Power is also a limitation:
+Most humanoids can operate untethered
+for only two to four hours per charge. Even
+if performance improves, affordability may
+be difficult to achieve—per-unit costs of
+advanced, safe models would need to fall
+from today’s $150,000–$500,000 range
+in the United States to roughly $20,000–
+$50,000 to enable large-scale adoption.3
+Mass adoption of humanoid robots
+in workplaces hinges on overcoming
+these challenges, but the investment
+and experimentation now underway are
+advancing the entire field and heightening
+awareness of potential applications.
+Meanwhile, nonhumanoid designs will
+continue to proliferate, growing fast in
+volume and variety.
+AI-powered automation will change work, but people remain indispensable
+At current levels of capability, agents could perform tasks that occupy 44 percent of US work hours
+today, and robots 13 percent (Exhibit 2).8
+This means that automation could, in theory, take on a majority of the work now done by people
+in the United States. That does not mean half of all jobs would disappear; many would change as
+specific tasks are automated, shifting what people do rather than eliminating the work itself.
+In addition, work that draws heavily on social and emotional skills remains largely beyond the reach
+of automation even under a full-adoption scenario. This is because many tasks require real-time
+awareness such as a teacher reading a student’s expression or a salesperson sensing when a
+client is losing interest. People also provide oversight, quality control, and the human presence that
+customers, students, and patients often prefer.
+Extending automation further would require technologies that can match a range of human
+capabilities currently unmatched. Agents would need to interpret intention and emotion. Robots
+would need to master fine motor control, such as grasping delicate objects or manipulating
+instruments in surgery.
+Agents, robots, and us: Skill partnerships in the age of AI 11
+As technology advances, the work requiring people will also change. Some roles will shrink, others
+expand or shift focus, and new ones will be created. Recent developments in radiology illustrate
+this dynamic. Between 2017 and 2024, radiologist employment grew by about 3 percent per year
+despite rapid advances in AI, and it is expected to continue growing.9
+ AI augmented radiologists’
+work, improving accuracy and efficiency while enabling doctors to focus on complex decisionmaking and patient care.10 The Mayo Clinic, for example, has expanded its radiology staff by more
+than 50 percent since 2016 while deploying hundreds of AI models to support image analysis.11
+AI is also creating other new types of work and roles. Software engineers are building and refining
+agents, while designers and creators are using generative tools to produce new content.
+Exhibit 2
+Robots
+People
+Work that
+is not automatable
+43% of total hours
+McKinsey & Company
+Note: Technical automation potential shown is the late scenario of expert estimates. The early scenario of technical automation potential in the US is 65% of
+current work hours. In this research, we use “agents” and “robots” as broad, practical terms to describe all machines that can automate nonphysical and physical
+work, respectively. Many dierent technologies perform these functions, some based on AI and others not, with the boundaries between them uid and changing.
+Using the terms in this inclusive way lets us analyze how automation reshapes work overall.
+¹All work requires cognitive capabilities. Both physical and nonphysical work may also require social and emotional capabilities.
+Source: US Bureau of Labor Statistics; O*NET; Current Population Survey, US Census Bureau; McKinsey Global Institute analysis
+Distribution of work hours in the US, by technical automation potential, 2024, %
+People, agents, and robots could all play signicant roles in the workforce of
+the future.
+Agents
+Work that
+is automatable
+57% of total hours
+Activities requiring
+nonphysical capabilities only¹
+65% of total hours
+Activities requiring
+physical capabilities¹
+35% of total hours
+21 22
+44
+13
+Work hours
+covered by:
+Share of total
+hours that require
+social and emotional
+capabilities, %
+15
+8
+8
+1
+Agents, robots, and us: Skill partnerships in the age of AI 12
+Sidebar
+Framing the jobs debate as
+AI reshapes work
+The impact of AI on jobs remains uncertain.
+While many studies attempt to estimate
+potential job gains or losses, our focus is on
+how technology is changing the content of
+work and the skills people need, rather than
+on how many jobs may ultimately be gained
+or lost.
+History suggests that although technology
+has displaced workers in the short term, the
+economy has generated additional demand
+for labor, including new roles and industries,
+over time. The breadth of AI’s capabilities—its
+reach into reasoning, communication, and
+judgment—has heightened concern about
+the future of work. To frame the debate, we
+explore what the current research can and
+cannot tell us through four guiding questions.
+How close are AI agents and robots to
+matching all economically relevant human
+capabilities?
+AI is encroaching on work once considered
+beyond automation, extending into
+reasoning, communication, and judgment—
+skills that underpin most jobs in the modern
+economy.1
+ Despite these advances, AI still
+lacks many distinctly human abilities, leaving
+ample room for human labor to thrive. To
+match people entirely, machines would need
+to generalize and adapt across contexts,
+demonstrate advanced fine motor skills,
+coordinate reliably at scale, exercise social
+1 “Claude 3.5 Sonnet,” Anthropic, June 2024. 2 Danny Driess et al., Learning geometric reasoning and control for long-horizon tasks from visual input, 2021 IEEE International Conference on Robotics and Automation (ICRA),
+January 2021. 3 “Employment situation news release,” US Bureau of Labor Statistics, August 2025; and The future of jobs report 2025, World Economic Forum, January 2025. 4 Paul Gaggl et al., Does electricity drive structural transformation? Evidence from the United States, National Bureau of Economic Research, working paper number 26477,
+November 2019; and Sun Ling Wang et al., Farm labor, human capital, and agricultural productivity in the United States, US Department of Agriculture, February 2022. 5 Eric Brynjolfsson et al., “Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence,” Stanford Digital Economy Lab, August 2025. 6 “Beyond the numbers,” US Bureau of Labor Statistics, August 2025; “Ageing,” United Nations Population Fund, June 2024; U.S. energy and employment report 2024, US
+Department of Energy, 2024; Heartbeat of health: Reimagining the healthcare workforce of the future, McKinsey Health Institute, May 2025. 7 Daron Acemoglu and Pascual Restrepo, Robots and jobs: Evidence from US labor markets, National Bureau of Economic Research, working paper number 23285, March
+2017; William F. Maloney and Carlos Molina, Is automation labor-displacing in the developing countries, too? Robots, polarization, and jobs, World Bank, July 2019; and Erik
+Brynjolfsson, Bharat Chandar, and Ruyu Chen, Canaries in the coal mine? Six facts about the recent employment effects of artificial intelligence, Stanford, August 2025. 8 Stephen J. Kline and Nathan Rosenberg, “An overview of innovation,” in Studies on Science and the Innovation Process, World Scientific, 2009. 9 “Ageing,” United Nations Population Fund, June 2024; and U.S. energy and employment report 2024, US Department of Energy, 2024. 10 Chad P. Brown and Caroline Freund, Active labor market policies: Lessons from other countries for the United States, Peterson Institute for International Economics,
+January 2019. 11 The future of jobs report 2025, World Economic Forum, January 2025.
+and moral judgment, and take responsibility
+for outcomes, all at acceptable cost and
+risk.2
+ And beyond the technical automation
+potential, actual adoption rates depend on
+factors such as solution timelines, technology
+versus labor costs, and the speed at which
+technologies diffuse from introduction to
+widespread use.
+Will a more AI-centric economy create
+enough jobs?
+The US economy has created tens of millions
+of jobs this century, and projections from
+the US Bureau of Labor Statistics and
+World Economic Forum point to continued
+employment growth over the next five
+to ten years.3
+ A key issue is whether new
+jobs will come quickly enough, and in
+sufficient numbers, to absorb jobs that are
+displaced—and whether those jobs will
+have similar conditions. While this is beyond
+the scope of our analysis, past economic
+transformations—from the Industrial
+Revolution to the rise of the internet—offer
+clues: Technology has often eliminated
+jobs, sometimes massively and sometimes
+depressing wages in certain areas, but has
+ultimately catalyzed new industries and roles
+over time.4
+Early evidence suggests that AI may follow
+that familiar trajectory. Hiring has reportedly
+slowed for entry-level programmers and
+analysts—in other words, workers whose
+tasks AI is particularly adept at performing.5
+At the same time, new forms of work are
+emerging. Companies are hiring agent
+product managers, AI evaluation writers,
+and “human in the loop” validators to guide
+machine output. New markets are also
+expanding, from data center construction
+to AI infrastructure maintenance, while
+broader structural trends are generating
+jobs in sectors where automation faces
+natural limits, such as healthcare and
+personal services.6
+
+How might the composition of
+work change?
+Studies link the spread of industrial
+robots to localized job losses and worker
+displacement, suggesting that automation
+waves have depressed employment and
+wages before new roles emerge.7
+ The college
+wage premium has been flat since around
+2010, while posted salaries for knowledge
+jobs have plateaued since mid-2024.8
+Enrollment in vocational programs and
+apprenticeships is rising, as is investment
+in construction, manufacturing, and energy
+projects, hinting at a more complex labor
+story than simple substitution and pressure
+on wages.9
+Will we adapt fast enough?
+Studies suggest that retraining programs,
+social safety nets, and education systems
+are not yet ready to handle widespread
+automation. According to the OECD,
+participation in adult-learning and reskilling
+programs is flat or falling in many countries.10
+Although 77 percent of companies say
+they intend to launch upskilling or reskilling
+initiatives, follow-through may be limited
+because employers recognize that workers
+often move on after gaining new skills.11
+Agents, robots, and us: Skill partnerships in the age of AI 13
+Overall US demand for labor has remained strong through multiple waves of automation, with new
+activities having been created faster than technology replaced existing ones.12 Yet AI’s broad reach
+raises concern that this time may be different. The outcome will depend on whether new demand,
+industries, and roles emerge to absorb displaced workers—a question beyond the scope of this
+research. If history is a guide, employment is likely to evolve rather than contract, although there
+is no certainty that AI will follow the same pattern (see sidebar “Framing the jobs debate as AI
+reshapes work”).
+The mix of people, agents, and robots varies across a spectrum of
+seven archetypes
+The overall level of employment and mix of occupations in the economy depend on how industries
+evolve. Within occupations, the configuration of work differs markedly based on their reliance on
+physical, cognitive, and social and emotional capabilities.
+To understand the variation, we analyzed roughly 800 occupations and grouped them according
+to their physical and nonphysical automation potential.13 This exercise yields seven archetypes that
+show how people, agents, and robots could collaborate.
+There are also signs of adaptation. About
+75 percent of knowledge workers already
+12 2024 work trend index annual report, Microsoft, May 2024. 13 AI could enhance many stages of workforce development, such as automating routine assessments, tailoring training to individual needs, and matching people to new
+opportunities. It could also personalize learning through adaptive content and simulations, build soft skills through virtual practice, and connect workers to roles aligned with
+their strengths.
+use AI tools in some form, even when their
+companies have not formally deployed
+them.12
+Whether AI proves to create or reduce net
+jobs depends on how effectively it is used to
+build new industries and markets—and on
+how well people and institutions adapt
+to them. AI can also assist on that front,
+helping identify emerging occupations, map
+the skills they require, and support workers
+through personalized guidance, training, and
+job matching.13
+Sidebar (continued)
+Framing the jobs debate as
+AI reshapes work
+Agents, robots, and us: Skill partnerships in the age of AI 14
+Exhibit 3
+Occupation archetypes’ distribution of work hours in the US,
+by technical automation potential, 2024, %
+Occupations fall into distinct archetypes based on the potential role of
+people, agents, and robots.
+AGENT-CENTRIC
+Future work done mostly
+by agents
+ROBOT-CENTRIC
+Future work done mostly
+by robots
+PEOPLE–CENTRIC
+Future work done mostly
+by people
+PEOPLE–ROBOT
+Future work done mostly
+by people with robots
+PEOPLE–AGENT
+Future work done mostly
+by people with agents
+Share of hours on work that:
+Requires nonphysical
+capabilities only
+Requires physical
+capabilities
+Is not automatable
+Is automatable
+People Agents Robots
+Work hours covered by:
+Less automatable More automatable
+AGENT–ROBOT
+Future work done mostly
+by agents and robots
+PEOPLE–AGENT–ROBOT
+Future work done mostly
+by people with agents and robots
+Square
+size =
+10 Share, %
+25
+50
+70
+Share of total hours that require
+social and emotional capabilities, %
+34% of people in current US
+workforce are in occupations
+that could t this archetype
+$71,000 average pay
+Examples: Registered nurses,
+psychologists, reghters
+$74,000 average pay
+Examples: Sales reps, secondary
+school teachers, HR specialists
+$70,000 average pay
+Examples: Accountants, software
+developers, lawyers
+$54,000 average pay
+Examples: Insulation workers, drywall
+and ceiling-tile installers
+$42,000 average pay
+Examples: Stockers and order llers,
+welders, cooks
+21% in current workforce
+<1% in current workforce 8% in current workforce
+30% in current workforce
+Agents, robots, and us: Skill partnerships in the age of AI 15
+Exhibit 3 (continued)
+Occupation archetypes’ distribution of work hours in the US,
+by technical automation potential, 2024, %
+Occupations fall into distinct archetypes based on the potential role of
+people, agents, and robots.
+AGENT-CENTRIC
+Future work done mostly
+by agents
+ROBOT-CENTRIC
+Future work done mostly
+by robots
+PEOPLE–CENTRIC
+Future work done mostly
+by people
+PEOPLE–ROBOT
+Future work done mostly
+by people with robots
+PEOPLE–AGENT
+Future work done mostly
+by people with agents
+Share of hours on work that:
+Requires nonphysical
+capabilities only
+Requires physical
+capabilities
+Is not automatable
+Is automatable
+People Agents Robots
+Work hours covered by:
+Less automatable More automatable
+AGENT–ROBOT
+Future work done mostly
+by agents and robots
+PEOPLE–AGENT–ROBOT
+Future work done mostly
+by people with agents and robots
+Square
+size =
+10 Share, %
+25
+50
+70
+Share of total hours that require
+social and emotional capabilities, %
+34% of people in current US
+workforce are in occupations
+that could t this archetype
+$71,000 average pay
+Examples: Registered nurses,
+psychologists, reghters
+$74,000 average pay
+Examples: Sales reps, secondary
+school teachers, HR specialists
+$70,000 average pay
+Examples: Accountants, software
+developers, lawyers
+$54,000 average pay
+Examples: Insulation workers, drywall
+and ceiling-tile installers
+$42,000 average pay
+Examples: Stockers and order llers,
+welders, cooks
+21% in current workforce
+<1% in current workforce 8% in current workforce
+30% in current workforce
+McKinsey & Company
+Note: Technical automation potential shown is in 2024, in the late scenario of expert estimates. The early scenario of technical automation potential in the US is
+65% of current work hours. Average pay is based on 2024 data from the US Bureau of Labor Statistics and includes only wages and salaries. In this research, we
+use “agents” and “robots” as broad, practical terms to describe all machines that can automate nonphysical and physical work, respectively. Many dierent
+technologies perform these functions, some based on AI and others not, with the boundaries between them uid and changing. Using the terms in this inclusive
+way lets us analyze how automation reshapes work overall.
+Source: US Bureau of Labor Statistics; O*NET; Current Population Survey, US Census Bureau; McKinsey Global Institute analysis
+ROBOT-CENTRIC
+Future work done mostly
+by robots
+PEOPLE–ROBOT
+Future work done mostly
+by people with robots
+AGENT–ROBOT
+Future work done mostly
+by agents and robots
+PEOPLE–AGENT–ROBOT
+Future work done mostly
+by people with agents and robots
+psychologists, reghters
+$54,000 average pay
+Examples: Insulation workers, drywall
+and ceiling-tile installers
+$42,000 average pay
+Examples: Stockers and order llers,
+welders, cooks
+$60,000 average pay
+Examples: Receptionists, medical
+assistants, correctional ocers
+$49,000 average pay
+Examples: Machine setters, bakers,
+library assistants
+<1% in current workforce 8% in current workforce
+5% in current workforce 2% in current workforce
+Agents, robots, and us: Skill partnerships in the age of AI 16
+Occupations with the lowest automation potential were classified as people-centric, while those
+with high shares of automatable tasks were labeled agent-centric or robot-centric. Roles with a
+more even balance were grouped into mixed or hybrid archetypes that combine substantial shares
+of two or all three (Exhibit 3).
+This framework applies across labor markets and can help leaders see where change may come first
+and how workforce transitions could unfold, highlighting roles that may evolve into human–agent–
+robot coworker models and those likely to be largely automated by agents or robots under human
+supervision. For workers, it offers a view of how their own roles might change.
+At one end of the spectrum are roles that remain largely human. These people-centric occupations—
+found, for example, in healthcare and in building and maintenance—make up about one-third of
+US jobs and pay an average of $71,000 a year. Physical activity that current technologies cannot
+replicate accounts for about half of the work hours in these occupations.14
+At the other end of the spectrum are roles with the highest potential for automation by agents or
+robots. These occupations make up about 40 percent of total jobs. With average pay of $70,000,
+most are agent-centric roles in legal and administrative services. They involve large shares of
+cognitive tasks—such as drafting documents—that could technically be handled by AI systems.
+Some of this work may end up being fully automated, but people will still be needed to guide,
+supervise, and verify.
+A smaller subset of these highly automatable jobs involves physical work. These robot-centric
+roles—such as drivers and machine operators—are physically demanding, sometimes hazardous,
+and typically pay about $42,000 a year. In theory, they could be almost fully automated, but cost and
+other real-world constraints may keep people in the loop.
+Agent–robot roles form an even smaller category, accounting for only about 2 percent of workers.
+They pay roughly $49,000, and physical tasks occupy 53 percent of work time. These jobs appear
+mainly in production settings where software intelligence directs physical systems, such as
+automated manufacturing or logistics operations.
+Between the extremes lies a diverse set of occupations that combine humans, agents, and robots.
+These hybrid roles employ about one-third of the workforce and differ significantly in pay, physical
+intensity, and automation potential—yet people remain essential in every setting. As automation
+is adopted, productivity rises, and people’s roles shift from performing tasks to directing how
+machines perform them. Hybrid roles break down as follows:
+— People–agent roles, which include teachers, engineers, and financial specialists whose work
+could be enhanced by digital and AI tools. These pay an average of $74,000 per year and
+account for about one in five US workers.
+— People–robot roles, found in maintenance and construction, involve machines that add strength
+and precision to human efforts. About 81 percent of these work hours involve physical tasks, and
+annual pay averages $54,000. Fewer than one in a hundred US workers hold these jobs.
+— People–agent–robot roles, found in transportation, agriculture, and food service, combine
+all three forms of labor in roughly equal measure. About 43 percent of the work hours involve
+physical tasks, and annual pay averages $60,000. Roughly 5 percent of US workers are
+employed in these roles.
+This analysis reflects the current US task mix and what is technically possible with today’s
+technologies rather than a forecast of what will happen.
+The mix of activities will evolve as technology advances and companies adapt their workflows. The
+distribution of roles across work archetypes also differs by economy and industry. For example, in
+regions where manufacturing is more prevalent, people–robot roles may be more common than in
+economies that rely more heavily on services.
+Agents, robots, and us: Skill partnerships in the age of AI 17
+Exhibit 4
+AI-powered drone
+Performs visual and thermal inspections to
+identify faults, soiling, and other anomalies,
+sharing insights and data with eld technicians,
+AI agents, and other robots.
+Illustrative workow: Facility inspection and repair
+Reimagining solar operations.
+Cleans panels, removes vegetation, and
+performs minor mechanical repairs. Operates
+mostly autonomously, reporting progress to AI
+agents and eld technicians.
+Total energy output
+PANEL D44: Electrical damage
+30:00
+Time estimated for repair
+Important tasks for the day
+AI-powered agent, system performance AI-powered agent, energy optimization
+AI-powered rover Field technician
+McKinsey & Company
+0:00 4:00 8:00 12:00 16:00 20:00 24:00
+Power (kilowatt) 5
+4
+3
+1
+2
+0
+Time of day
+Optimizes generation and grid interaction in real
+time. Automates decisions about when to store
+or dispatch power and schedule maintenance to
+maximize eciency.
+Monitoring system health 24/7 using data from
+robots and sensors. Predicts component failures
+and recommends maintenance schedules for
+robots and eld technicians.
+Oversees AI agents and robots, validating diagnostics
+and handling complex repairs. Coordinates maintenance
+plans, trains robots through demonstration, and ensures
+safety, compliance, and performance across all systems.
+Regardless of where one sits, collaboration between people and intelligent machines is likely to
+deepen. The illustrations below offer examples of how this might work in practice (Exhibit 4).
+Agents, robots, and us: Skill partnerships in the age of AI 18
+Exhibit 4 (continued)
+Recommended materials
+Recommended materials
+Autonomously retrieves smaller items—like paints,
+tools, and brushes—to the store front, assisting both
+sta  and customers in locating and moving materials.
+AI-powered humanoid AI-powered mobile manipulator
+Safely transports heavy materials like wooden
+panels and packages from the warehouse to
+the customer pickup area or vehicle.
+AI-powered agent, inventory management
+Manages real-time inventory data, including
+proactively coordinating with suppliers,
+managing restocks, and scheduling logistics.
+Store manager AI-powered agent, personalized recommendations
+Analyzes design specications, budget constraints,
+and client objectives to generate optimal material
+recommendations and project plans.
+Leads customer engagement by building relationships,
+understanding project goals, and providing tailored
+advice on material selection—supported by insights
+from AI agents.
+Illustrative workow: Order fulllment and handling
+Redesigning building materials store operations.
+McKinsey & Company
+Agents, robots, and us: Skill partnerships in the age of AI 19
+Employers hire workers for their skills. The skills they need evolve as technology and ways of
+working change. AI accelerates this shift.
+To understand how AI could reshape demand for human skills, we analyzed job postings, which offer
+the most up-to-date view of what employers are seeking.15 Lightcast data, widely used by labor
+economists, provide a detailed and consistent record of the language employers use to describe
+roles and skills. While postings reflect hiring intentions rather than the actual work people do, they
+offer the most comprehensive picture of skill demand.
+From this source, we identified roughly 6,800 skills cited frequently in more than 11 million job
+postings, providing a representative snapshot of the US labor market.16 We then examined how
+employer requirements differ across occupations.17
+Our analysis shows that nearly all occupations have at least one highly disrupted skill—defined as
+being in the top quartile of change by 2030—and that a third of occupations will see more than 10
+percent of their skills highly changed.
+We also find that employers now expect a broader and more specialized mix of skills across nearly all
+occupations. A core set of eight high-prevalence skills—communication, management, operations,
+problem solving, leadership, detail orientation, customer relations, and writing—remains essential
+across industries. Demand for AI fluency, the ability to use and manage AI, is rising faster than
+demand for any other set of skills.
+Skill requirements have become more specific and specialized over time
+The number of distinct skills associated with each occupation has risen on average to 64 from
+54 a decade ago, reflecting greater specificity in how employers describe roles.18 Higher-wage
+fields tend to require more skills and greater specialization. Job postings for data scientists and
+economists, for example, list more than 90 unique skills, compared with fewer than ten for motorvehicle operators.
+Higher-wage jobs that require more skills tend to place greater emphasis on management,
+information, and digital skills. Lower-wage roles focus on hands-on work, operating equipment, and
+providing care and assistance (Exhibit 5).
+Even within a single field—software development, for example—the skills required for similarsounding jobs can differ sharply. Python developers, AI engineers, and C++ developers share fewer
+than half of their required skills, reflecting how technology drives specialization.
+Because skills are becoming increasingly specific and work is evolving rapidly—with some roles
+disappearing, others changing, and new ones emerging—adaptability and ongoing learning
+are essential.
+Human skills will evolve,
+not disappear, as people
+work closely with AI
+CHAPTER 2
+Agents, robots, and us: Skill partnerships in the age of AI 21
+Exhibit 5
+Average
+wage,2
+$ thousand
+Occupation
+group
+Educational instruction
+and library
+eg, math teacher, health
+sciences professor
+Arts, design, entertainment,
+sports, and media
+eg, photographer, editor
+Installation, maintenance,
+and repair
+eg, HVAC mechanic,
+auto body technician
+Business
+and nancial operations
+eg, accountant, marketing analyst
+Life, physical,
+and social science
+eg, biochemist, historian
+Protective service
+eg, security ocer, lifeguard
+Healthcare practitioners
+and technical
+eg, nurse practitioner, cardiologist
+0 10 20 30 40 50 60 70 80 90 100
+Management
+eg, chief executive ocer,
+general manager
+Architecture and engineering
+eg, civil engineer, architect
+Computer and mathematical
+eg, software developer,
+systems analyst
+Legal
+eg, paralegal, family lawyer
+Skill distribution in the US, by occupation group,¹ %
+Skills demanded by employers vary by type of occupation.
+62
+63
+64
+66
+84
+91
+93
+103
+107
+138
+155
+Constructing
+Working with machinery
+and specialized equipment
+Communication, Assisting and caring Handling and moving
+collaboration,
+and creativity Digital skills
+Information skills
+Skill categories: Management skills
+PersonalcareandserviceTransportation
+and material moving
+eg, warehouse worker, mover
+Oce
+and administrative support
+eg, receptionist, scheduler
+Production
+eg, production worker,
+quality inspector
+Construction and extraction
+eg, construction helper, electrician
+Sales
+eg, retail sales associate,
+sales representative
+Farming, shing, and forestry
+eg, farm worker,
+agricultural inspector
+Community
+and social service
+eg, case manager, care coordinator
+4551
+53
+53
+56
+59
+60
+61
+Agents, robots, and us: Skill partnerships in the age of AI 22
+The speed of technological change raises the importance of transferable
+skills, including eight high-prevalence ones
+Each wave of technology has changed what workers do. The difference today is speed. Until 2023,
+the need for AI-related skills grew at roughly the same pace as for cloud computing, cybersecurity,
+and other digital skills. After the rise of generative AI, it accelerated sharply: Nearly 600 new skills
+appeared in job postings over the past two years—about one-third of the total added in the past
+decade—many of which are tied to AI and its enabling technologies.
+Exhibit 5 (continued)
+Average
+wage,2
+$ thousand
+Occupation
+group
+Educational instruction
+and library
+eg, math teacher, health
+sciences professor
+Arts, design, entertainment,
+sports, and media
+eg, photographer, editor
+Installation, maintenance,
+and repair
+eg, HVAC mechanic,
+auto body technician
+Business
+and nancial operations
+eg, accountant, marketing analyst
+Life, physical,
+and social science
+eg, biochemist, historian
+Protective service
+eg, security ocer, lifeguard
+Healthcare practitioners
+and technical
+eg, nurse practitioner, cardiologist
+0 10 20 30 40 50 60 70 80 90 100
+Management
+eg, chief executive ocer,
+general manager
+Architecture and engineering
+eg, civil engineer, architect
+Computer and mathematical
+eg, software developer,
+systems analyst
+Legal
+eg, paralegal, family lawyer
+Skill distribution in the US, by occupation group,¹ %
+Skills demanded by employers vary by type of occupation.
+62
+63
+64
+66
+84
+91
+93
+103
+107
+138
+155
+Constructing
+Working with machinery
+and specialized equipment
+Communication, Assisting and caring Handling and moving
+collaboration,
+and creativity Digital skills
+Information skills
+Skill categories: Management skills
+PersonalcareandserviceTransportation
+and material moving
+eg, warehouse worker, mover
+Oce
+and administrative support
+eg, receptionist, scheduler
+Production
+eg, production worker,
+quality inspector
+Construction and extraction
+eg, construction helper, electrician
+Sales
+eg, retail sales associate,
+sales representative
+Farming, shing, and forestry
+eg, farm worker,
+agricultural inspector
+Community
+and social service
+eg, case manager, care coordinator
+4551
+53
+53
+56
+59
+60
+61
+Arts, design, entertainment,
+sports, and media
+eg, photographer, editor
+Protective service
+eg, security ocer, lifeguard
+0 10 20 30 40 50 60 70 80 90 100
+McKinsey & Company
+1
+Takes all skills with >5% frequency for all occupations in occupation group, weighted by occupation employment (eg, 49% of all skills used across all occupations
+in the legal occupation group are related to communication, collaboration, and creativity).
+²An occupation group’s average wage is weighted by the number of workers in each occupation.
+Source: Lightcast; US Bureau of Labor Statistics; McKinsey Global Institute analysis
+62
+63
+Building and grounds
+cleaning and maintenance
+eg, janitor, grounds supervisor
+Food preparation
+and serving related
+eg, barista, kitchen sta
+Personal care and service
+eg, nanny, manicurist
+Transportation
+and material moving
+eg, warehouse worker, mover
+Oce
+and administrative support
+eg, receptionist, scheduler
+Healthcare support
+eg, caregiver, home health aide
+Production
+eg, production worker,
+quality inspector
+Construction and extraction
+eg, construction helper, electrician
+Sales
+eg, retail sales associate,
+sales representative
+Farming, shing, and forestry
+eg, farm worker,
+agricultural inspector
+Community
+and social service
+eg, case manager, care coordinator
+38
+41
+42
+45
+51
+53
+53
+56
+59
+60
+61
+Agents, robots, and us: Skill partnerships in the age of AI 23
+This rapid churn heightens the value of transferable skills. Despite growing specialization, a core set
+of eight high-prevalence skills—among them communication, customer relations, writing, problem
+solving, and leadership—has stayed relevant across industries and wage levels.
+These skills form the connective tissue of the labor market and are key to workforce development.
+Building them makes workers more adaptable and better prepared for change. Their application
+is likely to evolve as people work more closely with AI-powered agents and robots, a theme we
+explore below.
+Many other skills are also transferable across occupations. For example, more than half of the skills
+required for account executives also appear in 175 other occupations. These range from similar sales
+positions to roles in marketing and human resources. The overlap allows companies to widen their
+talent pipelines by drawing from adjacent roles or redeploying employees with similar skills.19 For
+workers, it opens pathways to new—and often more people-centric—positions that build on existing
+strengths (Exhibit 6).
+Exhibit 6
+McKinsey & Company
+¹Skill overlap is calculated as the percentage of an occupation’s skills shared with another occupation.
+Source: Lightcast; US Bureau of Labor Statistics (2024); McKinsey Global Institute analysis
+Example comparison: Skill overlap and technical automation potential
+of occupations in the US, compared with an account executive
+Skill adjacencies could create new talent mobility pathways for companies
+and individuals.
+Technical
+automation
+potential
+based on
+current
+work hours,
+%
+Skill overlap with account executive,¹ %
+Greater overlap
+50 55 60 65 70 75 80 85 90
+Management
+Business, nance, and legal
+Sales and administrative
+(includes account executive)
+Construction and maintenance
+Education and social services
+Arts and entertainment
+STEM
+Transportation
+Production
+Agriculture and forestry
+Services
+Occupation groupings
+Circle size = number of
+full-time equivalent workers,
+thousand
+<10
+10–100
+Insurance sales
+agent (general)
+Travel/
+tour guide
+Sales
+consultant
+Sales
+representative
+(general)
+Advertising sales
+representative
+(general)
+Director
+of sales
+Business development
+manager (general)
+Marketing
+consultant
+City/town
+manager
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0 >100
+52%
+Account
+executive
+potential
+Agents, robots, and us: Skill partnerships in the age of AI 24
+Demand for AI fluency is growing faster than any other skill
+As AI technology matures, demand for related skills is spreading beyond development roles.
+Demand for AI fluency jumped nearly sevenfold in the two years through mid-2025. It is now a job
+requirement in occupations employing about seven million workers. Demand for technical AI skills—
+building and deploying AI systems—has also grown, albeit at a slower pace (Exhibit 7).20
+Exhibit 7
+McKinsey & Company
+¹Includes the following Standard Occupational Classication (SOC) occupation groups: computer and mathematical occupations; architecture and engineering
+occupations; life, physical, and social science occupations; and healthcare practitioners and technical occupations.
+²In many cases, non-STEM occupations may require technical AI skills if they are managers of STEM occupations (eg, chief technology ocer, director
+of engineering, technical product manager).
+Source: Lightcast; US Bureau of Labor Statistics; McKinsey Global Institute analysis
+Number of employees in US occupations where an AI-related skill
+was listed in at least 5% of postings, million
+Demand for AI uency and technical AI skills rose between 2023 and 2025.
+0
+1
+2
+3
+4
+5
+6
+7
+8
+2023 2025 2023 2025 2023 2025
+Occupation type: STEM¹ Non-STEM
+AI uency
+Employees in occupations seeking:
+Technical AI skills Any AI-related skills
+1.0
+2.1
+3.3
+(+1.6x)
+2.2
+7.5
+7.0 (+3.5x)
+(+6.8x)
+Includes any of 11 skills,
+which require workers to:
+• Use AI: Leveraging AI tools
+and applications in workows
+for everyday uses
+• Manage AI: Managing hybrid
+human–agent–robot teams,
+orchestrating workforce design
+and strategy for leaders
+Includes any of 55 skills,
+which require workers to:
+• Govern AI: Ensuring
+responsible, ethical, and
+compliant AI deployment
+• Develop AI: Building, training,
+and engineering AI systems
+with technical expertise
+Includes any of the 66 total
+AI uency and technical AI
+skills²
+Agents, robots, and us: Skill partnerships in the age of AI 25
+So far, however, most AI skill demand today is concentrated in a few fields. Three-quarters of all AI
+skill demand in the United States is found in three occupational groups: computing and mathematics;
+management; and business and finance (Exhibit 8). The rest comes from ten other groups in which
+the technology is starting to become more prominent, including architecture and engineering;
+installation, maintenance, and repair; and education. Demand for AI-related skills remains limited
+in nine other occupational groups such as construction, transportation, and food service, which
+together account for about 40 percent of the workforce and fall below the median income.
+Exhibit 8
+McKinsey & Company
+¹Includes only skills Lightcast categorizes as “arti	cial intelligence and machine learning” or “natural learning processing.”
+²Full-time-equivalent workers.
+³Construction and extraction; transportation and material moving; production; protective service; building and grounds cleaning and maintenance; food preparation
+and serving related; healthcare support; community and social service; farming, 	shing, and forestry. 
+Source: Lightcast; US Bureau of Labor Statistics; McKinsey Global Institute analysis
+Employees in US occupations where an AI-related skill was listed in at least 5% of postings¹
+Seventy-ve percent of today’s demand for AI skills comes from three
+occupation groups.
+Educational instruction
+and library
+Architecture
+and engineering
+Arts, design, entertainment,
+sports, and media
+Life, physical,
+and social science
+Legal
+Personal care
+and service
+Business and
+	nancial operations
+Computer
+and mathematical
+Occupation group
+Total FTE
+workers,²
+million
+Count,
+million
+Workers whose jobs require AI skills
+Share,
+%
+Oce and
+administrative support
+Sales and related
+Healthcare practitioners
+and technical
+Management
+Total
+9 other groups³
+Installation, maintenance,
+and repair
+6.0 44
+12.0 19
+11.6 7
+4.8 7 0.3
+0.2
+0.2
+0.2
+0.2
+0.2
+0.2
+0.1
+<0.1
+<0.1
+— 0
+~5 7.5
+3.2 7
+2.5 8
+9.9 2
+1.3 14
+13.9 1
+2.0 8
+19.0 1
+3.9 2
+10.7 <1
+60
+161
+2.6
+2.3
+0.8
+~75%
+of demand
+for AI skills
+from 3
+groups
+~25%
+of demand
+for AI skills
+from 10
+groups
+9 groups
+with no AI
+skills demand
+Occupation type: STEM Non-STEM
+Agents, robots, and us: Skill partnerships in the age of AI 26
+While the core demand is still concentrated, AI’s influence is beginning to ripple outward. Employers
+are increasingly seeking more AI-adjacent capabilities such as process optimization, quality
+assurance, and teaching—skills employed to redesign work with AI, supervise and verify AI systems,
+or train people to use them.
+Meanwhile, the number of mentions in job listings is falling for skills that machines already perform
+well or significantly enhance—research, writing, and simple mathematics—though these skills
+remain essential for much of the workforce (Exhibit 9).
+Exhibit 9
+McKinsey & Company
+Software
+development
+Quality
+assurance
+and control
+Business
+intelligence
+People
+management
+Business
+analysis
+Process
+improvement
+and optimization
+Teaching
+Articial
+intelligence and
+machine learning
+1
+At least one skill associated with the subcategory is listed in >5% of job postings for a given occupation.
+2
+Decline in this subcategory is driven by skills associated with oce software such as word processing tools and spreadsheets.
+Source: Lightcast; McKinsey Global Institute analysis
+AI-related skills are the fastest-growing category in demand.
+Greatest decreases Greatest increases
+375
+1,231
+430
+1,526
+953
+613
+1,528
+1,188
+289
+122
+527
+755
+592
+777
+309
+87
+Billing and
+invoicing
+General
+accounting
+Oce
+productivity
+technology2
+Writing and
+editing
+Basic technical
+knowledge
+Mathematics
+and mathematical
+modeling
+Customer
+service
+General science
+and research
+Change in the number of US occupations with job postings mentioning
+each skill subcategory, 2023–25¹
+Number of
+occupations,
+2023
+Number of
+occupations,
+2023
+–49 65
+–69 76
+–70 87
+–83 90
+–115 90
+–133 114
+–134 138
+–140 185
+Agents, robots, and us: Skill partnerships in the age of AI 27
+Most human skills will remain relevant, but AI will change how they
+are used
+Our analysis finds that roughly 72 percent of skills are required both for work that could be done by
+AI and for work that must be done by people (Exhibit 10). For details, see sidebar “How we assess
+skill exposure to automation.”
+A small set of skills is likely to remain uniquely human. These are rooted in social and emotional
+intelligence such as interpersonal conflict resolution and design thinking, which depend on empathy,
+creativity, and contextual understanding and will be challenging for machines to replicate.
+At the other end of the spectrum are skills likely to become largely AI-led, including data entry,
+financial processing, and equipment control. In these areas, people will step back from hands-on
+work to focus on design, validation of results, and exception handling—making sure AI agents and
+robots run properly as they operate mostly on their own.
+Between these poles lies a broad middle ground where people and AI work side by side. Here
+a skills partnership is emerging: Machines handle routine tasks while people frame problems,
+provide guidance to AI agents and robots, interpret results, and make decisions. The work blends
+collaboration and oversight, as humans bring judgment and contextual understanding that machines
+still lack.
+Sidebar
+How we assess skill exposure
+to automation
+Our assessment of how skills could change
+integrates four inputs: employment
+in various occupations, detailed work
+activities of each occupation, the skills
+relevant for each DWA, and the McKinsey
+automation adoption model estimating
+the automatability of each DWA. Our
+model draws full-time-equivalent (FTE)
+and average wage data for about 800
+occupations from the BLS; data from
+O*NET on about 2,000 DWAs linked to
+occupations; and data on roughly 34,000
+skills linked to about 1,800 occupations
+from Lightcast.
+We filtered the skills data set to include only
+those appearing in more than 5 percent of
+job postings for each of the approximately
+1,800 Lightcast occupations, narrowing
+the sample to about 7,000 skills. We then
+mapped the BLS occupation, wage, and FTE
+data onto the Lightcast occupations.
+Next, we mapped all skills to their
+corresponding DWAs within occupations,
+creating about 3.4 million occupation–
+DWA–skill mappings. We used OpenAI’s
+GPT-4o model through the asynchronous
+chat-completions endpoint. Each
+occupation–DWA–skill pairing was
+processed as an individual API call with a
+standardized prompt to ensure consistent
+outputs. To verify quality, we first created a
+manually built 1,000-cell template for the
+generative model to replicate and infer from.
+We conducted iterative quality testing—
+spot-checking outputs, refining prompts,
+and rerunning samples—until the model
+produced reliable and consistent mappings.
+To examine potential future implications of AI
+on skills, we used two lenses.
+First, we classified the skills into three
+groups—people-led, AI-led, and shared—
+based on the technical automation potential
+of their associated work activities. For each
+skill, we calculated the total time spent
+in the United States on these mapped
+DWAs and identified the share of that time
+associated with automatable versus nonautomatable work. Skills with 55 percent
+or more of their time in non-automatable
+activities were classified as people-led,
+while those with 55 percent or more in
+automatable activities are AI-led. AI-led
+skills were further distinguished as agentor robot-led depending on whether the
+underlying work activities required physical
+capabilities. All other skills were categorized
+as shared.
+Second, we assessed the potential skillchange level by 2030, calculated from the
+average automation adoption projected
+in 2030 for specific occupation–DWA
+combinations mapped to that skill, weighted
+by time spent. The analysis relies on the
+midpoint automation-adoption rate for 2030
+for each DWA, drawn from the latest (2025)
+update of the McKinsey automation model.
+Agents, robots, and us: Skill partnerships in the age of AI 28
+Exhibit 10
+McKinsey & Company
+Note: In this research, we use “agents” and “robots” as broad, practical terms to describe all machines that can automate nonphysical and physical work,
+respectively. Many dierent technologies perform these functions, some based on AI and others not, with the boundaries between them uid and changing. Using
+the terms in this inclusive way lets us analyze how automation reshapes work overall.
+¹Share of ~6,800 skills that are mapped to work activities and occupations. Skills that can be used in more than 80% of either automatable or non-automatable
+work activities are considered AI- or people-led skills, respectively.
+²The 17% gure includes skills across agent-led activity (14%), robot-led activity (1%), and activity shared by agents and robots (2%).
+³Time spent is aggregated at the activity level, based on technical automation potential in 2024 and the capabilities required to perform the activity (ie, cognitive
+only vs physical and cognitive).
+Source: Lightcast; O*NET; Current Population Survey, US Census Bureau; McKinsey Global Institute analysis
+Most skills are used across both automatable and non-automatable work
+activities.
+Constructing
+Working with machinery
+and specialized equipment
+Communication, Assisting and caring Handling and moving
+collaboration,
+and creativity Digital skills
+Information skills
+Management skills
+Distribution of skills in the US, by technical automation potential¹
+11% 72% 17%
+Skills required for work done
+by a combination of people and AI
+Mostly non-automatable activities
+done by people and mostly automatable
+activities done by agents and robots³
+Skills required
+for people-led work
+Mostly nonautomatable
+activities³
+Skills required
+for AI-led work²
+Activities that could be mostly
+automated in the future
+with agents and robots³
+Distribution of work hours by skill category, %
+By people
+with agents
+Work hours
+by people
+By people
+with robots
+By agents By robots
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+Agents, robots, and us: Skill partnerships in the age of AI 29
+The eight high-prevalence skills described earlier fall largely within this middle ground. They remain
+relevant but will evolve as people, agents, and robots take on different aspects of the same work
+(Exhibit 11).
+Exhibit 11
+Relevance across
+occupations,¹ %
+94
+99
+76
+80
+80
+83
+83
+84
+Problem-solving
+Writing
+Customer
+relations
+Detail
+orientation
+Leadership
+Management
+Operations²
+Communication
+McKinsey & Company
+Note: In this research, we use “agents” and “robots” as broad, practical terms to describe all machines that can automate nonphysical and physical work, respectively. Many dierent technologies perform these functions, some based on AI and others not, with the boundaries between them uid and changing. Using the
+terms in this inclusive way lets us analyze how automation reshapes work overall.
+1
+Relevance is based on percentage of all occupations with frequency threshold >5% for the skill.
+²Operations is a skill that involves managing and overseeing the day-to-day activities of a business or organization. This includes managing resources, processes,
+people, and technology to ensure ecient and eective operations.
+Source: Lightcast; McKinsey Global Institute analysis
+Example shifts in high-prevalence skills in the US among people, agents, and robots
+The application of skills will change as people shift to working with and
+managing AI.
+PEOPLE, AGENTS,
+AND ROBOTS
+will collaborate on
+AGENTS
+AND ROBOTS
+will
+PEOPLE
+will Skill
+Rene text and craft
+story
+Produce drafts and
+propose revisions
+Generating reports,
+crafting narratives, and
+rening content drafts
+Strengthen loyalty and
+build relationships
+Route requests and
+handle routine queries
+Responding to inquiries,
+resolving narratives, and
+nurturing trust
+Audit outputs and
+validate outcomes
+Run quality checks
+and ag anomalies
+Checking compliance,
+verifying accuracy, and
+ensuring quality
+Guide and motivate
+teams
+Drive change and
+support decision-making
+Setting vision, aligning
+stakeholders, and
+managing change
+Interpret ndings and
+make judgments
+Identify patterns and
+propose options
+Analyzing data,
+diagnosing causes, and
+testing solutions
+Design smarter
+processes and strategize
+Execute routine tasks
+and optimize eciency
+Forecasting demand,
+scheduling resources, and
+tracking performance
+Coach and lead hybrid
+teams
+Automate scheduling
+and monitor metrics
+Planning projects,
+tracking progress, and
+optimizing workows
+Rene nuance and
+storytelling
+Generate content and
+accelerate data ow
+Drafting, presenting
+and interpreting
+information
+Agents, robots, and us: Skill partnerships in the age of AI 30
+The Skill Change Index shows widespread shifts in skills by 2030
+Among the 100 most in-demand skills, the effects of AI will differ widely. People-focused skills such
+as coaching face the least exposure to automation, while manual and routine skills like invoicing face
+the most. Skills such as quality assurance fall near the middle of the distribution—areas where AI is
+changing how people use skills rather than replacing them outright.
+To gauge the extent of these shifts, we developed the Skill Change Index (SCI), a time-weighted
+measure of each skill’s potential exposure to automation in different adoption scenarios. The SCI
+shows where the most significant shifts in skills are likely to occur.
+In the midpoint scenario, roughly one-quarter to one-third of work hours tied to the 100 most
+in-demand skills could be automated by 2030. For instance, about 28 percent of the work
+associated with quality assurance could be carried out by machines (Exhibit 12).
+Exhibit 12
+25th 50th 75th
+More
+exposure to
+automation
+Less
+exposure to
+automation
+Skill
+Change
+Index
+Index values for skills at quartiles
+Early scenario:
+Midpoint scenario: 23%
+43% 51% 59%
+28% 33%
+Skills by percentile
+All skills in ascending order of index value
+Leadership
+70
+60
+50
+40
+30
+20
+10
+0
+Early scenario
+Midpoint scenario
+of skill change
+(full range of index
+values for ~6,800 skills)²
+Communication
+Management
+Customer
+relations
+Problemsolving
+Writing
+Detail
+orientation
+Quality
+assurance
+Coaching
+Negotiation
+Invoicing
+SQL
+(programming
+language)
+Inventory management
+Good driving record
+McKinsey & Company
+¹Based on projected 2030 midpoint and early scenarios of automation adoption of activities associated with skills, aggregated across occupations using
+employment-based weighting.
+²Based on ~6,800 skills. We excluded skills that could not be linked to detailed work activities within occupations.
+Source: Lightcast; US Bureau of Labor Statistics; McKinsey Global Institute analysis
+Constructing
+Working with machinery
+and specialized equipment
+Communication, Assisting and caring Handling and moving
+collaboration,
+and creativity Digital skills
+Information skills
+Skill categories: Management skills
+Skill Change Index, % (0–100 scale)
+Our Skill Change Index assesses how automation exposure varies across skills.
+Circles = index values of top 100 skills¹
+Agents, robots, and us: Skill partnerships in the age of AI 31
+In a faster-adoption scenario, exposure rises sharply. Under this trajectory, the most affected skills
+among the top 100 could reach 60 percent, while about half of the work hours associated with
+quality assurance could be automated.
+Across the broader set of 7,000 skills, exposure remains uneven. Digital and information-processing
+skills rank highest on the SCI, reflecting AI’s growing proficiency in data handling and analysis. By
+contrast, assisting and caring skills are likely to change the least (Exhibit 13).
+Exhibit 13
+Data analysis,
+research, quantitative
+modelling
+McKinsey & Company
+1
+Based on around 6,800 skills, excluding skills that could not be linked to detailed work activities within occupation groups .
+Source: Lightcast; McKinsey Global Institute analysis
+Skill distribution in the US, by position on Skill Change Index1
+Digital and information skills are expected to experience the most change
+by 2030, while assisting and caring skills see the least .
+Automation exposure: Low (bottom quartile) Moderate (middle 2 quartiles) High (top quartile)
+Management
+skills
+Communication,
+collaboration,
+and creativity
+Assisting
+and caring
+Information
+skills
+Working
+with machinery
+and equipment
+Constructing
+Handling
+and moving
+Digital
+skills
+Skill examples, by automation exposure
+Lower
+Skill category Distribution, %
+Higher
+Agile coaching,
+certied scrum
+product ownership
+Programming
+languages, word
+processing software
+Ability to set up,
+operate, and
+maintain machines
+Spray painting,
+paving, concrete
+pouring
+Report writing,
+analytical thinking,
+troubleshooting
+Prioritization,
+invoicing skills,
+cash management
+Manufacturing
+process knowledge,
+hand tools
+Food preparation,
+medication inventory
+management
+Advocacy, policy
+development
+Drill press
+skills, tower
+climbing
+Shingling,
+window and door
+installation
+Conict resolution,
+relationship
+management
+Leadership, coaching, stakeholder
+management
+Animal care
+skills, landscaping
+skills
+Basic rst aid,
+patient care,
+peer support
+11 47 42
+18 53 29
+18 55 27
+25 44 31
+28 58 14
+29 49 22
+29 42 29
+54 36 10
+Agents, robots, and us: Skill partnerships in the age of AI 32
+The SCI reveals three broad paths for how skills may evolve.
+Highly exposed skills—those in the top quartile of the index—are more likely to decline in demand.
+These are often specialized skills, such as accounting processes and programming in specific
+languages, that AI can already perform well.
+Skills in middle quartiles are more likely to evolve, changing in nature and application rather than
+simply rising or falling in demand. These are often transferable skills that combine human judgment
+with digital tools; AI fluency itself is one of these. As workers collaborate with AI, they apply skills like
+writing and research in new ways rather than being made obsolete.
+Finally, low-exposure skills—those in the bottom quartile—are likely to endure. Often grounded in
+human connection and care, such as leadership and healthcare skills.
+Over time, the overall demand for skills will depend on how the mix of jobs in the economy evolves
+and on how rapidly organizations adopt AI and other technologies. As adoption accelerates, some
+skills that are only partially automatable today may become more exposed, while entirely new forms
+of work and skills may emerge.
+Agents, robots, and us: Skill partnerships in the age of AI 33
+AI-powered automation could unlock $2.9 trillion of economic value in the United States by 2030,
+according to our midpoint adoption scenario.21 Realizing these gains requires more than automating
+individual tasks. It will mean redesigning entire workflows so that people, agents, and robots can
+work together effectively. (See sidebar “How we estimate the economic value of AI.’’)
+Reimagining workflows is key to capturing the economic potential of AI
+Workflows—multistep processes involving collaboration, information exchange, and decisionmaking—form the backbone of how organizations operate. Most were designed for a pre-AI world,
+so applying AI to individual tasks within these legacy processes is unlikely to deliver the productivity
+gains now possible.
+This may explain why relatively few businesses report tangible benefits from AI so far. Nearly 90
+percent of companies say they have invested in the technology, but fewer than 40 percent report
+measurable gains.22 The gap may reflect the fact that many projects are still in pilot or trial phases
+or that organizations are applying AI to discrete tasks rather than redesigning entire workflows. In
+banking, for example, this would be the difference between offering employees access to a chatbot
+for ad hoc use and deploying custom agents alongside people in a reimagined process to approve,
+process, and manage loans more efficiently and deliver better customer service. Unlocking larger
+productivity gains from AI will require reimagining workflows along the lines of the latter, rather than
+taking a task-based approach.
+We analyzed 190 business processes across the US economy to identify where the greatest
+opportunities may lie. About 60 percent of potential productivity gains are concentrated
+in workflows related to sector-specific domains—activities at the core of each industry. In
+manufacturing, these include supply chain management; in healthcare, clinical diagnosis and patient
+care; and in finance, regulatory compliance and risk management. Additional gains come from
+cross-cutting functions such as IT, finance, and administrative services that support every sector
+(Exhibit 14).
+Entire workflows can be
+reimagined around people,
+agents, and robots
+CHAPTER 3
+Agents, robots, and us: Skill partnerships in the age of AI 35
+351
+193
+256
+185
+368
+37
+30
+166
+83
+76
+250
+12
+108
+323
+45
+192
+117
+14
+121
+Healthcare and social
+assistance (including hospitals)
+Finance and insurance
+Educational services (including
+state and local schools)
+Construction
+Administrative, support,
+and government
+Arts, entertainment,
+and recreation
+Agriculture, forestry,
+shing, and hunting
+Accommodation
+and food services
+Sector
+McKinsey & Company
+1
+Sized by multiplying the occupation-level automation adoption (in the midpoint scenario of 2030) by number of full-time equivalents and annual wage in 2024. 2
+Most “cross-cutting domains” are support functions, but some are also core business roles in a relevant sector, eg, nance professionals in nance and insurance,
+tech workers in information, logistics roles in transportation and warehousing.
+Source: O*NET; US Bureau of Labor Statistics; Current Population Survey, US Census Bureau; McKinsey Global Institute analysis
+Economic value of sector and cross-cutting domains in the US,
+2030 midpoint scenario of automation adoption¹
+Sector-specic domains represent 60 percent of economic value of AI and
+automation, with the rest in cross-cutting domains.
+Sector-specic domains2 Cross-cutting domains2
+Information
+Management of companies
+and enterprises
+Manufacturing
+Mining
+Other services
+(except government)
+Professional, scientic,
+and technical services
+Real estate, rental, and leasing
+Retail trade
+Transportation
+and warehousing
+Utilities
+Wholesale trade
+Total value,
+$ billion
+Sector’s
+value,
+$ billion
+$1.7 trillion $1.2 trillion
+$2.9
+trillion
+773 424 556 56 90 167 42 21 11 161 133 196 87 31 122 60
+Knowledge
+Frontline
+Production
+Marketing
+Sales
+Finance
+Talent and organization
+Legal
+Risk and compliance
+Planning and management
+Administrative services
+IT
+Product, R&D
+Procurement
+Logistics
+Customer
+ support
+<1 1–10 11–20 >20
+Domain’s share of each
+sector’s value, %
+Exhibit 14
+Agents, robots, and us: Skill partnerships in the age of AI 36
+Sidebar
+How we estimate the economic
+value of AI
+The economic value represents the value
+of US work hours that could be automated
+by 2030 in our midpoint adoption scenario
+across sectors and functions—about
+$2.9 trillion in total (exhibit).
+The calculation begins with technical
+automation potential, or the maximum share
+of today’s work that could be automated
+given current technological capabilities.
+This measure increases as the technical
+frontier advances. For example, our model
+assigns $1.4 trillion of current potential to
+recent advances in generative AI, while the
+remaining $1.5 trillion reflects automation
+capabilities that existed earlier, such as
+traditional machine learning.
+Both figures reflect the economic value
+realized by 2030 based on a modeled pace
+1 The economic potential of generative AI: The next productivity frontier, McKinsey Global Institute, June 2023.
+of adoption, which typically lags behind
+what is technically possible. Adoption is
+influenced by the time required to integrate
+solutions; the relative cost of technology and
+labor; and other factors such as customer
+acceptance, labor laws, and workforce skills.
+Our estimate covers paid work activities
+performed by the US workforce. Hours
+worked refers to time spent on specific
+activities in today’s economy. The total
+economic value assumes that roughly
+27 percent of current work hours will be
+automated by 2030—the midpoint between
+early- and late-adoption scenarios. The
+share of work hours potentially automated
+varies across sectors, from 20 percent in
+healthcare to 31 percent in manufacturing.
+For each occupation within each sector, we
+apply the midpoint automation-adoption rate
+to today’s hours worked and wages, then
+aggregate the results across sector-function
+intersections based on occupational
+composition. We divide the resulting value
+between agents and robots, depending on
+the capabilities required for each activity.
+When physical capabilities are required,
+the value is attributed to robots; when only
+nonphysical—cognitive and social and
+emotional—capabilities are required, it is
+attributed to agents. These estimates do not
+account for the additional value that could
+be created with hours saved (for example,
+through new activities), nor do they reflect
+ongoing operating cost or capital investment
+costs, or the potential effects of work
+performed outside current working hours.
+In earlier research, we estimated economic
+potential solely on the basis of technological
+feasibility, without reference to the time
+frame over which it might be realized based
+on adoption rates.1
+ Calculated that way,
+the total economic potential would reach
+$6.4 trillion in the United States, based on
+current levels of technical capability. Globally,
+the figure would be $28.7 trillion, up from the
+earlier projection of about $26 trillion.
+Agents, robots, and us: Skill partnerships in the age of AI 37
+Sidebar (continued)
+How we estimate
+the economic
+value of AI
+McKinsey & Company
+¹Economic value was calculated using 2024 nominal wage bill and 2030 automation adoption rate in the midpoint scenario.
+Source: O*NET; US Bureau of Labor Statistics; Current Population Survey, US Census Bureau; McKinsey Global Institute analysis
+Distribution of agents’ and robots’ economic value in the US by sector,
+2030 midpoint scenario of automation adoption¹
+Agents could contribute more than three-quarters of the economic value of
+AI and automation.
+Sector Distribution, %
+Value,
+$ billion
+Average
+automation
+adoption as
+share of current
+work hours, %
+Agents Robots
+Total US workforce
+Agriculture, forestry,
+shing, and hunting
+Accommodation
+and food services
+Transportation
+and warehousing
+Construction
+Other services
+(except government)
+Manufacturing
+Mining
+Retail trade
+Arts, entertainment,
+and recreation
+Wholesale trade
+Real estate, rental,
+and leasing
+Healthcare and
+social assistance
+Utilities
+Administrative, support,
+and government
+Management of
+companies and enterprises
+Information
+Educational services
+Professional, scientic,
+and technical services
+Finance and insurance 92 8 193 30
+90 10
+90 10
+89 11
+323
+256
+83
+29
+25
+28
+87 13 76 28
+81 19 368 26
+79 21 14 29
+77 23 351 20
+75 25 45 26
+74 26 121 27
+71 29 37 26
+69 31 192 26
+69 31 12 29
+68 32 250 31
+66 34 108 27
+64 36 185 28
+62 38 117 25
+57 43 166 30
+57 43 30 28
+77 23 2,929 27
+Exhibit
+Agents, robots, and us: Skill partnerships in the age of AI 38
+In finance and insurance, for example, there are seven key workflows within the IT function
+(Exhibit 15). Every sector–function combination has its own set of workflows, which represent the
+critical unit for realizing gains from human–AI collaboration. (See sidebar “An early view of workflows
+across the US economy” for more examples.)
+McKinsey & Company
+Source: McKinsey Global Institute analysis
+Illustration of functions and workows in the nance and insurance sector
+For each sector, drilling down into a set of specic functions and workows
+reveals economic value.
+• Infrastructure
+and network management
+• IT operations
+and service management
+• Software application
+development
+• Cybersecurity
+and compliance
+• IT vendor, contract,
+and asset management
+• Data management
+and governance
+• Tech talent management
+(including footprint)
+SECTORS WORKFLOWS
+Accommodation and food services
+Administrative, support, and government
+Agriculture, forestry, shing, and hunting
+Arts, entertainment, and recreation
+Construction
+Educational services
+(including schools)
+Finance and insurance
+Healthcare and social assistance
+(including hospitals)
+Information
+Management of companies
+and enterprises
+Manufacturing
+Mining
+Other services
+(except government)
+Professional, scientic,
+and technical services
+Real estate, rental, and leasing
+Retail trade
+Transportation and warehousing
+Utilities
+Wholesale trade
+FUNCTIONS
+Sector-specic functions
+(knowledge, frontline,
+production)
+Finance
+Information technology
+Planning and management
+Administrative services
+Customer support
+Sales
+Marketing
+Talent and organization
+(including HR)
+Legal
+Product, R&D
+Risk and compliance
+Procurement
+Supply chain and logistics
+Broad segments
+of economic activity
+Distinct
+operational areas
+Structured
+sequences of tasks
+Exhibit 15
+Agents, robots, and us: Skill partnerships in the age of AI 39
+Sidebar
+An early view of workflows
+across the US economy
+To understand where AI could most
+transform the economy, we use the lens of
+workflows—the connected sets of activities
+that together produce business outcomes.
+Drawing on input from domain, sector, and
+function experts, we identified more than
+190 workflows across 16 business functions,
+covering most work performed by employees
+(exhibit). Cross-cutting workflows account
+for more than 100 workflows in various
+commercial, functional, and operational
+domains, including sales, marketing, finance,
+and information technology. Sector-specific
+workflows account for about 90 workflows
+in three domains typical to certain industries:
+knowledge services (healthcare, education,
+and professional services); frontline services
+(food, retail, and accommodation services);
+and production services (manufacturing,
+construction, and agriculture).
+Although not exhaustive, this taxonomy offers
+a structured view of how work is organized
+and where AI and automation could most
+meaningfully redesign business processes.
+It distills the economy’s complexity into a
+practical framework for understanding where
+collaboration between people and AI could
+generate the most value. Workflows will vary
+by business model, size, and technological
+maturity, but this list offers a starting point for
+identifying where automation could deliver
+the greatest impact.
+Select workows
+We mapped more than 190 workows by sector-specic and cross-cutting
+domains.
+COMMERCIAL WORKFLOWS
+FUNCTIONAL WORKFLOWS
+• Sales
+• Lead generation and qualication
+• Target and lead optimization
+• Deal scoring and pricing
+• Pipeline and forecast management
+• Next best action optimization
+Information technology
+• Infrastructure and network
+management
+• IT operations and service
+management
+• Software application development
+• Cybersecurity and compliance
+• Vendor, contract, and asset
+management
+• IT governance and strategy
+• Data management and governance
+• Tech talent management (including
+footprint)
+Finance
+• Financial planning and analysis
+• Financial forecasting
+• Capital planning and control
+• Commercial spend modeling
+• Treasury and cash ow
+management
+• Billing and invoicing processing
+• Investor relations
+• Accounting and reporting
+• Tax compliance
+• Cost control and optimization
+• M&A strategy and due diligence
+OPERATIONAL WORKFLOWS
+Logistics and supply chain
+• Supply and demand forecasting
+Workow settings: Commercial
+Cross-cutting
+Functional Operational Sector-specic
+Talent and organization
+• Organizational design (including
+change management)
+• Employee experience and
+organizational health
+• Talent acquisition, including
+attracting and onboarding
+• Talent management and planning
+• Candidate recruiting, screening,
+and interviewing
+• Learning and development
+• HR operating model
+Risk and compliance
+• Enterprise risk management
+• Operational risk management
+• Credit risk life cycle
+• Cyber risk monitoring and response
+• Fraud detection and reporting
+• Compliance monitoring and controls
+testing
+• Regulatory reporting
+• Internal audit and remediation
+• Ethics, conduct, and policy
+management
+• Model risk management
+• Cross-sell and upsell strategy
+• Key account growth and
+relationship management
+• Customer value management
+• Market and opportunity analysis
+• Sales enablement and training
+Marketing and communications
+• Market and pricing analytics
+• Brand insights and engagement
+• Promotional calendar creation
+• Creative content generation and
+testing
+• Sell-in story creation
+Legal
+• Commercial and contract
+management
+• Compliance and regulatory advisory
+• Risk, litigation, and dispute
+resolution
+• Governance and policy oversight
+• Legal operations and knowledge
+management
+• M&A due diligence
+• Legal document drafting
+• Document review and analysis
+Administrative services
+• Schedule coordination and calendar
+management
+• Call and visitor handling
+• Document prep and ling
+• Meeting logistics
+• Data entry and clerical support
+Planning and management
+• Strategic planning and enterprise
+goal setting
+• Market, customer, and competitive
+intelligence
+• Corporate development and
+portfolio management
+• Business model innovation and
+growth strategy
+• Performance tracking and decision
+support
+• Strategic communications and
+executive alignment
+Procurement
+• Supplier discovery and qualication
+Product, R&D
+• Development and technical
+xhibit
+Agents, robots, and us: Skill partnerships in the age of AI 40
+OPERATIONAL WORKFLOWS
+Logistics and supply chain
+• Supply and demand forecasting
+• Inventory planning and optimization
+• Transportation and logistics
+coordination
+• Warehouse and eet management
+• Order fulllment and handling
+• Manufacturing execution and
+validation
+• Process improvement and
+automation
+• End-to-end supply chain
+optimization
+SECTOR-SPECIFIC WORKFLOWS
+Knowledge services
+HEALTHCARE
+• Patient intake and triage
+• Medical chart abstraction
+• Provider network design and
+contracting
+• Clinical documentation
+improvement
+• Prior authorization case review
+• Lab results interpretation
+• Medical research and support
+EDUCATION
+• Individualized education plan
+development and coordination
+• Curriculum design, alignment, and
+sequencing
+• Student academic recordkeeping
+• Assessment scoring and analysis
+• Learning progress monitoring
+Frontline services
+FOOD SERVICES
+• Order taking and service
+• Food preparation and plating
+• Kitchen station restocking
+• Sanitation logging and compliance
+Production services
+MANUFACTURING
+• Raw material staging and prep
+• Machine setup and changeover
+• Assembly line production
+• Packaging and labeling
+• Quality inspection and defect
+logging
+• Production planning and
+optimization
+• Real-time process monitoring
+portfolio management
+• Business model innovation and
+growth strategy
+• Performance tracking and decision
+support
+• Strategic communications and
+executive alignment
+Procurement
+• Supplier discovery and qualication
+• Contract creation, review, and
+negotiation
+• Category management and
+competitive tendering
+• Spend and vendor performance
+analysis
+Customer support
+• Customer service and technical
+support
+• Call routing, escalation, and
+behavioral handling
+• Call summarization and post-call
+insights
+• Retention, satisfaction, and
+experience tracking
+Product, R&D
+• Development and technical
+execution
+• User, market, and requirements
+research
+• Concept design, prototyping, and
+validation
+• Product strategy and road map
+planning
+• Experimentation, testing, and
+validation
+• Launch readiness and life cycle
+management
+• Performance monitoring and
+iteration
+• Innovation pipeline and IP
+management
+SCIENTIFIC AND TECHNICAL
+SERVICES
+• Hypothesis development and
+testing
+• Research synthesis and
+benchmarking analysis
+• Archival and documentation
+retrieval
+• Peer review and publication prep
+• Knowledge curation and data
+tagging
+• Experimental and data pipeline
+optimization
+• Insight generation and translational
+synthesis
+PROFESSIONAL SERVICES
+(INCLUDING LEGAL)
+• Case matter triage and scoping
+• Proposal, bid, and deliverable
+development
+• Hypothesis development and
+testing
+• Research synthesis and
+benchmarking analysis
+• Strategic modeling and argument
+construction
+• Insight generation and
+executive-level communications
+FINANCE AND INSURANCE
+(INCLUDING BANKING)
+• Consumer account onboarding and
+Know Your Customer standards
+• Wealth management advisory
+• M&A deal origination and execution
+• Loan application and underwriting
+• Treasury and liquidity services
+• High-net-worth client portfolio
+management
+• Equity and debt capital markets
+issuance
+• Client pitchbook generation
+• Claims review and adjudication
+• Case triage and eligibility
+assessment
+• Risk scoring and underwriting
+analysis
+• Policy interpretation and coverage
+validation
+• Fraud detection and investigation
+• Provider contract review and
+negotiation
+PUBLIC SERVICES
+• Emergency response dispatch and
+triage
+• Rescue operations
+• Disaster and incident response
+• Trac and public event control
+RETAIL TRADE
+• Customer assistance and checkout
+• Returns and exchanges
+• Loyalty program enrollment
+• In-store experience support
+ARTS AND ENTERTAINMENT
+• Exhibit setup and visitor engagement
+• Live performance production
+• Sound and lighting operation
+• Audience services
+• Event facilitation and instruction
+ACCOMMODATION SERVICES
+• Hotel check-in and concierge
+• Queue and crowd management
+• Appointment booking and check-in
+• Service delivery
+• Post-service checkout and upselling
+• Equipment cleaning and station reset
+AGRICULTURE
+• Soil preparation and fertilization
+• Seeding and planting
+• Irrigation and crop care
+• Harvesting and yield collection
+• Crop processing and packaging
+CONSTRUCTION
+• Site preparation and equipment
+staging
+• Framing and structural assembly
+• Material cutting and tting
+• Concrete mixing and pouring
+• Equipment operation
+• onstruction uality ssurance eg,AINTENANCE AND REPAIR
+• Preventive equipment maintenance
+• Utility system servicing
+• Facility inspections and repairs
+• Equipment downtime troubleshooting
+• Support system inspections
+• Machine calibration and diagnostics
+• Temporary utility setup and repair
+• Remote diagnostics and predictive
+maintenance
+MINING AND UTILITIES
+• Resource extraction (eg, drilling,
+mining)
+• aw nput andling nd retreatment
+idebar (continued) Exhibit
+An early view of
+workflows across
+the US economy
+Agents, robots, and us: Skill partnerships in the age of AI 41
+McKinsey & Company
+Source: McKinsey Global Institute analysis
+Production services
+MANUFACTURING
+• Raw material staging and prep
+• Machine setup and changeover
+• Assembly line production
+• Packaging and labeling
+• Quality inspection and defect
+logging
+• Production planning and
+optimization
+• Real-time process monitoring
+ETAIL TRADE
+• Customer assistance and checkout
+• Returns and exchanges
+• Loyalty program enrollment
+• In-store experience support
+ACCOMMODATION SERVICES
+• Hotel check-in and concierge
+• Queue and crowd management
+• Appointment booking and check-in
+• Service delivery
+• Post-service checkout and upselling
+• Equipment cleaning and station reset
+AGRICULTURE
+• Soil preparation and fertilization
+• Seeding and planting
+• Irrigation and crop care
+• Harvesting and yield collection
+• Crop processing and packaging
+CONSTRUCTION
+• Site preparation and equipment
+staging
+• Framing and structural assembly
+• Material cutting and tting
+• Concrete mixing and pouring
+• Equipment operation
+• Construction quality assurance (eg,
+level checks)
+MAINTENANCE AND REPAIR
+• Preventive equipment maintenance
+• Utility system servicing
+• Facility inspections and repairs
+• Equipment downtime troubleshooting
+• Support system inspections
+• Machine calibration and diagnostics
+• Temporary utility setup and repair
+• Remote diagnostics and predictive
+maintenance
+MINING AND UTILITIES
+• Resource extraction (eg, drilling,
+mining)
+• Raw input handling and pretreatment
+• Power generation or rening process
+execution
+• Monitoring and control room
+operations
+• Utility distribution management
+Sidebar (continued) Exhibit
+An early view of
+workflows across
+the US economy
+From a utility to a bank, early movers are experimenting with
+AI-embedded workflows
+Some organizations are redesigning workflows around AI, offering early evidence of how these
+transformations look in practice. We identified 80 implementation cases—from pharmaceuticals to
+banking and sales—and looked closely at several to glean insights from their approaches.
+Managers and specialists are increasingly acting as orchestrators and validators rather than
+executors, while domain experts such as data analysts, underwriters, and engineers partner with
+agents that perform initial analysis or generate draft outputs. As a result, the most valuable human
+skills are shifting toward AI fluency, adaptability, and critical evaluation of outputs, enabling people
+to focus on higher-value work.
+We present four cases that illustrate how these changes are unfolding. A technology firm uses
+AI agents to prioritize sales leads and manage outreach, freeing specialists to spend more time
+negotiating and building relationships. A pharmaceutical company applies AI to draft clinical reports,
+reducing errors and accelerating regulatory submissions. In customer service, agents now resolve
+most routine inquiries, while a regional bank uses them to speed up software modernization.
+These deployments illustrate how increasingly specialized agents could reshape entire business
+processes. They also show that people remain at the center of work because AI still depends on
+human guidance, interpretation, and quality control.
+Agents, robots, and us: Skill partnerships in the age of AI 42
+Sales case: AI-powered agents enabled specialists to redirect time from routine tasks
+to selling activities
+A global technology company sought to expand its reach and deepen customer relationships while
+navigating growing complexity and customer volume. In its traditional model, human sales teams
+used inconsistent prioritization methods and had limited capacity to tailor outreach to thousands of
+smaller accounts. As a result, only top prospects received customized attention.
+To overcome these limits, the company introduced several AI agents to automate the early stages
+of the sales process (Exhibit 16). A prioritization agent scores and ranks accounts based on public
+and proprietary data. An outreach agent contacts customers, while a customer response agent
+manages follow-ups and categorizes leads as interested, not interested, or uncertain. A scheduling
+agent sets up calls and reminders for high-potential leads. When a case requires human judgment, a
+handoff agent transfers the file to a specialist.
+This process expanded outreach and improved conversion rates, delivering a projected annual
+revenue increase of 7 to 12 percent from new sales, cross-selling, and increased retention. Across
+sales roles, time saved ranged from 30 to 50 percent. Business development specialists were able
+to spend more time on strategic engagement—drafting proposals, negotiating partnerships, and
+building relationships.
+Looking forward, this model could be extended by introducing additional agents to support sales. A
+coaching agent could provide real-time feedback to sales teams, while an admin agent could act as
+an assistant, handling routine administrative tasks.
+Agents, robots, and us: Skill partnerships in the age of AI 43
+McKinsey & Company
+¹Based on MGI’s Skill Change Index (SCI). Lower-change skills are in the rst and second quartiles of SCI, while higher-change skills are in the third and fourth
+quartiles.
+Source: McKinsey Global Institute analysis
+Illustration: People–agent collaboration at a global B2B tech company
+Redesigning commercial workows with agents could help sellers reallocate
+time from routine tasks to selling activities.
+SECTOR: Professional services
+FUNCTION: Marketing and sales
+WORKFLOW: Lead generation and qualication
+WORKFLOW
+STAGE AGENTS’ ACTIVITIES PEOPLE’S ACTIVITIES RELEVANT SKILLS
+Target
+and enable
+Prioritization agent
+Reviews and prioritizes
+key accounts
+Business-development
+specialist
+Customer service
+representative
+Manages customer
+requests and plans
+account strategy
+Reviews agent-driven
+outputs across stages
+Updates customer
+relationship management
+(CRM) software with
+summarized notes and
+agent-driven actions
+Completes sales
+with customers based
+on live feedback
+received from agents
+Outreach agent
+Creates tailored outreach
+for each account
+Customer response agent
+Manages customer responses
+and tracks customer interest
+(eg, “now,” “prospect,” “not”)
+Scheduling agent
+Schedules calls with customers
+and determines best next steps
+Coaching agent
+Coaches representatives
+with personalized feedback and
+tracks individual performance
+Hando agent
+Coordinates warm customer
+hando to new representatives
+Admin agent
+Assists representatives by
+handling administrative tasks
+(eg, billing and invoicing),
+gathering client information
+and providing customer service
+representatives with talking points
+Personalize
+outreach
+Qualify
+and convert
+Serve
+and grow
+Position on
+Skill Change Index¹
+Higher-change skill
+Lower-change skill
+Sales prospecting
+Research
+Business development
+Cold calling
+Selling techniques
+Communicating
+Inuencing
+Coordinating
+CRM software
+Computer literacy
+Customer service
+Problem-solving
+Billing and invoicing
+1
+2
+3
+4
+Exhibit 16
+Agents, robots, and us: Skill partnerships in the age of AI 44
+Customer operations case: AI agents improved customer experience and reduced cost per call
+A large utility company handles more than seven million support calls each year, even with multiple
+self-service options available on its app and website. Its interactive voice response system had
+previously resolved only about 10 percent of inquiries, leaving the rest to human customer-service
+representatives.
+To improve efficiency and customer experience, the company deployed agentic conversational AI
+across its entire customer base (Exhibit 17). The system includes several agents: an inbound call
+agent that authenticates customers, an intent identification agent that determines the purpose of
+the call, a call scheduling agent that manages appointments, and a self-service agent that integrates
+with back-end systems. Together, these now handle roughly 40 percent of all calls, resolving more
+than 80 percent without human involvement. When escalation is needed, customers are transferred
+with verified account details and conversation history, ensuring a seamless handoff.
+The new process has cut the average cost per call by about 50 percent and increased customer
+satisfaction scores by six percentage points, driven by shorter waiting times, more consistent
+handling, and faster resolution. Human representatives now manage more complex, emotionally
+sensitive, and high-value issues, improving both the quality and the impact of service.
+Future applications could go further. A customer issue identification agent could monitor systems
+to detect service interruptions and contact customers proactively, while a coaching agent could
+provide real-time guidance to human representatives during live calls. In such models, AI would
+handle most routine inquiries while people concentrate on complex or relationship-based issues,
+supported by continuous insights and automated follow-up. Advanced AI agents could eventually
+handle 80 to 90 percent of customer inquiries, documenting each interaction and initiating followup to ensure continuity and consistency.
+Agents, robots, and us: Skill partnerships in the age of AI 45
+Medical writing case: Gen AI platform accelerated report drafting and improved accuracy
+A global biopharmaceutical company sought to improve its process for drafting clinical study
+reports, which document safety and efficacy data for new drugs. In the traditional model, medical
+writers manually compiled study data, drafted lengthy reports, and coordinated multiple review
+cycles. Limited capacity and long turnaround times constrained the ability to meet growing
+submission demands.
+To improve the speed and quality of clinical study reports, the company developed an AI platform
+that reconfigures workflows for report writing (Exhibit 18). This AI companion synthesizes structured
+McKinsey & Company
+¹Based on MGI’s Skill Change Index (SCI). Lower-change skills are in the rst and second quartiles of SCI, while higher-change skills are in the third and fourth
+quartiles.
+Source: McKinsey Global Institute analysis
+Illustration: People–agent collaboration at a leading utilities 
+rm
+Reimagining service workows with agents could improve customer
+experience in issue resolution.
+SECTOR: Utilities
+FUNCTION: Customer support
+WORKFLOW: Customer service and technical support
+Answers customer
+questions with more
+complexity (or takes
+calls when a customer
+requests to speak with
+a person) while being
+coached and assisted
+by agents
+Self-service agent
+Self-services simpler customer
+calls, which make up 80–90%
+of total calls
+Customer issue
+identi
+cation agent
+Transcribes customer issues
+in real time based on keywords
+and updates systems with
+new information
+Coaching agent
+Coaches representatives with
+real-time data by suggesting
+clarifying questions or potential
+solutions to customer questions
+Issue
+identi
+cation
+Issue
+resolution
+Position on
+Skill Change Index¹
+Higher-change skill
+Lower-change skill
+Managing customer
+relationships
+Multilingualism
+Empathy
+Communicating
+over the phone
+Problem-solving
+Customer inquiries
+Adaptability
+Professionalism
+Detail orientation
+Multitasking
+1
+WORKFLOW
+STAGE AGENTS’ ACTIVITIES PEOPLE’S ACTIVITIES RELEVANT SKILLS
+Call initiation
+and routing
+Inbound call agent
+Answers inbound calls
+with recognized customer
+information from chat, SMS,
+email, and voice platforms
+Customer service
+representative
+Builds trust and rapport
+with customers using
+the agent’s prepopulated information Intent identi
+cation agent
+Flags likely intent for calling
+based on customer history
+Call scheduling agent
+Schedules calls with customers
+and determines best next steps
+2
+3
+Exhibit 17
+Agents, robots, and us: Skill partnerships in the age of AI 46
+and unstructured study data, generates comprehensive drafts in minutes, applies company style
+and compliance templates, and self-reviews for errors. These tools shift the medical writers’ role
+from manual drafting to collaborating with AI systems and applying clinical judgment. Writers can
+regenerate and edit sections of text, review potential issues, and validate data against source
+materials to ensure accuracy and regulatory compliance.
+Early data indicate substantial efficiency gains. Touch time for first human-reviewed drafts dropped
+by nearly 60 percent, and errors declined by roughly 50 percent. Go-to-market efforts accelerated
+by weeks when combined with other related processes and technology changes, and further
+McKinsey & Company
+¹Based on MGI’s Skill Change Index (SCI). Lower-change skills are in the rst and second quartiles of SCI, while higher-change skills are in the third and fourth
+quartiles.
+Source: McKinsey Global Institute analysis
+Illustration: People–agent collaboration at a global pharmaceutical company
+Streamlining clinical study reporting workows could enhance collaboration
+between people and agents.
+SECTOR: Manufacturing (pharmaceuticals)
+FUNCTION: Knowledge services
+WORKFLOW: Medical research and support
+WORKFLOW
+STAGE AGENTS’ ACTIVITIES PEOPLE’S ACTIVITIES RELEVANT SKILLS
+Initiation
+and setup
+Clinical study planning agent
+Automates planning including
+applying for regulatory approval,
+nding participants
+Researcher/medical
+writer
+Publishing team
+Finalizes report and
+submits to regulators
+Leverages agent’s
+planning to communicate
+with regulators for
+approval
+Coauthors
+Review key sections
+of drafts and ensure
+cohesive clinical narrative
+across the report
+Validates draft and adds
+clinical judgment to
+sharpen overall narrative
+of the report
+Data mapping agent
+Maps and synthesizes data
+gathered from study
+Report-drafting agent
+Generates a rst draft of a
+clinical study report, capturing
+insights and style conventions
+Validation agent
+Validates data accuracy and
+regulatory compliance
+Reviewing agent
+Regenerates draft based on
+feedback, enabling rapid
+feedback loop and helping
+reviewers focus on areas where
+additional attention is needed
+Submission draft agent
+Validates and generates
+submission-ready draft
+Drafting
+Reviewing
+Quality
+control and
+submission
+Position on
+Skill Change Index¹
+Higher-change skill
+Lower-change skill
+Preclinical development
+Coordinating people
+and tasks
+Ethical standards
+and conduct
+Editing written text
+Clinical research
+Clinical trials
+Writing
+Editing written text
+Detail orientation
+Clinical research
+Clinical trials
+Data analysis
+Delivering presentations
+Ability to meet deadlines
+1
+2
+3
+4
+Exhibit 18
+Agents, robots, and us: Skill partnerships in the age of AI 47
+improvements are expected as writers build AI skills and additional agents are introduced. The
+company reports that scaling these efforts can be challenging, and a combination of technology
+and people skills, including resilient data engineering, prompt engineering upskilling, and bold
+organizational leadership, is key.
+Looking ahead for life science companies, agents could be leveraged to support key stages of
+clinical research, from study planning through to submission. A clinical study planning agent could
+help assemble trial protocols, a data mapping agent could analyze and synthesize data, and a
+report drafting agent could produce full drafts. A validation agent could then check for compliance,
+and a reviewing agent could scan for errors. Finally, a submission draft agent could help generate
+regulator-ready documents. Applied across the research cycle, these tools could shorten timelines
+by several months.
+IT modernization case: AI agents streamlined code migration
+and shifted human roles to orchestration
+A regional lender used AI agents to modernize its banking application for small and mediumsize enterprises. The aim was to update various programming languages to speed up internal
+development. The project would previously have required months of work, large budgets, and
+extensive engineering capacity for manual documentation, code refactoring, and testing of millions
+of lines of code.
+To accelerate the process, the bank launched a pilot using AI agents for multiple modernization
+tasks (Exhibit 19). An assessment agent scans legacy code bases identifying dependencies, while
+a functionality agent generates the target-state architecture. A coding agent migrates code to new
+frameworks and performs automated tests. Developers collaborated with 15 to 20 agents each,
+verifying and refining outputs to ensure architectural integrity, compliance, and functional accuracy.
+The modernization also shifted applications from desktop to mobile, on-premises to cloud, and
+monolithic to microservice architectures.
+As AI agents took on most of the repetitive execution, the focus of human work shifted toward
+planning, orchestration, and testing. Early results show up to 70 percent code accuracy.
+Following the pilot module, the bank now plans to extend the use of agents to the entire
+modernization effort. It estimates that this could reduce required human hours by up to 50 percent.
+A modernization planning agent could coordinate the process, supported by quality assurance
+agents and testing agents.
+Agents, robots, and us: Skill partnerships in the age of AI 48
+McKinsey & Company
+¹Based on MGI’s Skill Change Index (SCI). Lower-change skills are in the rst and second quartiles of SCI, while higher-change skills are in the third and fourth
+quartiles.
+Source: McKinsey Global Institute analysis
+Illustration: People–agent collaboration at a regional bank
+Automating IT modernization workows could elevate related roles to focus
+more on orchestration.
+SECTOR: Finance (banking)
+FUNCTION: Information technology
+WORKFLOW: Software application development
+WORKFLOW
+STAGE AGENTS’ ACTIVITIES PEOPLE’S ACTIVITIES RELEVANT SKILLS
+Planning Modernization planning agent
+Develops team structures, KPIs,
+and anticipated timeline based
+on architects’ inputs
+Program manager
+Provides agents with
+inputs to plan sprints
+and resources
+Application architect
+and product manager
+Collects informal expertise
+to cross-check with
+agent-driven outputs and
+works with users to dene
+modernized app
+functionality
+Software developer
+Directs 20+ agents with
+functionality requirements
+and reviews code drafts
+QA tester and
+business team
+Creates testing tasks and
+validates with business
+users prior to launch
+Assessment agent
+Assesses legacy applications
+and documents how software
+operates from reviewing legacy
+application documentation
+Functionality agent
+Synthesizes conversations,
+creates drafts of functionality
+and documentation
+Coding agent
+Writes drafts of code based on
+business functionality inputs
+and assessments from
+software developers
+Quality assurance (QA)
+and testing agents
+Test functionality based on
+documentation plans and
+inputs from QA team
+Module
+modernization
+Testing and
+validation
+Position on
+Skill Change Index¹
+Higher-change skill
+Lower-change skill
+Development operations
+Agile methodology
+Project management
+User interface (UI)
+Debugging
+Code review
+Programming languages
+Software development
+Troubleshooting
+Application development
+Business requirements
+Unit testing
+1
+2
+3
+Exhibit 19
+AI is reshaping managerial work and skills
+Our case studies show that as AI takes on more analytical and decision-support tasks, the nature
+of managerial work is shifting from supervising people to orchestrating systems in which people, AI
+agents and robots collaborate. This change allows managers to redirect time to higher-value work
+involving skills such as influencing and mentorship, while also demanding greater technical fluency
+(Exhibit 20). For example, a sales manager might spend more time coaching teams to use AI-driven
+insights and strengthen relationships, while a customer service manager might oversee a hybrid
+workforce of people and AI agents, training both AI systems and staff to improve service.
+Agents, robots, and us: Skill partnerships in the age of AI 49
+Across industries, companies are finding that the biggest gains come from redesigning entire
+workflows rather than automating individual tasks. Doing so requires new operating models, data
+foundations, and skill pathways for people as their collaboration with agents and robots deepens. In
+the next chapter, we examine how leadership could evolve to guide this transformation.
+McKinsey & Company
+Source: McKinsey Global Institute analysis
+Example shifts in leadership and management skills in the US among people, agents, and robots
+Leadership and management skills will need to change in the era of AI.
+Skill
+Position on
+Skill Change
+Index, quartile
+Prioritization
+Decisionmaking
+Planning
+Coordinating
+Budgeting
+Accountability
+Innovation
+Coaching
+In­uencing
+Mentorship
+High level
+of change
+Low level
+of change
+Medium level
+of change
+Sequencing and
+balancing tasks across
+shifting priorities
+Sequence tasks
+dynamically based on
+people guidance
+Balance stakeholder
+needs with AI
+sequencing
+Apply judgment
+to AI-simulated
+scenarios
+Align stakeholders
+around AI outputs
+Resolve con icts
+that AI  ags in
+work ows
+Adjust priorities
+using AI spending
+predictions
+Interpret AI audit trails
+to model integrity
+Test AI-generating
+concepts with
+creativity
+Tailor feedback
+and motivation
+from AI insights
+Shape narratives
+informed by AI
+analysis
+Build relationships
+enriched by AI
+analysis
+Simulate scenarios
+and suggest options
+Reallocate schedules
+and resources at scale
+Orchestrate work ows
+and  ag con icts
+Monitor spending
+and predict outcomes
+Generate audit trails
+and evidence for
+review
+Generate concepts
+and simulate
+prototypes to test
+Surface insights from
+performance data
+Analyze sentiment
+and suggest in uence
+strategies
+Analyze conversations
+for growth signals
+Gathering insights
+and evaluating options
+for strategic choices
+Designing plans, assigning
+resources, and monitoring
+progress
+Aligning teams, resolving
+con icts, and sustaining
+momentum
+Tracking spend,
+forecasting revenues,
+and managing allocations
+Documenting results,
+justifying decisions,
+and ensuring integrity
+Brainstorming, building,
+and testing new concepts
+and prototypes
+Observing performance
+and identifying growth
+opportunities
+Building trust, shaping
+perceptions, and aligning
+stakeholders
+Guiding careers
+and sharing expertise
+for development
+PEOPLE, AGENTS,
+AND ROBOTS
+will collaborate on
+AGENTS
+AND ROBOTS
+will
+PEOPLE
+will
+Exhibit 20
+Agents, robots, and us: Skill partnerships in the age of AI 50
+AI adoption is reshaping how organizations operate, creating new ways of working built around the
+strengths of people, agents, and robots. Managing this transition will require business leaders to
+make deliberate choices about its pace and purpose, and to work with other institutions to ensure
+that workers are well prepared.
+Key questions for business leaders
+For businesses, embedding AI successfully depends on recognizing the enduring importance of
+people. This is as much a practical concern as an ethical one. As technology takes on more tasks, the
+judgment and oversight people provide will be even more vital to keeping organizations on course.
+Work will be organized differently: Employees will need retraining as workflows are reshaped around
+what people and intelligent machines do best, and performance measures will need to reflect
+contributions from both. The questions below highlight some of the choices and trade-offs leaders
+face in implementing AI.
+Are you reimagining your business for future value?
+Early AI efforts often aim to improve existing workflows rather than rethink them. Larger gains come
+from redesigning processes entirely. Building for future value means looking several years ahead
+and working backward to identify which roles, skills, and structures may need to change in relation
+to AI. Leaders must choose where they invest in major redesigns now versus refining current models
+for nearer-term gains.
+Are you leading AI as a core business transformation?
+AI will touch nearly every function. Leaders can approach it as either a technology project
+or a broader business transformation. Delegating responsibility to the IT department may
+speed implementation, but lasting change and real strategic advantage will depend on visible
+commitment from senior leadership and sustained attention to how AI affects people and business
+across the organization.23
+Are you building a culture of experimentation and learning?
+Implementing AI involves uncertainty, especially at the start. Organizations that test and adapt
+quickly tend to learn fastest. This depends on a culture that supports curiosity, risk-taking, learning
+from setbacks, and collaboration. Changing culture is difficult but essential for transformation on the
+scale AI is likely to require.24
+Leadership is crucial as
+agents and robots reshape
+work and the economy
+CHAPTER 4
+Agents, robots, and us: Skill partnerships in the age of AI 52
+Are you building trust and ensuring safety?
+AI changes how businesses stay accountable and maintain oversight. The focus is shifting from
+checking individual outputs to setting clear policies, validating AI logic, dealing with exceptions,
+and determining when human involvement is most needed. The challenge is to keep the right
+balance, maintaining enough oversight to manage risk and ensure safety without limiting efficiency
+and innovation.25
+Are you equipping your managers to lead teams of people, agents, and robots?
+AI is redefining what it means to manage. Routine supervision may be automated, freeing managers
+to focus on coaching, influencing, and orchestrating hybrid teams of people, agents, and robots.
+They will also play a key role in testing for bias, validating performance, and upholding integrity.
+As automation reduces direct control, staying accountable for outcomes may become more
+challenging. New performance metrics and feedback systems will be needed to assess human and
+machine contributions and how they interact.
+Are you preparing your workers for new skills and roles?
+Companies will need to decide how to use capacity freed up by AI—whether to reinvest it in
+developing people and higher-value work or to focus on greater efficiency and cost reduction.
+Most will do some of both. Managing this shift means identifying which roles can evolve and giving
+employees clear, skill-based pathways to grow into them.
+AI makes continuous learning and training even more important to organizational strength. As
+jobs change and skill needs evolve faster, helping workers understand how their skills transfer
+to new types of work will make both people and businesses more resilient. AI fluency will need to
+extend across all levels of the organization. Companies can use digital tools, hands-on projects,
+and coaching to build these skills, while partnerships with other organizations and institutions can
+expand access to learning and open new opportunities.
+Key questions for institutions
+Periods of economic disruption often force societies to strengthen the systems that help people
+adapt. Since the Industrial Revolution, nations have expanded education, training, and social safety
+nets. In the United States, the New Deal and the GI Bill built modern social infrastructure, while
+the digital revolution extended inclusion through online learning and telehealth.26 The coordinated
+response to the COVID-19 pandemic showed how quickly institutions can mobilize when livelihoods
+are at stake.
+The rise of AI may call for similar renewals. Public, private, and civic institutions can lead by example
+in retraining people and expanding opportunity. The questions that follow invite leaders to rethink
+how education and job mobility can evolve in the age of AI.
+How can education and training keep pace?
+Education will play a pivotal role as skill needs evolve. Foundations of AI fluency—competencies
+such as critical thinking, questioning results, challenging assumptions, and recognizing bias or
+error—should be developed from primary school onward so people learn to use and guide these
+technologies effectively.
+Curricula could be redesigned to combine technical knowledge with transferable human skills such
+as adaptability, analytical thinking, and collaboration. This approach could help prepare workers
+for a more fluid job market. Universities might integrate AI across disciplines, while vocational and
+community colleges expand training in skilled trades.
+AI could also support more personalized and continuous learning. As demand for reskilling grows,
+investments in lifelong learning will have to be made. Education systems and employers may
+need to work more closely together, using shared programs, flexible models, earn-as-you-learn
+apprenticeships, and faster credentialing, to help people move across jobs and industries.
+Agents, robots, and us: Skill partnerships in the age of AI 53
+What systems are needed to ensure that transferable skills lead to new opportunities?
+As AI transforms work, many people will need to move into entirely new occupations. Transferable
+skills will be essential to make those shifts, but they will matter only if the labor market can
+recognize and reward them. Clear definitions of skills, trusted ways of demonstrating ability—
+through testing or verified credentials—and better matching platforms could make this possible.
+Building links between employers, schools, and credentialing institutions could expand access to
+work and opportunity.
+How can local economies and communities respond?
+The impact of AI will vary widely across industries and regions. Understanding those differences
+through data is the first step toward effective action. With a clear picture of where change is
+happening, industry groups, educators, workforce agencies, and unions can work together on
+training and job-transition strategies that fit local needs.
+The partnership between people, agents, and robots is already taking shape as businesses embed
+the technologies in their workflows, changing skill profiles for jobs in many industries.
+Today’s technologies offer vast opportunities to increase productivity and enhance human skills and
+will continue to advance. How work evolves depends on choices made now. Investing in workers and
+their skills—not just in technology—will be decisive in expanding human potential and ensuring that
+the benefits of AI are widely shared.
+Agents, robots, and us: Skill partnerships in the age of AI 54
+Concept Definition
+Adoption The deployment of AI and automation technology into real work activities and workflows within an
+organization or labor-force context, determining how much of the automation potential is captured, how
+fast, and how broadly.
+Agents Machines that perform work activities in the digital world, augmenting or substituting a person’s
+nonphysical capabilities (e.g., natural language generation, social and emotional reasoning, creativity).
+AI-powered agents Agents with AI embedded, allowing them to act more autonomously and orchestrate workflows; also
+known as agentic AI.
+AI-powered robots Robots with AI embedded, allowing them to act more autonomously and orchestrate workflows.
+Artificial intelligence (AI) The ability of software to perform tasks that traditionally require human intelligence, potentially
+augmenting or substituting people’s capabilities.
+Capabilities Physical or nonphysical abilities that support the application of skills, assessed based on human levels of
+performance required to perform work activities. Nonphysical capabilities include cognitive (e.g., natural
+language, logical reasoning, creativity, navigation) and social and emotional capabilities.
+Generative AI Applications of AI that take unstructured data as inputs and generates unstructured data through
+foundation models (i.e., large artificial neural networks trained on vast amounts of varied data).
+Nonphysical work Work that involves cognitive or social/emotional capabilities rather than physical movement, such as
+problem-solving, information processing, creating, or collaborating with others.
+Occupations A set of jobs that share similar tasks or work activities that can be described in terms of their skills, work
+contexts, and other qualifications. In the United States, occupations are formally classified using the
+Standard Occupation Classification system, maintained by the Bureau of Labor Statistics.
+Physical work Work that involves direct interaction with the physical world, requiring motion-based capabilities such
+as gross motor skills, fine motor skills, and mobility. These tasks typically include operating or moving
+objects, tools, or machinery, assembling or positioning materials, and performing actions that depend on
+human strength or dexterity.
+Robots Machines that perform work activities in the physical world, augmenting or substituting a person’s
+physical capabilities (i.e., gross motor skills, fine motor skills, or mobility).
+Skills Knowledge, competencies, and attributes that people deploy to perform work activities, often acquired
+through formal education, training, or work experience. Lightcast and ESCO provide a market-driven
+classification system for skills.
+Technical automation
+potential
+The share of work hours that theoretically could be automated with certain levels of technical capabilities.
+We assessed the technical automation potential across the US economy through an analysis of the detailed
+work activities of each occupation. We used databases published by the US Bureau of Labor Statistics and
+O*NET to break down about 800 occupations into approximately 2,000 activities, and we determined the
+capabilities needed for each activity based on how humans currently perform them in work.
+Work activities Observable work behavior that represents what people do to accomplish the objectives of an occupation.
+In the United States, activities are formally classified by O*NET into detailed work activities (DWAs).
+Workflows A structured sequence of work activities that collectively advance work toward a defined goal, guided by
+processes (e.g., rules, dependencies, information flows) and involving people and technologies.
+Glossary of terms
+Agents, robots, and us: Skill partnerships in the age of AI 55
+This research was led by Lareina Yee,
+an MGI director and senior partner in
+the Bay Area office; Anu Madgavkar, an
+MGI partner in McKinsey’s New Jersey
+office; Sven Smit, MGI chairman and a
+senior partner in the Amsterdam office;
+Alexis Krivkovich, a senior partner in
+the Bay Area office; Michael Chui, a
+QuantumBlack senior fellow in the Bay
+Area office; Maria Jesus Ramirez, an
+MGI senior fellow in the Bay Area office;
+and Diego Castresana, an engagement
+manager in the New York office.
+Many other McKinsey colleagues
+participated in this research. Francisco
+Garrido, David Martina and Madhumitha
+Sivaraj also led the working team. Team
+members were Tara Alizadeh, Constantin
+Auersperg, Abby Bloomfield, Anya
+Chopra, Kelly Han, Xavier Rigby, Bouwe
+Theijse, Sebastian Vargas, and Julie
+Wong.
+We are grateful to MGI senior editors
+Brian Blackstone and Jason Clenfield,
+who helped write and edit the report.
+Chuck Burke and Laura Mandujano
+provided expert support with data
+visualization.
+For kindly sharing insights, we thank
+MGI academic advisers Sir Christopher
+A. Pissarides, a Nobel laureate in
+economics and the Regius Professor
+of Economics at the London School of
+Economics, and Matthew J. Slaughter,
+Paul Danos Dean of the Tuck School
+of Business at Dartmouth. We are
+also grateful to Luca Vendraminelli, a
+postdoctoral researcher at the Stanford
+Digital Economy Lab and the Stanford
+HAI.
+Many McKinsey colleagues gave us
+valuable input and guidance. We want to
+thank Brian Anstey, Aamer Baig, Carlos
+Barreto, Chris Bradley, Oana Cheta, Dago
+Diedrich, Sandra Durth, Diana Ellsworth,
+Vinayak HV, Christian Jansen, Lionel Jin,
+Ani Kelkar, Martin Kellner, Eric Kutcher,
+Damien Lewandowski, Jeffrey Lewis,
+Roberto Marchi, Jan Mischke, Stephan
+Muhlhauser, Daniel Pachtod, Steven
+Prast, Lucia Rahilly, Roger Roberts,
+Leandro G Santos, Alok Singh, Gurneet
+Singh Dandona, Kate Smaje, Jonathan
+Tilley, Olivia White, Matthew Wilson, and
+Delphine Zurkiya.
+On MGI’s publishing team, we would like
+to thank Rachel Robinson and Rishabh
+Chaturvedi. In communications, our
+thanks go to Rebeca Robboy, Suzanne
+Albert and David Batcheck. Thanks
+also to Diane Rice on McKinsey’s
+design team. We are also grateful for
+the collaboration of McKinsey’s digital
+production team, including Mary Gayen,
+Philip Mathew, and Pooja Yadav.
+This report contributes to McKinsey’s
+ongoing research on AI and aims to help
+business leaders understand the forces
+transforming ways of working, identify
+strategic impact areas, and prepare
+for the next wave of growth. As with all
+MGI research, this work is independent
+and has not been commissioned or
+sponsored in any way by any business,
+government, or other institution. While
+we gathered a variety of perspectives,
+our views have been independently
+formed and articulated in this report.
+Any errors are our own.
+This report was edited by MGI senior
+editors Jason Clenfield and Brian
+Blackstone with data visualizations by
+Laura Mandujano and Chuck Burke.
+Acknowledgments
+Agents, robots, and us: Skill partnerships in the age of AI 56
+Introduction
+1 Our analysis considers a broader range of
+automation technologies than the narrow
+definition of agents commonly used in the AI
+literature, where they are described as systems
+based on foundation models that perform
+multistep processes. For more on how we define
+the term, see the Glossary.
+2 Our analysis focuses exclusively on paid
+productive hours in the US workforce,
+encompassing full-time and part-time work
+across industries, occupations, and skill levels.
+We assess only the share of time awake that is
+spent on work-related activities, totaling roughly
+45 percent of waking hours. Our analysis excludes
+time spent on unpaid tasks and leisure, but agents
+and robots could be used in related activities to
+support productivity and personal well-being.
+3 We calculate the economic value of AI and
+automation in the United States by multiplying
+employment, salaries and wages, and estimated
+automation adoption in the midpoint scenario
+of 2030 for each occupation. Occupation-level
+employment and wages are based on 2024
+data from the US Bureau of Labor Statistics.
+For details, refer to the chapter 3 sidebar “How
+we estimate the economic value of AI” and the
+technical appendix.
+Chapter 1
+4 See The economic potential of generative AI:
+The next productivity frontier, McKinsey Global
+Institute, June 2023.
+5 We use the terms agents and robots to describe all
+machines that automate nonphysical and physical
+work, respectively.
+6 The estimate excludes unpaid work and leisure
+activities.
+7 See In search of cloud value: Can generative
+AI transform cloud ROI? McKinsey, November
+2023.
+8 Technical automation potential shown is the late
+scenario of expert estimates. In the early scenario
+of technical automation potential, agents and
+robots could perform 60 to 70 percent of today’s
+global work hours.
+9 The supply of radiologists is projected to grow
+by 26 percent over the next 30 years. See Eric
+Christensen et al., Projected US radiologist
+supply, 2025–2055, National Institutes of Health,
+February 2025.
+10 Heinz-Peter Schlemmer, Navigating the AI
+revolution: Will radiology sink or soar? National
+Library of Medicine, July 2025.
+11 Steve Lohr, “Your AI radiologist will not be with you
+soon,” New York Times, May 14, 2025.
+12 Jeffrey Lin, “Technological adaptation, cities, and
+new work,” Review of Economics and Statistics,
+Volume 93, Number 2, May 2011.
+13 We classified each occupation by the share of
+current work hours that could be performed by
+people, agents, or robots based on the technical
+automation potential of underlying activities.
+Occupations centered on one of the three were
+labeled “centric”; those mixing two or all three
+were grouped as “combined” or “hybrid.” See the
+technical appendix for details on how we defined
+and constructed these archetypes.
+14 Average pay for each archetype is based on 2024
+wages and salaries data from the US Bureau of
+Labor Statistics. Non-wage compensation and
+benefits are not included.
+Chapter 2
+15 We define “skills” as the knowledge and
+competencies people use to perform work
+activities.
+16 Job postings data for May 2025 provided by
+Lightcast.
+17 We grouped and analyzed skills using
+eight categories from the European Skills,
+Competences, Qualifications and Occupations
+(ESCO) taxonomy used in labor-market
+analysis: assisting and caring; communication,
+collaboration, and creativity; constructing; digital
+skills; information skills; management skills;
+handling and moving; and working with machinery
+and specialized equipment.
+18 Includes only skills that appear in more than 5
+percent of job postings for any given occupation.
+19 In the United States, roughly 10 percent of
+occupations require at least one legally mandated
+skill, mostly in regulated fields such as healthcare,
+law, and public services. The remaining roles face
+fewer legal constraints, enabling faster adoption
+as technology evolves.
+20 These figures reflect mentions in job postings, not
+the actual skills of the people ultimately hired.
+Chapter 3
+21 We calculate the economic value of work
+automation in the United States by summing
+the wages associated with hours that could be
+automated under our midpoint adoption scenario
+for 2030. Occupation-level employment and
+wage data for 2024 are drawn from the US
+Bureau of Labor Statistics. These figures reflect
+the economic resources that automation could
+release and redirect to other productive uses.
+The scale and nature of this redeployment would
+determine its effects on GDP, productivity, and
+employment, although those outcomes are
+beyond the scope of our analysis.
+22 “The state of AI in 2025: Agents, innovation, and
+transformation,” McKinsey, November 5, 2025.
+Chapter 4
+23 “The state of AI in 2025: Agents, innovation, and
+transformation,” McKinsey, November 5, 2025.
+24 “Performance through people: Transforming
+human capital into competitive advantage”,
+McKinsey Global Institute, February 2, 2023.
+25 “The agentic organization: Contours of the next
+paradigm for the AI era,” McKinsey, September 26,
+2025.
+26 “President Franklin Delano Roosevelt and the New
+Deal,” Library of Congress, accessed November
+10, 2025; and “Servicemen’s Readjustment Act
+(1944),” National Archives, May 3, 2022.
+Endnotes
+Agents, robots, and us: Skill partnerships in the age of AI 57
+McKinsey Global Institute
+November 2025
+Copyright © McKinsey & Company
+Designed by the McKinsey Global Institute
+mckinsey.com/mgi
+ @McKinsey_MGI
+ @McKinseyGlobalInstitute
+ @McKinseyGlobalInstitute
+Subscribe to MGI’s LinkedIn newsletter,
+Forward Thinking: mck.co/forwardthinking
