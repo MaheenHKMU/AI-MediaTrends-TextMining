@@ -1,0 +1,637 @@
+Artificial Intelligence 150 (2003) 1–15
+www.elsevier.com/locate/artint
+AI and Law: A fruitful synergy
+Edwina L. Rissland a,∗
+, Kevin D. Ashley b
+, R.P. Loui c
+a Department of Computer Science, University of Massachusetts at Amherst, Amherst, MA 01003, USA
+b Graduate Program in Intelligent Systems and School of Law, University of Pittsburgh,
+Pittsburgh, PA 15260, USA
+c Department of Computer Science, Washington University, St. Louis, MO 63130, USA
+Received 29 July 2003
+AI and Law is a classic field for AI research: it poses difficult and interesting problems
+for AI, and its projects inform both AI and its focal domain, the law itself. This special
+issue reports on a range of projects, from those where the law motivates fundamental
+research and whose results reach beyond the legal domain, to those that partake of the
+benefits of techniques and wisdom from AI as a whole. For instance, projects tackling
+legal argument have not only created programs that produce legal arguments but also led to
+insights and advances in the logic of argumentation. Projects with an applications bent have
+often provided insights about the limitations and nuances of existing techniques, and have
+served as the catalysts for developing new approaches. For instance, harnessing models of
+legal argument to teach law students how to argue has led to refinements to and extensions
+of the models. There is a synergy not only between law and AI, but also between AI
+and AI and Law. In fact, the work on Case-Based Reasoning (CBR) done in the AI and
+Law community provided one of the most important streams of results that contributed to
+the birth of that area in the mid-1980s. Currently, work on legal argumentation is having
+a similar impact on the international non-standard logic and argumentation communities.
+AI and Law is much more than an applications area. Its concerns touch upon issues
+at the very heart of AI: reasoning, representation, and learning. For the AI researcher
+interested in symbolic methods—or methods of whatever stripe—that are focused on
+providing explanations and justifications, AI and Law is an excellent arena. No matter
+how a reasoner arrives at a legal answer it must be explained, justified, compared to
+and contrasted with alternatives. For the researcher interested in topics like negotiation,
+decision-making, e-commerce, natural language, information retrieval and extraction, and
+data mining, AI and Law is a rich source of problems and inspiration.
+* Corresponding author.
+E-mail addresses: rissland@cs.umass.edu (E.L. Rissland), ashley@pitt.edu (K.D. Ashley),
+loui@cs.wustl.edu (R.P. Loui).
+0004-3702/$ – see front matter  2003 Elsevier B.V. All rights reserved.
+doi:10.1016/S0004-3702(03)00122-X
+2 E.L. Rissland et al. / Artificial Intelligence 150 (2003) 1–15
+AI and Law has implications for fields beyond computer science and law. Fields
+like ethics, with law-like structures—norms, sources of authority, reservoirs of prior
+experiences—and with important societal overtones, are obvious candidates. Fields like
+psychology and philosophy, with a deep concern for the nature of concepts, prototypes
+and analogy, share many core concerns with AI and Law. In the best AI tradition, AI and
+Law seeks to provide concrete computational means to challenge assumptions and provide
+grounding on many questions of jurisprudence, and while it is respectful of the wisdom of
+legal scholars, it by no means accepts it on faith. AI and Law remains a place for scholars;
+no matter what one’s philosophy of law, science, or mind, AI and Law provides a vital
+forum for debate and analysis.
+This issue is the culmination of an effort that began at the biennial International
+Conference on AI and Law (ICAIL-01) held at Washington University in St. Louis in
+May 2001. It presents fully mature projects as well as those in active development. Papers
+in this special issue, some of which grew out of conference papers presented at ICAIL-01,
+were reviewed by experts in AI and Law as well as those in the field of AI at large. The
+editors encouraged presentations that were readily accessible to those outside the specialty,
+for instance, by requesting authors to include illustrative examples. One need not feel that
+a legal background is necessary to understand the papers.
+The rest of this editors’ introduction comprises three sections: a short discussion about
+the law and why it is an interesting and challenging domain for AI, a very abbreviated
+account of the 30-plus year history of AI and Law, and a brief introduction to the papers.
+1. The nature of law
+The legal domain has many characteristics that make it especially interesting and
+challenging for AI:1
+• Diverse categories of knowledge. Law has an abundance of cases, rules, theories,
+procedures, hierarchies of authority, norms and meta-rules. Cases include actual
+precedents, that is, fact situations that have been litigated and decided at the trial court
+level, and whose decisions may have been appealed up through various appellate court
+levels of the judicial system. Hypothetical cases (“hypos”) often arise in courtroom
+oral arguments and Socratic classroom interchanges. Prototypes, often streamlined
+1 While the Editors acknowledge their bias of thinking of the law in terms of American law, most of these
+remarks apply across the vast spectrum of legal systems. Many good books and articles discuss legal reasoning,
+its nuances, and problems: An Introduction to Legal Reasoning by Edward H. Levi (University of Chicago Press,
+1949), The Bramble Bush by Karl N. Llewellyn (Oceana, 1930), How To Do Things With Rules by Twining and
+Miers (Weidenfeld & Nicolson, 1976), The Nature and Functions of Law by Berman and Greiner (Foundation
+Press, 1980), The Civil Law Tradition: An Introduction to the Legal Systems of Western Europe and Latin
+America by J. H. Merryman (Stanford University Press, 1969), The Case Law System in America by Karl N.
+Llewellyn (translated by Ansaldi, edited by Gewirtz, University of Chicago Press, 1989), “Romantic Common
+Law, Enlightened Civil Law: Legal Uniformity and the Homogenization of the European Union” by Vivian
+Grosswald Curran (Columbia Journal of European Law, Vol. 7, 2001). Several of these have gone through many
+editions and are currently available in paperback.
+E.L. Rissland et al. / Artificial Intelligence 150 (2003) 1–15 3
+hypos, capture the essence of a problem or idea. Rule-like knowledge includes statutes
+and codes, constitutional principles, norms of interpretation, rules of criminal and
+civil procedure, heuristic rules of thumb, “black letter” generalizations abstracted
+from many actual precedents, “rules of a case” summarizing the main conclusion,
+or holding, of a case. Legal systems include hierarchies of common, statutory and
+constitutional law (e.g., the Constitution prevails over statutes, statutes prevail over
+court-made rules, state statutes prevail over local ordinances) and a hierarchical system
+of courts with varying degrees of authority (e.g., appellate courts can review and
+prevail over trial courts). In the United States state and federal law fall under (nearly)
+separate hierarchies. In Europe, besides the laws of individual nations, there are those
+of the EU.
+• Explicit styles and standards of justification. In Anglo-American law stare decisis—
+the doctrine of precedent—governs much legal reasoning. Stare decisis requires that
+similar cases be decided similarly. While this doctrine puts the focus squarely on
+reasoning from case to case, it is silent on how “similarity” should be determined.
+In fact, similarity is not static; it can depend on one’s viewpoint and desired outcome.
+In civil code countries and jurisdictions, like France, Germany and Japan, the style
+of reasoning places more emphasis on reasoning with rules and codes. Of course,
+courts in common law legal systems also reason about statutory rules and codes;
+however, they give a more important role to cases in statutory interpretation than do
+courts in civil code countries. Whatever the particular standards of justification and
+explanation, the fact that the standards are explicit helps make legal systems more
+socially accountable.
+• Different modalities of reasoning. In concert with different types of knowledge, there
+are different types of reasoning, for instance, reasoning with cases alone, rules alone,
+cases and rules together, etc. As one delves further into a single modality, one often
+discerns that the reasoning is hybrid in nature. For instance, in reasoning with rules,
+one must often resort to reasoning with cases to handle gaps, conflicts, and ambiguities
+in the rules and their constituent terms.
+• Specialized repositories of knowledge. Large collections of cases are available from
+a great variety of courts. In the United States, the courts of general jurisdiction
+include state and federal trial courts and appellate courts, including state supreme
+courts and the United States Supreme Court. Several specialized courts handle areas
+like admiralty, bankruptcy, and tax law. Even hundreds of years after the fact, cases
+are available for use in analysis and, if still good law, argument. Also important are
+constitutions, federal and state statutes, local ordinances, and other charters, rules, and
+regulations of governance. Legal knowledge in the form of cases and statutes is highly
+“vascularized” in the sense that items are extensively cross-linked.2 Commercial
+2 Cases point backwards to authorities, typically precedent cases, through citations, which come in many
+types and are often introduced by so-called citation signals, such as See that indicates an authority clearly supports
+a legal proposition, But see that indicates support of a contrary proposition, Cf., that indicates support of a different
+but sufficiently analogous proposition, etc. These are set forth in style books such as The Bluebook published by
+the editors of the Columbia, Harvard, University of Pennsylvania, and Yale law journals. Citation services like
+Shepard’s compile “forward pointers” to subsequent cases that cite the given case.
+4 E.L. Rissland et al. / Artificial Intelligence 150 (2003) 1–15
+services like Shepard’s Citations keep track of such linkages—both forward and
+backward—according to a rich taxonomy of link types. There are many secondary
+sources like scholarly treatises, restatements, commercial summaries, casebooks, and
+practice guides. Sources like the restatements are compendia of generalized rules (socalled “black letter” rules) and illustrative real and hypothetical cases that committees
+of legal scholars have compiled through examination of actual cases. While most
+secondary sources do not have the authoritative status of primary sources, like enacted
+statutes and actual precedents, some are accorded considerable respect. Some sources,
+like commercial summaries in important areas like tax law, are constantly updated;
+others, like scholarly treatises and the Restatements, are revised on a much longer time
+scale. All of these give the law a vast, long-lived, and dynamic “institutional memory”;
+much of this, including the linkages, is available on-line.
+• A variety of task orientations: There are a variety of task orientations such as advocacy,
+adjudication, advising, planning and drafting, and administration. Underlying all
+of these tasks is legal analysis of the facts and circumstances and how they relate
+to relevant law. In advocacy, one takes a “side” in a controversy and argues for
+an outcome or interpretation that favors it. In adjudication, a court (i.e., a single
+judge or a panel) decides a controversy and usually publishes an opinion that puts
+forth the reasons for the decision. In advising, a lawyer examines a legal situation,
+typically while it is still evolving and before it becomes a full-blown dispute, and
+offers advice about alternative courses of action and their (legal) benefits and risks.
+Planning includes structuring contracts, negotiating commercial “deals”, developing
+estate plans, and setting up charitable trusts. Drafting includes creating the documents
+needed to implement them, as well as the formulation and writing of statutes and
+other forms of legislation. Administration includes the application of governmental
+regulations and policies, such as those governing income taxes or social security
+benefits, by officials and governmental agencies. Currently, many AI and Law efforts
+focus on advocacy. Very few, if any, tackle adjudication. AI and Law researchers may
+be bold but they are seldom vainglorious; they know that judging is an exceedingly
+complex and nuanced task involving the law’s role in society at large.3 A long line
+of scholars—including Oliver Wendell Holmes, Karl Llewellyn and Jerome Frank—
+known as the American Realists, has addressed the many philosophical, sociological,
+psychological, and economic aspects of judging; currently these issues are the focus of
+scholars from disciplines like Law and Economics and Critical Legal Studies. Advicegiving, planning, and document drafting are the day-to-day focus of most practicing
+lawyers and the topics addressed touch every aspect of life, including death and taxes.
+Interestingly, these tasks, for the most part, have received little attention from AI and
+Law researchers. Administrative law has been explored for the most part by those
+interested in rule-based (e.g., logic programming) approaches, and several systems
+have been fielded, particularly in Europe and Australia.
+3 Contrary to some popular notions, law is not a matter of simply applying rules to facts via modus ponens,
+for instance, to arrive at a conclusion. Mechanical jurisprudence, as this model has been called, is somewhat of a
+strawman. It was soundly rejected by rule skeptics like the realists. As Gardner puts it, law is more “rule-guided”
+than “rule-governed”.
+E.L. Rissland et al. / Artificial Intelligence 150 (2003) 1–15 5
+• Open-textured concepts. Concepts in the law are not black and white with hardedged boundaries between positive and negative instances. While there are central
+prototypical cases whose classifications seem clear, concept boundaries are gray zones
+and contain cases with viable competing interpretations. Legal concepts are more like
+“open” sets than “closed” sets, to use mathematical terms. The legal philosopher
+H.L.A. Hart characterized legal concepts as having a “core of settled meaning”
+and a “penumbra”. Legal concepts, therefore, cannot be modeled by unassailable,
+universally quantified necessary and sufficient conditions. In a word: they are incurably
+open-textured. Furthermore, legal concepts and the law as a whole evolve. In response
+to new situations that require resolution, concept boundaries are refined and pushed
+around, and exceptions are carved out, even from the core itself. While this makes
+legal concepts seem like blurry-edged Swiss cheese, it also enables the law to respond
+to societal change. By contrast, if everything were static and totally clear, one could
+hazard to say that the law would be dead. Unlike mathematics, as a result of open
+texture and other reasons, legal questions (e.g., what speech is protected by the First
+Amendment?) have competing, reasonable “answers” and they too evolve.
+• Adversarial truth seeking. The underlying expectation in the legal domain is that,
+through the adversarial process, ideally the truth will out. For the law, adversarial
+argument is a feature, not a bug: it is the anvil on which truth is hammered out. Legal
+argument can be viewed as an exercise in competitive theory formation: each side
+forms its theory using cases and other information that support its desired conclusions
+while at the same time minimizing, distinguishing, undercutting or avoiding the pitfalls
+of the opposing theory. Through vigorous debate between parties espousing competing
+interpretations and outcomes, the pros and cons emerge. Although one will ultimately
+prevail, it does not necessarily mean that the alternatives were without value. If they
+had been, there would not have been a debate about the issues (e.g., the parties would
+have settled). Rather it means that the interpretation that prevailed was more persuasive
+to the authority—the court—that decided the issue. This means that legal reasoning is
+“two handed”—on the one hand, on the other hand—and that defeasible reasoning and
+dialectical argument are important in law.
+• Highly reflective. The law is a very reflective intellectual discipline. It constantly
+examines and re-examines its underlying methods and missions. Jurisprudence, the
+philosophy of law, is an active area of scholarship. In providing computational models
+that address how one thinks in legal matters, AI and Law seeks to provide an alternative
+grounding for the analyses of jurisprudential scholars and new tools for investigating
+their ideas. Models of argument and case similarity are good examples of how AI and
+Law research can flesh out skeletal descriptions developed by legal scholars, and can
+provide a way to explore them to see how they work and how well they work. AI and
+Law has been described by the late Donald Berman, one of the field’s founders and
+a distinguished professor of law, as “a new analytical jurisprudence”.
+While these characteristics suggest the legal domain’s richness, they also reveal the
+promise of synergy between law and AI. The law is a domain intermediate between the
+mathematical/scientific domains AI has tackled, and the domains of everyday experience
+it hopes to tackle. The legal domain deals with real world scenarios involving all aspects of
+6 E.L. Rissland et al. / Artificial Intelligence 150 (2003) 1–15
+commerce, finance, international relationships, family relationships, governmental power,
+criminal behavior, social justice, public health and a myriad of others. At the same time,
+however, the law offers structure and constraints that may enable AI techniques to handle
+law’s complexity and diversity.
+By focusing on limited tasks and taking advantage of the available constraints and
+structure, we believe AI can make progress and move closer to its ultimate goal. The
+tasks, structure and constraints will become apparent in the following articles. Generally,
+great leverage is gained from two circumstances: First, published arguments make much
+of the legal knowledge explicit and explain how it applies to specific facts. Second, while
+every case is indeed unique there do exist stereotypical patterns of fact. Furthermore,
+while the standards for argument are complex, they do exist and can be made explicit.
+Extensive, richly networked and available knowledge, explicit standards for argument and
+explanation, cases ranging from stereotypical “core” to idiosyncratic “penumbra” are some
+of the characteristics that give AI and Law researchers a leg up and make possible their
+projects.
+2. A very brief history of AI and Law
+The field of AI and Law is at least thirty years old.4
+It has had a vibrant history.5
+Its concerns have often mirrored—and sometimes anticipated—streams of research in AI
+at large: from logic to expert systems and logic programming, from frames and scripts
+to cases and CBR and to hybrid systems, from theorem-proving to defeasible and nonmonotonic reasoning and to agents for e-commerce.
+In their 1970 Stanford Law Review article “Some Speculation about Artificial Intelligence and Legal Reasoning”, Buchanan and Headrick discussed the possibilities of modeling legal research and reasoning, particularly for advice-giving, legal analysis and argument construction, and even though they envisioned using goal-directed rule-based approaches, they presciently pointed out the importance of analogical reasoning.6 Many years
+before that, Layman Allen had begun his research program on using logic as a tool to im4 One could reach back even further and say that it is nearly 50 years old since an article “Automation in
+the Legal World” by Lucien Mehl was published in the landmark conference on the Mechanisation of Thought
+Processes held at Teddington, England in 1958; his proposal (to employ logic for legal information retrieval
+and inference) was rightly termed “very premature, to put it mildly” by one of its discussants. This conference
+contained a large number of watershed AI papers including those by Minsky (on heuristics), McCarthy (on his
+Advice Taker), Selfridge (on his Pandemonium), and Grace Hopper (on the prospects of programming).
+5 Good reviews of early work can be found in Anne Gardner’s “Law Applications”, in The Encyclopedia
+of Artificial Intelligence (John Wiley & Sons, New York, 1989), Marek Sergot’s “The Representation of Law
+in Computer Programs”, in Knowledge-Based Systems and Legal Applications (Bench-Capon (Ed.), Academic
+Press, 1991) and Cook et al.’s “The application of artificial intelligence to law: A survey of six current projects”,
+in the Proceedings of the 1981 AFIPS National Computer Conference.
+6 At that point, Buchanan and others were looking for a domain to try out ideas about the emerging techniques
+of expert systems honed from building the DENDRAL system. They chose medicine, which led to the MYCIN
+project.
+E.L. Rissland et al. / Artificial Intelligence 150 (2003) 1–15 7
+prove drafting and interpretation of legal documents.7
+In 1977, the Harvard Law Review
+published a landmark paper by L. Thorne McCarty on his TAXMAN system, which pursued a theorem-proving approach to reasoning with issues in corporate tax law. Based on
+his experiences with this early system, he began his research program to address problems
+of open texture and develop deep models of legal concepts, like stock ownership in the
+context of tax law. Both of these lines of research are on-going. In 1978, Carole Hafner
+published her doctoral research on a system that used an AI approach to improve legal
+information retrieval (IR) in the domain of negotiable instruments; it used semantic net
+representations to push beyond purely keyword-based approaches. At about this time, the
+Norwegian Center for Computers and Law, founded in 1971 by Knut Selmer and Jon Bing,
+extended its focus on IR to include intelligent techniques. With the advent of the web, research on intelligent legal IR is once again flourishing.
+In the 1980s, work in AI and Law intensified tremendously. By 1981, Donald Waterman
+and Mark Peterson at the RAND Corporation’s Center for Civil Justice had built an expert
+system for legal decision making in the settlement of product liability cases in tort law;
+they later explored the use of expert systems in the specific area of asbestosis cases.
+Marek Sergot, Robert Kowalski and their colleagues at Imperial College London used
+logic programming to model part of the British Nationality Act, a large, self-contained
+statute; in an important paper in the Communications of the ACM, they reflected on their
+project and discussed a few problematic aspects of the rule-based approach: the opentextured nature of legal predicates and the difficulties in modeling negation, exceptions, and
+counterfactual conditionals. Waterman and Peterson had encountered similar problems.
+The project at Imperial College also demonstrated how such an approach could be used to
+help “debug” a statute while it is being drafted, for instance, by finding rule conflicts and
+ambiguities. The use of executable logical models (especially in PROLOG) was extended
+to larger, more complex statutes in a large collaborative project centered on UK welfare
+benefits law. By the mid 1990s these techniques would be sufficiently mature to form
+the basis of operational systems used in local and central administrative governmental
+agencies, especially in the Netherlands and Australia. In the early 1980s, the Istituto per
+la Documentazione Giuridica (the “IDG”) in Florence, originally founded in 1968, began,
+under the directorship of Antonio Martino, to expand its activities to include AI techniques
+and to host a series of international conferences on expert systems and law.
+Anne Gardner’s 1984 doctoral dissertation at Stanford focused on the problem of what
+happens “when the rules run out”—when the antecedent of a rule uses a predicate that is
+not defined by further rules—particularly due to the inherent open-textured nature of legal
+concepts and problems involving the relationship between technical and common-sense
+7 See for instance, his 1957 article “Symbolic logic: A razor-edged tool for drafting and interpreting
+legal documents” in the Yale Law Journal. Allen advocates using normalization techniques to remediate
+syntactic difficulties (e.g., the scope of connectives in “A and B or C”), as compared, for instance, with
+dealing with problems due to open texture. These ideas have been used to draft some actual statutes (e.g.,
+in Tennessee). Improving legislative drafting was subsequently pursued by Cary deBesonnet, who developed
+a system (“CCLIPS”) for drafting legislation in Louisiana, the only state to base its laws on the Napoleonic civil
+code tradition. All of these projects are described in Computing Power and Legal Reasoning, edited by Charles
+Walter (West Publishing, 1985).
+8 E.L. Rissland et al. / Artificial Intelligence 150 (2003) 1–15
+meaning of words. It drew attention to the fact well-known in the law that one cannot
+reason by rules alone, and that in response to failure, indeterminacy, or simply the desire
+for a sanity check, one examines examples. In Gardner’s system, which analyzed so-called
+“issue spotter” questions from law school and bar exams in the offer-and-acceptance area
+of contract law, the examples were not actual specific precedents but general, prototypical,
+fact patterns. Her work sought a principled computational model of the distinction between
+“hard” and “easy” cases, much discussed in jurisprudence.8 She framed her discussion in
+terms of defeasible reasoning, a topic of intense interest today.
+While progress continued on rule-based reasoning (RBR) systems in the 1980s, there
+began to emerge a community of AI researchers who focused on reasoning with cases
+and analogies—that is, case-based reasoning. In the early 1980s, Rissland had investigated
+reasoning with hypothetical cases particularly in Socratic law school interchanges. In 1984,
+she and Ashley first reported on the legal argument program HYPO and the mechanism
+of “dimensions”. This line of research had grown out of Rissland’s earlier work on
+example-based reasoning and “constrained example generation” in mathematics.9
+Initially
+concerned with the problem of generating hypotheticals (hence its name), HYPO reached
+full maturity as a case-based argumentation program in Ashley’s doctoral dissertation. It
+was the first true CBR system in AI and Law, and one of the pioneering systems in CBR in
+general. Thus by the mid 1980s, RBR and CBR approaches were making themselves felt
+in AI and Law.
+In her excellent review article, Anne Gardner points out that this bifurcation between
+rule-based and case-based approaches is longstanding. We note that often champions of
+one approach appreciate full well the importance or need for the other (e.g., Buchanan),
+switch their focus (e.g., McCarty), seek to bridge the gap between them (e.g., Gardner),
+attempt to reconcile them through reconstruction (e.g., Prakken, Sartor and Bench-Capon),
+or are intrigued by hybrid approaches (e.g., Rissland).
+In the mid 1980s, a few leading American law schools began conducting seminars on
+AI and Law. The first was given at Stanford Law School in 1984 by three law professors:
+Paul Brest (later to become Dean), Tom Heller and Bob Mnookin. Rissland launched her
+seminar on AI and Legal Reasoning at the Harvard Law School in 1985, and Berman and
+Hafner theirs at Northeastern in 1987. Over the years, such seminars have proliferated and
+have served as forums bringing together the AI and legal communities.
+8
+If all the experts consulted on a question agree as to its interpretation, it is easy; otherwise, it is hard. Cases
+that get settled before they are litigated are typically easy, and those that become court cases, especially those
+that make their way up the appellate ladder, are hard. Those that end up in the Supreme Court are very hard. One
+should note common wisdom says that 80% of all disputes are settled “on the court house steps”, that is, before
+they go to trial.
+9
+It is interesting to note that Rissland first reported on her “constrained example generation” (CEG) model
+that used a “retrieval-plus-modifications” approach to generate counter-examples in mathematics at the same 1980
+conference, The Third Biennial Conference of the Canadian Society for Computational Studies of Intelligence, at
+which McCarty and Sridharan reported on their “prototypes-plus-deformations” model of legal argument. Theirs
+were back-to-back papers in the same session. CEG was in fact an early example of adaptive CBR: retrieve a good
+(enough) example that matches as many of the desiderata as possible from an Examples-space (a Case Base) and
+then try to satisfy other goals with modifications.
+E.L. Rissland et al. / Artificial Intelligence 150 (2003) 1–15 9
+The 1980s saw a significant ramping up of interest in AI and solidifying of the research
+community. A few specialized conferences, such as those at the IDG in Florence and at the
+University of Houston were followed by an IJCAI-85 panel of AI and Law researchers
+aimed at a general AI audience.10 The founding of the Computer/Law Institute at the
+Vrije Universiteit in 1985 by Guy Vandenburghe, at which AI and Law research was
+subsequently directed by Anja Oskamp, led to research groups throughout the Netherlands.
+Research on AI and Law in Japan began at this time as well in Hajime Yoshino’s lab
+at Meiji Gakuin University in Tokyo. Japan’s Fifth Generation Computer System Project
+(1982–1995) provided great impetus, particularly in the use of expert systems and other
+logic-based techniques.
+All this happened before 1987, a watershed year in AI and Law. The first International
+Conference on AI and Law (ICAIL) in 1987, organized by Carole Hafner and Don Berman,
+was held at Northeastern University, where they had just established a center for Computer
+Science and Law. Since then these biennial conferences have served as the anchor and
+showcase for the entire community.11 This marks the beginning of what we might call the
+contemporary era of AI and Law. After the second ICAIL meeting in 1989, a committee
+was formed to develop a charter for an international organization. This led to the founding
+of the International Association for AI and Law in 1991. The journal Artificial Intelligence
+and Law, the journal of record for the AI and Law community, made its debut in 1992.12
+Its special issues provide excellent snapshots of progress in an area. A recent triple
+issue in memory of Donald Berman, one of the field’s leading lights and most beloved
+members, contains articles by many of the field’s stalwarts (McCarty, Ashley, Rissland,
+Sartor, Bench-Capon, Prakken), as well as a paper by Hafner that coalesces and updates
+her three ICAIL conference papers with Berman that remain among the crown jewels of
+the field. In the same issue, McCarty reports on his program to use deontic logic (the logic
+of permissions and obligations, rights and duties most closely associated with the famous
+Yale legal scholar Wesley Hohfeld13) to represent difficult legal concepts like ownership
+and shed light on this topic of longstanding interest in jurisprudence.
+It was also in 1987 that MIT Press published Anne Gardner’s An Artificial Intelligence
+Approach to Legal Reasoning, a revision of her 1984 Stanford Ph.D. dissertation.14 It was
+10 The members of the panel were Edwina Rissland (Chair), Don Waterman, Anne Gardner, Thorne McCarty,
+Kevin Ashley, and Michael Dyer. They discussed many of the enduring issues—like open texture and the
+complementarity of CBR and RBR—still of interest today. They were cautious about the creation of intelligent
+aids for legal practitioners.
+11 ICAIL-87 was in Boston; ICAIL-89, Vancouver; ICAIL-91, Oxford; ICAIL-93, Amsterdam; ICAIL95, College Park, Maryland; ICAIL-97, Melbourne, ICAIL-99, Oslo; ICAIL-01, St. Louis; and ICAIL-03 is
+scheduled for Edinburgh. Proceedings from the conferences are available from the ACM.
+12 Volume 1, No. 1 contained articles on a theory of case-based argument (Skalak and Rissland), deontic logic
+as a representation of law (Jones and Sergot), legal knowledge-based systems (Bench-Capon and Coenen), legal
+practice systems (Lauritsen), and a review of Ashley’s book. Such an interesting mix of topics is typical.
+13 His ideas appeared in a pair of Yale Law Journal articles in 1913 and 1917.
+14 The initial chapters provide an excellent introduction to the jurisprudence of open texture, rules, legal
+positivism, judicial discretion, etc., and the positions of the legal theorists (e.g., Hart, Llewellyn, Fuller, Dworkin)
+most closely associated with these topics. Ron Loui’s “Hart’s Critics on Defeasible Concepts and Ascriptivism”
+in the proceedings of ICAIL-95 gives a detailed and scholarly discussion of Hart and defeasibility.
+10 E.L. Rissland et al. / Artificial Intelligence 150 (2003) 1–15
+the first of two very influential Ph.D. theses published in the short-lived MIT Press series
+on AI and Law, edited by McCarty and Rissland. The second was Kevin Ashley’s Modeling
+Legal Argument (1990), his dissertation done with Rissland in her lab at UMass/Amherst.
+In 1987, Oxford University Press published Richard Susskind’s book Expert Systems in
+Law, based on his doctoral work; it had a wide influence in Europe.
+Ashley’s dissertation, completed in 1988, presents a model of legal argument in
+which reasoning with concrete cases—that is, actual appellate precedents—is paramount.
+HYPO produced point-counterpoint style arguments in the area of trade secrets law.
+It provided a detailed model of many of the key ingredients of the Anglo-American
+doctrine of precedent (stare decisis): how to assess relevancy, compare cases, analogize
+and distinguish cases using relevant similarities and differences. HYPO has had many
+progeny. One of the many systems, Vincent Aleven’s CATO system, described in this
+special issue, teaches law students how to create case-based arguments. At its core are
+“factors”, a mechanism deriving from HYPO-style “dimensions”. The wide influence of
+the HYPO/CATO theory is manifest in the range of work that uses arguments generated by
+these systems as benchmarks for evaluation of other systems and theories. The paper by
+Bench-Capon and Sartor in this issue is a case in point.
+Also in 1988, the first Jurix conference was held in Amsterdam, reflecting the growing
+activity in the Netherlands, particularly in knowledge-based systems. The first conference
+was a purely local event, but these annual conferences rapidly acquired an international
+flavor, and since 1990 have provided an important forum for European researchers. The
+European dimension was completed in 2002 when Jurix was held in London, the first time
+it had left the Netherlands and Belgium. In 1988, the American Association for Artificial
+Intelligence (AAAI) founded a subgroup in Law at the urging of Rissland who then served
+as Liaison; the subgroup was in existence for about ten years until its function was largely
+replaced by the International Association for AI and Law.
+In 1990, the Yale Law Journal published Rissland’s article “Artificial Intelligence and
+Law: Stepping Stones to a Model of Legal Reasoning”. It both provided a progress report
+and made the case to the legal community of the interest and importance of work done
+in the area. In June and July 1991, a pair of special issues of the International Journal of
+Man-Machine Studies, edited by Rissland, showcased many of the boldest projects of the
+day: HYPO, CABARET, GREBE, SCALIR, and PROLEXS, as well as two early papers by
+Tom Gordon and by Trevor Bench-Capon and Tom Routen on formalizing legal argument
+using techniques from logic. These latter two papers marked the beginning of a stream of
+research on argument that has grown into a torrent in recent years.
+A few papers in these IJMMS issues explored reasoning with cases in concert with
+reasoning with rules.15 Rissland and her student David Skalak reported on CABARET,
+the first truly hybrid CBR-RBR reasoner; it used an agenda-based architecture to integrate
+classic rule-based reasoning and HYPO-style CBR in the statutory area of US tax law
+15 One can view Gardner’s program in this way also: for instance, the program reasons with ‘cases’ when the
+rules run out. However, her cases were not concrete cases (i.e., actual legal precedents) as they are in CABARET
+and to a large extent in GREBE, which also includes prototypical cases that are not precedents. An earlier doctoral
+project at MIT by Jeffrey Meldman in 1975 on the law of assault and battery also used rules and cases, but the
+cases were represented as rules that encoded their rationes decidendi.
+E.L. Rissland et al. / Artificial Intelligence 150 (2003) 1–15 11
+concerning the home office deduction. From the viewpoint of AI, the project sought to
+investigate the architecture and control issues needed to use CBR and RBR in concert
+to complement and supplement each other; CABARET did not simply call one serially
+after the other, but instead dynamically and opportunistically interleaved them. From the
+viewpoint of law, the project sought to explore ways to operationalize a theory of statutory
+interpretation that intertwines reasoning with cases and reasoning with rules in a threetiered theory of argument strategies, moves, and primitives. The agenda was controlled by
+heuristic rules that embodied the theory: for instance, if all but one of a rule’s prerequisites
+are satisfied (i.e., there is a rule-based “near miss”), CABARET used cases to argue that
+the predicate had actually been satisfied, or alternatively, that it was not necessary. Rissland
+and Skalak purposely chose to address a reduced version of the problem of statutory
+interpretation that explicitly did not consider policies, principles and other important
+normative considerations.
+Karl Branting’s paper in the same issue described how structure mapping from cognitive
+science and classic A* search from AI are used in GREBE, his program that could reuse existing arguments and portions of them16 to generate arguments for new cases in
+the domain of Texas worker’s compensation law. GREBE can also be viewed as a hybrid
+CBR/RBR program since it reasons with both rules and cases. For instance, it creates
+(structural) analogies when the rules run out or are otherwise inconclusive to show
+a legal predicate has been satisfied. In our special issue, Branting uses his experience
+with GREBE to elucidate key aspects of legal argument structure having to do with
+“warrants”, an idea originating in Toulmin’s classic work. There was also some exploration
+of hybrid systems using blackboards (e.g., PROLEXS) and sub-symbolic connectionist
+models (SCALIR). These veins have not been much emphasized, although interest in such
+approaches regularly resurfaces.
+The theme of heuristic search in the service of argument creation became the focus
+of another project by Rissland and Skalak. Since the space of information is far too
+vast to explore profligately, and since one cannot conceivably use everything discovered,
+there is a need to control the search for and the accumulation of pieces of information.
+The BankXX project explored how knowledge about an evolving argument—its growing
+collection of supporting, contrary, leading, best cases, legal theories, prototypes, etc.—
+could guide a program to uncover and harvest information using best-first heuristic search
+of a space of legal knowledge (about personal bankruptcy law) that included legal cases,
+citations, domain factors, theories, and stories.
+Since its debut, hybrid CBR-RBR has been explored by others, most notably John
+Zeleznikow, Andrew Stranieri, George Vossos, Dan Hunter and their colleagues in
+Australia, who have built several hybrid systems. Ikbals, built by Vossos in conjunction
+with his 1995 Ph.D. at La Trobe University in Melbourne, was a CBR-RBR hybrid with
+machine learning capabilities that operated in the law of loans provided by financial
+institutions. Split-Up integrated neural nets and rules to determine property divisions in
+divorce settlements. Also, in the mid 90s, the HELIC-II project of Katsumi Nitta and
+16 These are called exemplar-based explanations or EBEs.
+12 E.L. Rissland et al. / Artificial Intelligence 150 (2003) 1–15
+Masato Shibasaki, Tokyo Institute of Technology, combined RBR and CBR, and explored
+defeasible and dialectical reasoning.
+By the mid 1990s, the field was clearly well on its way to tackling some of the
+central issues in legal reasoning: reasoning with rules (especially in the face of conflict
+between rules), reasoning with cases, and open texture in legal predicates. There was now
+a well-established international community; several members of the second generation had
+fledged and left their Ph.D. institutions to establish their own research programs; and ideas
+were being explored by others than their originators.
+The 1990s saw a renewal of interest in legal information retrieval, in part because of
+improved retrieval engines, new learning-based information extraction techniques, and
+the dramatic rise of the World Wide Web. For instance, in 1995, Hafner edited a special
+issue of Artificial Intelligence and Law devoted to intelligent legal text-based systems.17
+Conceptual retrieval and the automation of the representation of legal sources have long
+been goals of AI and Law research. This focus was represented in that issue by the
+Flexlaw system of J.C. Smith and his group at the University of British Columbia. Also in
+that issue Graham Greenleaf and his colleagues made some pioneering reflections on the
+relationships between knowledge-based systems, databases, and hypertext systems. With
+the advent of the WWW this became a very important topic. Greenleaf and his group
+founded the Australasian Legal Information Institute (AusLII) in the mid 1990s to further
+develop this work. Subsequently there have been additional efforts in this direction both in
+Europe and the US. For instance, Marie-Francine Moens explored the use of AI techniques
+for automatic text processing for IR in her 1999 doctoral dissertation at the Katholieke
+Universiteit Leuven, Belgium. In the mid 1990s, Rissland and her doctoral student Jody
+Daniels developed SPIRE, a system that used results of HYPO-style CBR analysis to
+drive a full text retrieval engine that operated at two levels: to retrieve cases (i.e., full
+text opinions), and within individual cases to retrieve passages. In the late 1990s, Ashley
+and his student Stefanie Brüninghaus developed SMILE, a system that employed learningbased techniques to extract information about factors from full text sources. The article by
+Jackson et al. in this issue continues in this vein; it shows how progress is being made in
+an applications context.
+In Europe, conceptual retrieval, principled systems development, and sharing and reuse
+of knowledge based on ontologies were given additional impulse by the need to harmonize
+legislation across the polyglot countries of the European Union. Initiated through the Ph.D.
+work of Andre Valente at Amsterdam and Robert van Kralingen and Pepijn Visser at
+Leiden, and further developed by Joost Breuker and Radboud Winkels at the University
+of Amsterdam, and by Visser and Bench-Capon at the University of Liverpool, legal
+ontologies are the focus of much activity and the subject of regular workshops.
+Since the 1990s, a burgeoning community has focused on developing models of
+argumentation. Some researchers like Giovanni Sartor and Ron Loui have concentrated
+on models that address reasoning with norms. In the mid 1990s, Tom Gordon developed
+a dialogue-based model of legal pleading, and Loui and Norman developed a discourse17 The lead article by Howard Turtle, who has done much foundational work in IR, provides a good introduction
+to the issues.
+E.L. Rissland et al. / Artificial Intelligence 150 (2003) 1–15 13
+based model of legal argumentation.18 Loui and Norman focused on defining categories of
+rationales used in adversarial arguments, such as “compression” of complex, specific rules
+into simpler, general ones, and the forms of attack appropriate for each. Gordon developed
+his dialogue approach into the web-based ZENO system, which was used in Germany for
+facilitating public commentary on a planned high technology park and residential zone, and
+Loui developed his web-based “Room 5”, which allowed users to argue about US Supreme
+Court cases involving such issues as freedom of speech. Others who have sought to provide
+logic-based models of legal argument include Jeff Horty and many in the Japanese AI and
+Law community, including Katsumi Nitta and Hajime Yoshino. Several doctoral theses
+and subsequent books from the energetic Dutch community, such as those of Jaap Hage,
+Henry Prakken and Bart Verheij, have made significant strides on developing models of
+argumentation.19 Many of these projects have dealt with the sort of arguments performed
+by HYPO and its progeny. Over the years, work in this area has only intensified; hardly an
+issue of Artificial Intelligence and Law is published without some article addressing this
+topic. In 1996 a special double issue of Artificial Intelligence and Law, edited by Prakken
+and Sartor, was devoted to logical models of legal argumentation, and in 2000, another
+special double issue, edited by Feteris and Prakken, focused on formal and informal models
+of dialectical legal argument. In our special issue, the article by Bench-Capon and Sartor
+presents a well-developed theory of case-based legal argument that involves the use of
+HYPO-style dimensions/CATO-style factors as well as norms. The article by Verheij shows
+how ideas about dialectical argument can be used to build environments to assist in the
+creation of arguments.
+3. Introducing this issue
+This special issue of Artificial Intelligence presents a sampling of current work in the
+field of AI and Law. Many of the papers continue to work veins of research mined since
+its birth, and also of long-standing centrality to the law itself. For instance, in the first
+article, Ashley and Rissland address issues at the core of legal reasoning, particularly how
+the law reasons with cases and analogies, how as a system the law can be said to learn,
+and the relationship between representing relevant similarities among cases and modeling
+learning.
+Branting’s article integrates his previous work on GREBE with his work on representing
+the justifications of legal decisions—the so-called rationes decidendi. He focuses on
+showing how the structure of a legal decision affects its use in analyzing and deciding
+subsequent cases. Branting proposes modeling decisions as reduction graphs in which
+18 For example, see Loui and Norman’s “Rationales and Argument Moves” in Artificial Intelligence and Law
+(Vol. 3, No. 3, 1995) and Gordon’s The Pleadings Game—An Artificial Model of Procedural Justice (Kluwer,
+1995).
+19 Hage, Reasoning with Rules, An Essay on Legal Reasoning and its Underlying Logic (Kluwer, 1997).
+Prakken, Logical Tools for Modelling Legal Argument—A Study of Defeasible Reasoning in Law (Kluwer, 1997).
+Verheij, Rules, Reasons, and Arguments: Formal Studies of Argumentation and Defeat (Dissertation, U. Maastricht, 1996).
+14 E.L. Rissland et al. / Artificial Intelligence 150 (2003) 1–15
+each reduction operator corresponds to a justification step, or warrant, available for use
+in arguments about other cases. This model shows how a decision’s justification, not just
+its facts and outcome, influences how it can be used to make arguments about other cases.
+It also permits portions of multiple decisions to be combined to form new arguments.
+Bench-Capon’s and Sartor’s article develops a logically-grounded account of how cases
+are used in legal reasoning, particularly for defeasible reasoning. According to their view,
+reasoning with cases is a process of theory construction, evaluation, and application. They
+provide a definition of what constitutes a theory of a body of case law, and how competitive
+theories are constructed. Their work is a capstone of a line of inquiry by the logic-oriented
+sub-community of AI and Law that has long pursued an agenda to describe in logical
+terms HYPO/CATO-style reasoning: in particular, the role of factors and dimensions, and
+to incorporate it in a regime that includes rules and norms. Their approach also gives
+a central role to a notion of the purposes motivating legal theories, revealed in cases and
+used to ground preferences between rules.
+McLaren shows how the idea of A* search used so potently in GREBE can be coupled
+with new insights on how to “operationalize” norms and past rationales for analyzing new
+fact situations. He does this, not in the law, but in ethics, a related normative domain full
+of open texture, precedents, and hard questions but offering somewhat less structure and
+constraint than law for AI techniques to employ. In his SIROCCO system, McLaren’s
+refined approach to structure mapping and A* search includes a more nuanced assessment
+of matching that takes into account multiple levels of representation. He evaluates these
+ideas in the context of retrieval.
+Aleven presents the definitive report on his CATO project. CATO harnesses key
+mechanisms of HYPO-style reasoning to teach law students how to make good precedentbased arguments. He enriches the underlying HYPO model by refining and extending
+its representation and use of factors, by focusing on representing the reasons why
+factors matter as relevant similarities or differences among cases. He evaluates both the
+contribution these reasons make to argument quality and how well CATO teaches law
+students to make such arguments. In the movie The Paper Chase, the character of Professor
+Kingsfield, a stereotypical curmudgeon of a law professor, throws down the gauntlet to his
+fresh-faced 1L’s (first-year students) by announcing that, “You come in here with a head
+full of mush and you leave thinking like a lawyer.” Aleven’s CATO shows us a way—
+a gentler if not better way—to accomplish this.
+Jackson and his colleagues give us a window on the use of intelligent information
+retrieval and extraction in the legal domain. They report on their efforts to apply
+information extraction techniques to full text court opinions in order to ferret out the
+linkages between cases. Linkages are used to identify and summarize the (procedural)
+history of an individual case as it makes its way through the court system, and to discern
+how a case is commented upon and viewed in subsequent cases that discuss it and how it
+interprets prior cases that it cites. As anyone with even the most casual contact with natural
+language understanding knows, this is far from a simple task, since cases can be cited and
+referred to in a daunting variety of ways, and from widely disparate portions of a text.
+Developing a system that once trained does this automatically and to a level that meets
+commercial standards is a challenge.
+E.L. Rissland et al. / Artificial Intelligence 150 (2003) 1–15 15
+The paper by Verheij is one of several recent attempts to implement and explore the
+consequences of new theories of argument. Verheij explores the use of two theories of
+argument: one that emphasizes the role of support and undercutting, and a second that
+allows for argumentation about warrants and the “defeaters” themselves. He demonstrates
+how ideas about informal logic—defeasible reasoning in particular—can contribute to
+a technology for those who need to author, analyze, visualize, or collaborate in making
+disputational arguments. As history shows, pictorial devices and logic games have been
+important in logic, especially at times of intellectual revolution.20 Work like Verheij’s
+strives to show how a new understanding of dialectic can improve on the standard Toulmin
+diagram. While lawyers and law students may not need such tools, untrained persons who
+need to understand the law may benefit. The successful schematic has explanatory value
+and imposes discipline. Indeed, something like Verheij’s system may one day be available
+in popular software, just as grammar-checking has become a standard in word processors.
+In conclusion, in an age when lay people have ever-growing access to legal data and
+when their interactions with an e-bureaucracy are more frequent and more subject to
+automated regulation, the real impact of AI and Law may be on ordinary citizens and
+the kind of computerized society they live in. What kinds of e-commerce contracts will
+be negotiated by agents, and what sort of grievance procedures will be available when
+things don’t work out as hoped? What kinds of electronic billing, securities oversight, tax
+collection, profiling, etc. will there be? These questions are difficult even when they involve
+human experts; what are the prospects when they involve artificial agents? Lawyers and
+ordinary citizens alike are rightly suspicious of the dictates of naively interpreted rules, and
+our legal systems have worked long and hard to incorporate nuanced reasoning that takes
+into account the special circumstances of individual cases as well as the larger goals and
+purposes of society. In developing sturdy and stable social systems suitable for automation,
+people may want their electronic societies, or the electronic faces of their institutions, to
+offer the protections of the legal system’s complex structure and interpretive traditions.
+That kind of knowledge can only come from progress in AI and Law.
+Acknowledgements
+The editors appreciate the assistance they have received from Carole Hafner, Anja
+Oskamp, and others in the AI and Law community in preparing this article. In particular,
+they thank Trevor Bench-Capon for his ever thoughtful comments. They are especially
+grateful to Anne Gardner for her extensive and detailed comments. They, of course,
+acknowledge the abundant effort of all those who submitted articles for this special issue
+and those who reviewed them.
+20 Martin Gardner wrote the book Logic Machines and Diagrams, Layman Allen developed the game WFF’n
+Proof to teach logical reasoning, and proper intellectual historians cite Peirce’s circles alongside Frege’s strokes.
